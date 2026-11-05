@@ -1,7 +1,7 @@
 # Adsorption endpoint forecasting and sequential adoption
 
-Local reproduction release for *Learning when to stop adsorption kinetic measurements through selective endpoint forecasting*.
-The explicitly supplied final main text and SI are fingerprinted in `provenance/manuscript_versions.json`. Original project files, manuscript Word files and frozen models were not overwritten. No remote repository has been created.
+Reproducibility code, data and frozen models for *Learning when to stop adsorption kinetic measurements through selective endpoint forecasting*.
+The explicitly supplied final main text and SI are fingerprinted in `provenance/manuscript_versions.json`. Original project files, manuscript Word files and frozen models were not overwritten. 
 
 ## Installation
 
@@ -91,4 +91,4 @@ The benchmark retains130 scored curves/31 families/34 DOIs and a separate held m
 
 Original project code is licensed under the **[MIT License](LICENSE)**. See [LICENSE_SCOPE.md](LICENSE_SCOPE.md) for the covered source/documentation and the separate status of data, models, research records, manuscript materials and third-party dependencies. Their rights are not replaced by the code licence.
 
-For GitHub, place this folder's **contents** at the repository root, including `README.md`, `LICENSE` and `.gitignore`. The sibling ZIP is the downloadable equivalent and may be attached as a Release asset. See [GITHUB_UPLOAD.md](GITHUB_UPLOAD.md). This task has not uploaded files or created a repository; no public URL/DOI is asserted. Confirm applicable redistribution terms for non-code research assets before public posting. Publisher PDFs, original Word files, credentials, environments and unrelated history remain excluded.
+For GitHub, place this folder's **contents** at the repository root, including `README.md`, `LICENSE` and `.gitignore`. The sibling ZIP is the downloadable equivalent and may be attached as a Release asset. See [GITHUB_UPLOAD.md](GITHUB_UPLOAD.md).  Confirm applicable redistribution terms for non-code research assets before public posting. Publisher PDFs, original Word files, credentials, environments and unrelated history remain excluded.
