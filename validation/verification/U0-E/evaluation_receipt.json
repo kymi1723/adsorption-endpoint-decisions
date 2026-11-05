@@ -1,0 +1,10 @@
+{
+  "scheme": "U0-E",
+  "model_count": 15,
+  "evaluated_curves": 130,
+  "action_rows": 520,
+  "fresh_model_score_max_difference_pp": null,
+  "model_directory": "frozen release models",
+  "test_responses_used_for_threshold_selection": false,
+  "training_runs": 0
+}

@@ -1,0 +1,17 @@
+{
+  "model_sha256": "cf6daf11944e77251cf190480fec82f3676f51b50e63640e11c3955326588cb4",
+  "U0_E_thresholds": {
+    "Learned": 2.1167078708551017,
+    "H1": 0.7008000078183579,
+    "H2": 0.0019336565264982397,
+    "H3": 0.10970778213584274
+  },
+  "excluded_family": "China_Weifang_Qingdao_Changzhou_Zheng_Li_Zhang",
+  "n_curves": 3,
+  "n_prefixes": 12,
+  "n_training": 53,
+  "n_training_families": 7,
+  "calibration_curves": 25,
+  "calibration_families": 6,
+  "freeze_status": "all scores computed with archived estimator and original feature recipe, no training"
+}

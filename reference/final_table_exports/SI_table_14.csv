@@ -1,0 +1,5 @@
+﻿Model variant,Recorded outcome,Interpretation and limit
+Direct tolerance-event supervision (E5),Original-layer conditional violation frequency changed from 3.45% to 7.59%; transfer adopted less and waited longer,Learning an error event directly did not improve both adoption and risk in that archived realization
+Full-prefix training scheme (PFX),"Transfer waiting decreased by 12.30 min and mean20 weighted loss by 0.353721, but conditional violation rates in original/transfer were 15.45%/13.33%",Different prefix training and weights; not a single-variable ablation
+PSO/latest-value predictor selection (M2),Risk rose on original layer; transfer mean20 loss was 0.6028 higher than the learned stopping policy,Predictor complementarity need not produce a better stopping policy
+Per-source zero-violation calibration,Transfer conditional violation 6.4516%; mean20 loss 1.4246 higher,Zero calibration-set violations do not imply zero held-out violations

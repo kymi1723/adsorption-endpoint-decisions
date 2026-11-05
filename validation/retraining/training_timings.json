@@ -1,0 +1,122 @@
+[
+  {
+    "case_id": "original_fold_00",
+    "training_rows": 14084,
+    "tree_fit_seconds": 0.25182260014116764,
+    "serialization_seconds": 0.03717070026323199,
+    "weight_sum": 1.0,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_01",
+    "training_rows": 14084,
+    "tree_fit_seconds": 0.1864677001722157,
+    "serialization_seconds": 0.023789699655026197,
+    "weight_sum": 1.0,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_02",
+    "training_rows": 14084,
+    "tree_fit_seconds": 0.17335520032793283,
+    "serialization_seconds": 0.024824100080877542,
+    "weight_sum": 1.0,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_03",
+    "training_rows": 14592,
+    "tree_fit_seconds": 0.18252609996125102,
+    "serialization_seconds": 0.024210999719798565,
+    "weight_sum": 1.0,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_04",
+    "training_rows": 14084,
+    "tree_fit_seconds": 0.17025099974125624,
+    "serialization_seconds": 0.023513699881732464,
+    "weight_sum": 1.0,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_05",
+    "training_rows": 14468,
+    "tree_fit_seconds": 0.18180869985371828,
+    "serialization_seconds": 0.025202599819749594,
+    "weight_sum": 1.0,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_06",
+    "training_rows": 14084,
+    "tree_fit_seconds": 0.17166229989379644,
+    "serialization_seconds": 0.02608049986883998,
+    "weight_sum": 1.0,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_07",
+    "training_rows": 1284,
+    "tree_fit_seconds": 0.10151680000126362,
+    "serialization_seconds": 0.024228000082075596,
+    "weight_sum": 0.9999999999999999,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_08",
+    "training_rows": 14084,
+    "tree_fit_seconds": 0.17444470012560487,
+    "serialization_seconds": 0.02490529976785183,
+    "weight_sum": 1.0,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_09",
+    "training_rows": 14564,
+    "tree_fit_seconds": 0.1826992998830974,
+    "serialization_seconds": 0.02515970030799508,
+    "weight_sum": 0.9999999999999998,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_10",
+    "training_rows": 14084,
+    "tree_fit_seconds": 0.1839258000254631,
+    "serialization_seconds": 0.025438399985432625,
+    "weight_sum": 1.0,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_11",
+    "training_rows": 14084,
+    "tree_fit_seconds": 0.17226639995351434,
+    "serialization_seconds": 0.023810500279068947,
+    "weight_sum": 1.0,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_12",
+    "training_rows": 13996,
+    "tree_fit_seconds": 0.17226729961112142,
+    "serialization_seconds": 0.029931899625808,
+    "weight_sum": 0.9999999999999999,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fold_13",
+    "training_rows": 14588,
+    "tree_fit_seconds": 0.1722384002059698,
+    "serialization_seconds": 0.023488599807024002,
+    "weight_sum": 0.9999999999999999,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  },
+  {
+    "case_id": "original_fit_cal_to_transfer",
+    "training_rows": 14596,
+    "tree_fit_seconds": 0.1828638999722898,
+    "serialization_seconds": 0.02860249998047948,
+    "weight_sum": 1.0,
+    "scope": "model.fit plus threadpool-limit context entry/restore; PSO/features/model serialization excluded"
+  }
+]

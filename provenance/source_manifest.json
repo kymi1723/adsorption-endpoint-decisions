@@ -1,0 +1,1103 @@
+[
+  {
+    "source": "tools/research_models/prefix_budget.py",
+    "destination": "tools/research_models/prefix_budget.py",
+    "sha256": "2f8f3c73232144d9c882df8801cebc70944fea12879e20e6013a83db0642a225",
+    "bytes": 1798
+  },
+  {
+    "source": "tools/research_models/target_input_cache.py",
+    "destination": "tools/research_models/target_input_cache.py",
+    "sha256": "1ef792a0951f943644a3d22b50d222cfb26eb9e46fbe7e826ec6cb0e4fa83c8b",
+    "bytes": 1118
+  },
+  {
+    "source": "tools/research_models/source_sequential_acceptance.py",
+    "destination": "tools/research_models/source_sequential_acceptance.py",
+    "sha256": "5be8e9b32766b34fe5402cc80f3afe50f1e7482cc6b1b77e530ae32d6b5ee35c",
+    "bytes": 6927
+  },
+  {
+    "source": "tools/research_models/fixed_time_acceptance.py",
+    "destination": "tools/research_models/fixed_time_acceptance.py",
+    "sha256": "05e165ab0f21a6c4dd87d2309fdc280a2f9bed0f1864a096cd53d7602715557b",
+    "bytes": 4252
+  },
+  {
+    "source": "tools/research_models/sequential_heuristics.py",
+    "destination": "tools/research_models/sequential_heuristics.py",
+    "sha256": "f950b6a69bdd14d4b555fd037d406f78d1f3fba8e369933d8d8cffbea192c496",
+    "bytes": 3252
+  },
+  {
+    "source": "tools/research_models/calibration_robustness.py",
+    "destination": "tools/research_models/calibration_robustness.py",
+    "sha256": "bffc1dca6ea805f0f69071f13a023d65e20d942a3c688f44b65a6e1c604050c8",
+    "bytes": 3305
+  },
+  {
+    "source": "working/research_batches/joint_sampling_policy_work/scripts/features.py",
+    "source_sha256": "f7188390d2ac60dc2a95d956b00d58896c6cf7911c56159e45c76d64309fb090",
+    "destination": "endpoint_release/features.py",
+    "extracted_functions": [
+      "state_vector"
+    ],
+    "adaptation": "original bodies; replace project-global imports with package-local imports only"
+  },
+  {
+    "source": "working/research_batches/joint_sampling_policy_work/scripts/risk_models.py",
+    "source_sha256": "eca2622a626c38bf09f1ba87dfb08c568ab073c52b46df756f982fde84b8461f",
+    "destination": "endpoint_release/weights.py",
+    "extracted_functions": [
+      "hierarchy_weights"
+    ],
+    "adaptation": "original bodies; replace project-global imports with package-local imports only"
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/protocol/folds.json",
+    "destination": "configs/folds.json",
+    "sha256": "78f23ad357635a6110a83122dbc489d8a3303aba85120ad7f7713bf2701a2ef9",
+    "bytes": 80254
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/protocol/training_recipe.json",
+    "destination": "configs/training_recipe.json",
+    "sha256": "5a110a57a5aa22417e951d2c6d619bd7601d597a1635183a898ac417102628a0",
+    "bytes": 1681
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/protocol/dependency_components.json",
+    "destination": "configs/dependency_components.json",
+    "sha256": "868419900ec4bfc222366b059fbc9be933b9b90704d01d8b3d2ad183846f0dee",
+    "bytes": 9565
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/protocol/normalization_provenance.csv",
+    "destination": "data/normalization_provenance.csv",
+    "sha256": "24029a71e61ee0bb24af9bbb30a921aa09efa47b43aecae7c4f4715360db1a48",
+    "bytes": 28825
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/protocol/group_membership.csv",
+    "destination": "data/group_membership.csv",
+    "sha256": "4566ca6fba2dbd2da71da43ffda5524a3556b8ed94d73faf77ea3ac808e07869",
+    "bytes": 14060
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/protocol/dependency_edges.csv",
+    "destination": "data/dependency_edges.csv",
+    "sha256": "bbaafd4579ebfbffc59e253e474b718ad91b04d525dc54e94334dfd6c491ee9f",
+    "bytes": 208775
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_00/R0_PSO.joblib",
+    "destination": "models/original_fold_00/R0_PSO.joblib",
+    "sha256": "ee3168bf434f23994b6e998d931e1ff3154559648fe94d32b2ea626ac94055ab",
+    "bytes": 83251
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_00/R0_PSO.json",
+    "destination": "models/original_fold_00/R0_PSO.json",
+    "sha256": "e445b2e20a128f64ee3b12d9e086c97fe588df75f64a321b330ee4166625a23f",
+    "bytes": 468500
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_01/R0_PSO.joblib",
+    "destination": "models/original_fold_01/R0_PSO.joblib",
+    "sha256": "ee3168bf434f23994b6e998d931e1ff3154559648fe94d32b2ea626ac94055ab",
+    "bytes": 83251
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_01/R0_PSO.json",
+    "destination": "models/original_fold_01/R0_PSO.json",
+    "sha256": "b3b3560b1691127fc22c387470ce1d5d49cb43c937448ec5407e4351aedd72e3",
+    "bytes": 468501
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_02/R0_PSO.joblib",
+    "destination": "models/original_fold_02/R0_PSO.joblib",
+    "sha256": "ee3168bf434f23994b6e998d931e1ff3154559648fe94d32b2ea626ac94055ab",
+    "bytes": 83251
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_02/R0_PSO.json",
+    "destination": "models/original_fold_02/R0_PSO.json",
+    "sha256": "644aa3fd8900ad13464adaad7d6317a59f5581fb4d7111969cd6be801cd9a4e8",
+    "bytes": 468500
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_03/R0_PSO.joblib",
+    "destination": "models/original_fold_03/R0_PSO.joblib",
+    "sha256": "490a6c4ba095b9a46ed7385c639d1253eee782f115fad08fba988866a46fed4f",
+    "bytes": 90813
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_03/R0_PSO.json",
+    "destination": "models/original_fold_03/R0_PSO.json",
+    "sha256": "c1355638b667a99f2c93e3173dcbcae00a49ee4e1ce523d4fbabc7fa6b4afa82",
+    "bytes": 485581
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_04/R0_PSO.joblib",
+    "destination": "models/original_fold_04/R0_PSO.joblib",
+    "sha256": "ee3168bf434f23994b6e998d931e1ff3154559648fe94d32b2ea626ac94055ab",
+    "bytes": 83251
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_04/R0_PSO.json",
+    "destination": "models/original_fold_04/R0_PSO.json",
+    "sha256": "747d3c50b82188446b052c95c97cf443ab8b11ba6b77c021e101967f3f144ad6",
+    "bytes": 468500
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_05/R0_PSO.joblib",
+    "destination": "models/original_fold_05/R0_PSO.joblib",
+    "sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "bytes": 110718
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_05/R0_PSO.json",
+    "destination": "models/original_fold_05/R0_PSO.json",
+    "sha256": "c6fa2cc5dc4b806c3b0b3420fefa194f1a0f51a54321eec1258398ba1f126694",
+    "bytes": 481399
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_06/R0_PSO.joblib",
+    "destination": "models/original_fold_06/R0_PSO.joblib",
+    "sha256": "ee3168bf434f23994b6e998d931e1ff3154559648fe94d32b2ea626ac94055ab",
+    "bytes": 83251
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_06/R0_PSO.json",
+    "destination": "models/original_fold_06/R0_PSO.json",
+    "sha256": "ec89b6f59eb0aee9ec882369549328895355cf50f094f5832488c3858e95339a",
+    "bytes": 468500
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_07/R0_PSO.joblib",
+    "destination": "models/original_fold_07/R0_PSO.joblib",
+    "sha256": "afc5d14776d9f07e3f1b798c8176b7014016582f2bf3b6e2e29afe4f09430099",
+    "bytes": 78963
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_07/R0_PSO.json",
+    "destination": "models/original_fold_07/R0_PSO.json",
+    "sha256": "6e0408cf4a7b298a361958de99ae563702137dfa2147b846815960d270f483c1",
+    "bytes": 45991
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_08/R0_PSO.joblib",
+    "destination": "models/original_fold_08/R0_PSO.joblib",
+    "sha256": "ee3168bf434f23994b6e998d931e1ff3154559648fe94d32b2ea626ac94055ab",
+    "bytes": 83251
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_08/R0_PSO.json",
+    "destination": "models/original_fold_08/R0_PSO.json",
+    "sha256": "a69fedf02bbb4f1ff0e987ebb668684c0fc0c2193fba289a51a1d7a06a992235",
+    "bytes": 468501
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_09/R0_PSO.joblib",
+    "destination": "models/original_fold_09/R0_PSO.joblib",
+    "sha256": "8f0af358211e5f4a46ab900f05fd2e0d224dce87e756c1a3a95c7bfa7e1d3677",
+    "bytes": 80718
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_09/R0_PSO.json",
+    "destination": "models/original_fold_09/R0_PSO.json",
+    "sha256": "1bc6a9455bc8b2d06b19ea9277fecbb0f674cd63876d999689cfee876f541a2f",
+    "bytes": 484656
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_10/R0_PSO.joblib",
+    "destination": "models/original_fold_10/R0_PSO.joblib",
+    "sha256": "ee3168bf434f23994b6e998d931e1ff3154559648fe94d32b2ea626ac94055ab",
+    "bytes": 83251
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_10/R0_PSO.json",
+    "destination": "models/original_fold_10/R0_PSO.json",
+    "sha256": "01fd3aa3dd2e8903f0e0116469f4d9c56ced70ec31fb8ddcf68a6c0da2c14faf",
+    "bytes": 468501
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_11/R0_PSO.joblib",
+    "destination": "models/original_fold_11/R0_PSO.joblib",
+    "sha256": "ee3168bf434f23994b6e998d931e1ff3154559648fe94d32b2ea626ac94055ab",
+    "bytes": 83251
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_11/R0_PSO.json",
+    "destination": "models/original_fold_11/R0_PSO.json",
+    "sha256": "d4afdcac879c4fe8968eeeb3d5195a738dda5eb7705253fe4b2b6f00558fc11c",
+    "bytes": 468500
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_12/R0_PSO.joblib",
+    "destination": "models/original_fold_12/R0_PSO.joblib",
+    "sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "bytes": 87162
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_12/R0_PSO.json",
+    "destination": "models/original_fold_12/R0_PSO.json",
+    "sha256": "60fc98847c962e8aa97984c9bbf9a9d121683aa282e185eb357206305237cb91",
+    "bytes": 465362
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_13/R0_PSO.joblib",
+    "destination": "models/original_fold_13/R0_PSO.joblib",
+    "sha256": "84310193c314021c2384c6e919f239121ee5e41ae0de7de9314c07b52f6190b4",
+    "bytes": 89292
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fold_13/R0_PSO.json",
+    "destination": "models/original_fold_13/R0_PSO.json",
+    "sha256": "264d9bbc76829366d2094e2570b4e05a4f23ca3499cb711001cb005b875b6366",
+    "bytes": 485422
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fit_cal_to_transfer/R0_PSO.joblib",
+    "destination": "models/original_fit_cal_to_transfer/R0_PSO.joblib",
+    "sha256": "cf6daf11944e77251cf190480fec82f3676f51b50e63640e11c3955326588cb4",
+    "bytes": 87092
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/models/original_fit_cal_to_transfer/R0_PSO.json",
+    "destination": "models/original_fit_cal_to_transfer/R0_PSO.json",
+    "sha256": "70c41d730f81d73c95622ba1fb04adc59929ee3f4706122397dbfecc178a009b",
+    "bytes": 485846
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/protocol/training_dataset.json",
+    "destination": "reference/training_dataset.json",
+    "sha256": "2f28622ce8fe3644b9601007cd24d0fa71dd30080cca7270999ccd563a6f4bfd",
+    "bytes": 11965747
+  },
+  {
+    "source": "working/research_batches/fixed_target120_policy_work/bundle/models.json",
+    "destination": "data/pso_parameter_cache.json",
+    "sha256": "2c5c8b5f6c8cf3f223c535c42f09cbda5dca6d13f446970524dab0bf821bb585",
+    "bytes": 11302221
+  },
+  {
+    "source": "working/research_batches/fixed_target120_policy_work/inputs/states.json",
+    "destination": "reference/state_metadata.json",
+    "sha256": "0aefc09e3fea9fb0d058a3112dd2ae17b955884a0adba0a99e61f0bd6ea035ae",
+    "bytes": 15783782
+  },
+  {
+    "source": "working/research_batches/fixed_target120_policy_work/inputs/allowed_states.json",
+    "destination": "reference/allowed_states.json",
+    "sha256": "3a6411360366ce80c135e822191ee11c19d7e83a8da9b5ec5db195bbb11ec8b1",
+    "bytes": 23055636
+  },
+  {
+    "source": "working/research_batches/fixed_target120_policy_work/bundle/cohort_frozen.json",
+    "destination": "data/admitted_training_cohort.json",
+    "sha256": "80f919be868a29d85795b14681bb21f0a2364c48c505200b0a9bc5b07ebd0c66",
+    "bytes": 338349
+  },
+  {
+    "source": "working/research_batches/fixed_target120_policy_work/bundle/membership_geometry_before_fitting.json",
+    "destination": "data/admission_geometry.json",
+    "sha256": "2e3db4406bca5e79fd75302a1543cb963bd195b4a3466786a7ae58e2e504f45d",
+    "bytes": 641201
+  },
+  {
+    "source": "working/research_batches/joint_sampling_policy_work/bundle/observations_frozen.csv",
+    "destination": "data/original_observations.csv",
+    "sha256": "be0197cba39aafbcd28111f8f83b7f71093da6c4fa458afac36655c9ac9923a9",
+    "bytes": 341328
+  },
+  {
+    "source": "working/research_batches/v1_source_expansion_work/bundle/observations_frozen.csv",
+    "destination": "data/transfer_observations.csv",
+    "sha256": "18f96bda7970f88559a9fb18343f1253c5f368f16385292117a641c400ba5d3d",
+    "bytes": 64004
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scoring_only/targets.json",
+    "destination": "data/training_targets.json",
+    "sha256": "cf8838db964cced1918c075d665d8f5af492690b75eeedaf4d24401175938ef5",
+    "bytes": 35900
+  },
+  {
+    "source": "working/research_batches/calibration_robustness01_work/inputs/case_curve_score_bank.json",
+    "destination": "reference/case_curve_score_bank.json",
+    "sha256": "128e13dedbd15e07e7c351bfb61fdeebf1b4b81f4eb33f09820f926076303ea8",
+    "bytes": 1479757
+  },
+  {
+    "source": "working/research_batches/calibration_robustness01_work/scoring_only/calibration_original_labels.json",
+    "destination": "data/calibration_targets.json",
+    "sha256": "17506abbbe42b517e6c6c7c7b57461d783fe24effe257fcc77f1596a2701ca80",
+    "bytes": 4137
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/scoring_only/all_test_targets.json",
+    "destination": "data/test_targets.json",
+    "sha256": "c79efcebeb748104862853da7390b0e70d5fec9cda10224a6940bda6a2a06916",
+    "bytes": 6810
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/inputs/curves_with_signals_no_target_responses.json",
+    "destination": "data/evaluation_curves.json",
+    "sha256": "f8d7156c655402328c7329c34c6006655c5c5e91f9adff7468f100ce30946a73",
+    "bytes": 1073681
+  },
+  {
+    "source": "working/research_batches/calibration_robustness01_work/protocol/selected_rules.json",
+    "destination": "reference/uniform_selected_rules.json",
+    "sha256": "4185c4cf48e2de714d5e294bbfc865b7e5f5d52837d51106f2b0b5dc3b8f70d5",
+    "bytes": 1043342
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/protocol/frozen_H_rules.json",
+    "destination": "reference/original_H_rules.json",
+    "sha256": "a25658b12edce7d56c0a71a676d969958adf16f87f438abf05fdefe471c80778",
+    "bytes": 116748
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/results/unchanged_baseline_curve_results.json",
+    "destination": "reference/original_baseline_curve_results.json",
+    "sha256": "71f32e9cb1848f21d76d2defe67a52385f7db864d38844c757a376e818617692",
+    "bytes": 613157
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json",
+    "destination": "reference/original_H_curve_results.json",
+    "sha256": "cb3b20d0d1a2bf7773c53d3ae55f28fbaca8be0a9db7bd9801371c541123e44e",
+    "bytes": 418021
+  },
+  {
+    "source": "working/research_batches/Zheng_excluded_validation01_work/protocol/frozen_rules.json",
+    "destination": "configs/laboratory_source_excluded_rules.json",
+    "sha256": "28a36bb1486c28bd09a2a2540b8837bd1a965e0d94e008b1688a3a8307d3f50f",
+    "bytes": 5286
+  },
+  {
+    "source": "working/research_batches/Zheng_excluded_validation01_work/protocol/PSO_recipe.json",
+    "destination": "configs/pso_recipe.json",
+    "sha256": "62401a3158076a063468f6b0b24736650c48e83c83cdd6b9f8741ceb95e38a6f",
+    "bytes": 629
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/protocol/environment.json",
+    "destination": "provenance/historical_training_environment.json",
+    "sha256": "85833208289534b6908722040ab7c5f10444b7c6e7b579448a05b82d060a616e",
+    "bytes": 665
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/logs/training_receipt.json",
+    "destination": "provenance/historical_training_receipt.json",
+    "sha256": "02b33cae78403a61c3eb668e846b4833bc39ab2a6f6d5b8b302d0894bffe85c5",
+    "bytes": 319
+  },
+  {
+    "source": "working/research_batches/development_source_expansion01_work/data/curve_manifest.json",
+    "destination": "data/development_curve_conditions.json",
+    "sha256": "cd8e77fc111fec8fb12cde90ff9756a2155b24d94293123d8f14f05d6f608cf1",
+    "bytes": 948912
+  },
+  {
+    "source": "working/research_batches/development_source_expansion01_work/data/task120_sequences.json",
+    "destination": "data/development_sequences_with_bounds.json",
+    "sha256": "43db7c5090857379d624ff36a99c40b1338db8e6c54e23ca2dca5ee60e1fe554",
+    "bytes": 1882901
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_00.json",
+    "destination": "reference/original_scores/original_fold_00.json",
+    "sha256": "e4dce751c7b83f9d843759c7509c084d9147522ac4cc160ef064b404f98c68f1",
+    "bytes": 171676
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_01.json",
+    "destination": "reference/original_scores/original_fold_01.json",
+    "sha256": "00ebb8393d1323351cd058332a48d417b77af94bbfc7b410fb590085eeddc58b",
+    "bytes": 171616
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_02.json",
+    "destination": "reference/original_scores/original_fold_02.json",
+    "sha256": "457e1ca1aaf290534f26f3f1ed863ac0f17fe918f70e5f57b31bd9201e650545",
+    "bytes": 171619
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_03.json",
+    "destination": "reference/original_scores/original_fold_03.json",
+    "sha256": "475320659d7831969e1fcfb5d45de9b4100bdaf9e723afa9f0922da5aef6f72e",
+    "bytes": 128161
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_04.json",
+    "destination": "reference/original_scores/original_fold_04.json",
+    "sha256": "c5125600c32efed516ce3bc279f5c4b0d08ff7e18cb7dc04b7dd1d78450d020a",
+    "bytes": 171630
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_05.json",
+    "destination": "reference/original_scores/original_fold_05.json",
+    "sha256": "fec1da4073e23b0c3eecd9020317daa76a042c2aa59509d09bb8e8a37b817ee2",
+    "bytes": 142165
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_06.json",
+    "destination": "reference/original_scores/original_fold_06.json",
+    "sha256": "cc40b4f359c9945fe4dede8d8bfe8bf2d01e2123223407021f91e6767c2e2dda",
+    "bytes": 171670
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_07.json",
+    "destination": "reference/original_scores/original_fold_07.json",
+    "sha256": "d1e98fafa56e92adfb8bdb4f03cf7d715e33f1a56f87af9eaabcd3a62cdde8b5",
+    "bytes": 252552
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_08.json",
+    "destination": "reference/original_scores/original_fold_08.json",
+    "sha256": "889aa01dfca081b508c2917265bdabb5545754d0a00200ba77bf6428dc139d01",
+    "bytes": 171637
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_09.json",
+    "destination": "reference/original_scores/original_fold_09.json",
+    "sha256": "2cf447a8e2e63b8c2c569a5af43de154c9bd40a55094686fc597b0ea59af31ed",
+    "bytes": 132265
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_10.json",
+    "destination": "reference/original_scores/original_fold_10.json",
+    "sha256": "b2af4dd3f2565e6bfd2d1bc3aeca1bb83b550e9ac9e65705506145e9f2c40fe2",
+    "bytes": 171692
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_11.json",
+    "destination": "reference/original_scores/original_fold_11.json",
+    "sha256": "80130ab941ff74038309b68b4ca72171ab9fd25e5463bd062fe9896e565ca3c3",
+    "bytes": 171656
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_12.json",
+    "destination": "reference/original_scores/original_fold_12.json",
+    "sha256": "7409bd94d21641fef7ff77eb0ded7ec92070c045bdafce494ea5265f96fce0d2",
+    "bytes": 196560
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fold_13.json",
+    "destination": "reference/original_scores/original_fold_13.json",
+    "sha256": "732fb4e9d5ef5223324253c68b8479580f36c06a91799152509483d0a08363e1",
+    "bytes": 132427
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/scores/original_fit_cal_to_transfer.json",
+    "destination": "reference/original_scores/original_fit_cal_to_transfer.json",
+    "sha256": "b9cafc60df96592919cdca22448802d598644b8087d43e514e325c9c03fa8b60",
+    "bytes": 182773
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/main_table2a_common_calibration.csv",
+    "destination": "reference/paper_tables/main_table2a_common_calibration.csv",
+    "sha256": "beb1af3198d0873f672b88c89c0d6e985c12d666f27c76ea9ee6d4a415489f14",
+    "bytes": 1699
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/main_table2a_common_calibration.json",
+    "destination": "reference/paper_tables/main_table2a_common_calibration.json",
+    "sha256": "59363807cca58eca5c1c2ac3a96f22cff9f27563400e772aa8a730fbc6847402",
+    "bytes": 4021
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/supplementary_data_directory.csv",
+    "destination": "reference/paper_tables/supplementary_data_directory.csv",
+    "sha256": "e7e5639cfb1e1a37455087c6da31d4744f396db42081cf34ee11ae6741be8e51",
+    "bytes": 7782
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/supplementary_data_directory.json",
+    "destination": "reference/paper_tables/supplementary_data_directory.json",
+    "sha256": "200e63eb41ddd27a2290a7e186d69a0cd6b7772fae502a60b50a9a399ce85f98",
+    "bytes": 10431
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T01_policy_layer_metrics.csv",
+    "destination": "reference/paper_tables/T01_policy_layer_metrics.csv",
+    "sha256": "d3cb13a7e3e47428a814318c3ca4ffabe06ee4162282c4dfdbf540963924b3fa",
+    "bytes": 99540
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T01_policy_layer_metrics.json",
+    "destination": "reference/paper_tables/T01_policy_layer_metrics.json",
+    "sha256": "ba90cf79778d32c33b86824765a5b57d14d3701efde286e8dc2fa7d694796b40",
+    "bytes": 341314
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T02_policy_family_metrics.csv",
+    "destination": "reference/paper_tables/T02_policy_family_metrics.csv",
+    "sha256": "61c960cf214ac29b4ba6f222e56e5b05e6c6a8b8a5f5442c2455d137fe043010",
+    "bytes": 394083
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T02_policy_family_metrics.json",
+    "destination": "reference/paper_tables/T02_policy_family_metrics.json",
+    "sha256": "8098e40d12915fdf396c7cd773d846c7b22c6c879a58b92926982d1c94b0f61f",
+    "bytes": 1448306
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T03_layer_scenario20.csv",
+    "destination": "reference/paper_tables/T03_layer_scenario20.csv",
+    "sha256": "1bdfc82ee1b1d50cde7d55c66ebd88acdfbb23854c67b8b171ae9d05fe9ea641",
+    "bytes": 930752
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T03_layer_scenario20.json",
+    "destination": "reference/paper_tables/T03_layer_scenario20.json",
+    "sha256": "7a6481614188a59741d7b1db12fd768f7423e822afee94a01f7e0f56c96c3a35",
+    "bytes": 2591112
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T04_family_scenario20.csv",
+    "destination": "reference/paper_tables/T04_family_scenario20.csv",
+    "sha256": "7fdb46d3279b33ed25bbdb0173b7250163040380534da5d042c9d05141566be3",
+    "bytes": 4850988
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T04_family_scenario20.json",
+    "destination": "reference/paper_tables/T04_family_scenario20.json",
+    "sha256": "bac9ba692279ff3b75321dd82a74c6ac7bf40cb6935431d496263650be754aa8",
+    "bytes": 13237569
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T05_Learned_minus_H_layer20.csv",
+    "destination": "reference/paper_tables/T05_Learned_minus_H_layer20.csv",
+    "sha256": "09d3e3fbd5d03f9f8e2b3365039ba60da5130f0567fdea2d8f0b7744b1a0c60b",
+    "bytes": 737314
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T05_Learned_minus_H_layer20.json",
+    "destination": "reference/paper_tables/T05_Learned_minus_H_layer20.json",
+    "sha256": "548c5bf88b94f13b1506602d8db18a627116a1010c43281972e60ebfb6613a16",
+    "bytes": 1939842
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T06_Learned_minus_H_family20.csv",
+    "destination": "reference/paper_tables/T06_Learned_minus_H_family20.csv",
+    "sha256": "63209610a41d1a6790eb04709be386e10b0bcf0137695975a280426d78d888eb",
+    "bytes": 3793224
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T06_Learned_minus_H_family20.json",
+    "destination": "reference/paper_tables/T06_Learned_minus_H_family20.json",
+    "sha256": "3f3f884ca4d2eb3f30af3247291a661079daee8a46e285835c4653b50fd36560",
+    "bytes": 9892093
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T07_layer_mean20_differences.csv",
+    "destination": "reference/paper_tables/T07_layer_mean20_differences.csv",
+    "sha256": "679537d65a435333652487d9e05d738d49d2d6704009ae20f4fe331a2bf0513d",
+    "bytes": 37116
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T07_layer_mean20_differences.json",
+    "destination": "reference/paper_tables/T07_layer_mean20_differences.json",
+    "sha256": "fd49f5c00247077fdb1be7f0b449f99acec727c693b7c92fd81d9a8af2fd6582",
+    "bytes": 105923
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T08_family_mean20_differences.csv",
+    "destination": "reference/paper_tables/T08_family_mean20_differences.csv",
+    "sha256": "79dcd0b924f2a4f04e67fad8d071f6ba85ca310c2f9085198acb32b35524199b",
+    "bytes": 190288
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T08_family_mean20_differences.json",
+    "destination": "reference/paper_tables/T08_family_mean20_differences.json",
+    "sha256": "fd5c2d9b924bceb511f7751ec529fb07f12e2f8e9b79a28c76ac7fcaa8752bec",
+    "bytes": 534485
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T09_cluster_bootstrap_intervals.csv",
+    "destination": "reference/paper_tables/T09_cluster_bootstrap_intervals.csv",
+    "sha256": "73140c96b143a06b124c032be3dc56c1b4a94d1349c192289b639e2907735389",
+    "bytes": 10895
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T09_cluster_bootstrap_intervals.json",
+    "destination": "reference/paper_tables/T09_cluster_bootstrap_intervals.json",
+    "sha256": "b2d0277b03fb9fa3c0d3c8b414ed8b8e7481bca43727a29fab739bfd9fe37cf2",
+    "bytes": 36556
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T10_test_family_deletion.csv",
+    "destination": "reference/paper_tables/T10_test_family_deletion.csv",
+    "sha256": "f9ef7810adc9ec4855627bcb2376649154f09721e882275ef0f1ae43cc4845d1",
+    "bytes": 23409
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T10_test_family_deletion.json",
+    "destination": "reference/paper_tables/T10_test_family_deletion.json",
+    "sha256": "785f3295e9597b50db23bcb643fe38ae5c8fc51dab09a4802fbd2a7c7703d7a8",
+    "bytes": 51320
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T11_adoption_error_family_concentration.csv",
+    "destination": "reference/paper_tables/T11_adoption_error_family_concentration.csv",
+    "sha256": "4c8263c303f5ab3bb4f7de2db42f6f8adec3c390ced136d4f7998f225453f310",
+    "bytes": 1589
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T11_adoption_error_family_concentration.json",
+    "destination": "reference/paper_tables/T11_adoption_error_family_concentration.json",
+    "sha256": "517e1434f6718dd63046a6b170b48e8df53a2357c17ba8214f8c461b8f5502fe",
+    "bytes": 6793
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T12_single_family_no_interval.csv",
+    "destination": "reference/paper_tables/T12_single_family_no_interval.csv",
+    "sha256": "60ef863b28cd5033a0ee448eec96e512d9f5d063cfc01aa6f3ba7dd940edc41a",
+    "bytes": 2446
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T12_single_family_no_interval.json",
+    "destination": "reference/paper_tables/T12_single_family_no_interval.json",
+    "sha256": "e3552ba720c346ec7eaaf59338e24ac66dffd1e20d009798f67105021a7baab6",
+    "bytes": 7611
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T13_test_family_deletion_ranges.csv",
+    "destination": "reference/paper_tables/T13_test_family_deletion_ranges.csv",
+    "sha256": "d807f14944fe994bb84d55c855efa6a44933f5da9519c4ecc40abb372bb9e0f9",
+    "bytes": 7309
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T13_test_family_deletion_ranges.json",
+    "destination": "reference/paper_tables/T13_test_family_deletion_ranges.json",
+    "sha256": "6ac0102369c349578186c04d85f9450f1c9519e04ad59a0128f1fb91a7579f04",
+    "bytes": 21192
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T14_cal_family_deletion_changes.csv",
+    "destination": "reference/paper_tables/T14_cal_family_deletion_changes.csv",
+    "sha256": "5f9f81aa3747196a0416eec4b6938f9dd0c6c69ad2903e7c40182d8e23c60c80",
+    "bytes": 29196
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T14_cal_family_deletion_changes.json",
+    "destination": "reference/paper_tables/T14_cal_family_deletion_changes.json",
+    "sha256": "56f5fb2c2a70cfa8d931fbe9b0f69f62744cc243c33eb24d0ebaa348241b102f",
+    "bytes": 77002
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T15_uniform_vs_original_actions.csv",
+    "destination": "reference/paper_tables/T15_uniform_vs_original_actions.csv",
+    "sha256": "7a803625b7f14e92ac2c26ead88a4ca3184436be49cacf4d7c520b9f4b979059",
+    "bytes": 3811
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T15_uniform_vs_original_actions.json",
+    "destination": "reference/paper_tables/T15_uniform_vs_original_actions.json",
+    "sha256": "ea4dc4b6b15f1129d56843b5fcaab9de0889e6e04e7eebefee555f9b890f6a00",
+    "bytes": 6260
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T16_family_scenario_wins.csv",
+    "destination": "reference/paper_tables/T16_family_scenario_wins.csv",
+    "sha256": "e9f130890ab2ddad0b86c84586c9995234fc1c182065d3072f705cdee7599b49",
+    "bytes": 24813
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T16_family_scenario_wins.json",
+    "destination": "reference/paper_tables/T16_family_scenario_wins.json",
+    "sha256": "0a95dd1cdffce95c36ede1299414b679fd539557441e7b35fd982df6dda6e596",
+    "bytes": 83492
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T17_calibration_feasibility.csv",
+    "destination": "reference/paper_tables/T17_calibration_feasibility.csv",
+    "sha256": "6b66ee849f1cc3ea339ef141b6d1b364d30832a05d480bf357f39ca21065691d",
+    "bytes": 969
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/T17_calibration_feasibility.json",
+    "destination": "reference/paper_tables/T17_calibration_feasibility.json",
+    "sha256": "4736338793e03028137df3b7bb9849bdf76f9766b803922013ed436221424fba",
+    "bytes": 3470
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/D11_scored_source_bibliography.csv",
+    "destination": "reference/paper_tables/original/D11_scored_source_bibliography.csv",
+    "sha256": "d421dca350a9e5dcebe0b9c4e72ca64f197a73ef87253128401c0632ec0a8c92",
+    "bytes": 17322
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/D11_scored_source_bibliography.json",
+    "destination": "reference/paper_tables/original/D11_scored_source_bibliography.json",
+    "sha256": "c7ce67429a69e1ab6c90f115547f15615d08ce258aabd8801480b5d92b15a2cd",
+    "bytes": 27288
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/Fig5_action_markers.csv",
+    "destination": "reference/paper_tables/original/Fig5_action_markers.csv",
+    "sha256": "989bfc307f560c33753445d24f55c0c351b8a386f204fd9417c70ef9e12d1f44",
+    "bytes": 3513
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/Fig5_action_markers.json",
+    "destination": "reference/paper_tables/original/Fig5_action_markers.json",
+    "sha256": "367685a792c2219bda250e872c3ddaeb0ecd46022477bbafa2b44bf8a8680d46",
+    "bytes": 6794
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S01_curve_identity_conditions.csv",
+    "destination": "reference/paper_tables/original/S01_curve_identity_conditions.csv",
+    "sha256": "8a6781e1f37a0160517d22b920191f436f83f027c9347046cc1d45be32f81983",
+    "bytes": 175460
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S01_curve_identity_conditions.json",
+    "destination": "reference/paper_tables/original/S01_curve_identity_conditions.json",
+    "sha256": "75b0bddf171009e60e59046a8cbc8e1d1b3e8292b4f571a84efb636140995f69",
+    "bytes": 322437
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S02_all_roles.csv",
+    "destination": "reference/paper_tables/original/S02_all_roles.csv",
+    "sha256": "fc531e272b88c1ed8e0f81d6a18fe1cee6fa9be25cfa360b3861833e751a7397",
+    "bytes": 549268
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S02_all_roles.json",
+    "destination": "reference/paper_tables/original/S02_all_roles.json",
+    "sha256": "ffcbd08921d3a7d168713c04c1235c760d5b95762f6f9fb51b740d3e318ec406",
+    "bytes": 885596
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S03_admission_dispositions.csv",
+    "destination": "reference/paper_tables/original/S03_admission_dispositions.csv",
+    "sha256": "95a4c22439d5900ac48cb8d3309b44d6b6b0e9e4e2d3a6f77de89b78b0e19af9",
+    "bytes": 3884
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S03_admission_dispositions.json",
+    "destination": "reference/paper_tables/original/S03_admission_dispositions.json",
+    "sha256": "1a4f58be83071e7348b390bbd32d0c9d1067020e8fd6538660f17c5b2c0b7d12",
+    "bytes": 5618
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S04_all_method_metrics.csv",
+    "destination": "reference/paper_tables/original/S04_all_method_metrics.csv",
+    "sha256": "1a57825c22e905abaaeb5abaabe794d80e76784358f14238997e13dd83b3d147",
+    "bytes": 18099
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S04_all_method_metrics.json",
+    "destination": "reference/paper_tables/original/S04_all_method_metrics.json",
+    "sha256": "ca2231674fc2a96c11da24219bf293c30426c0fb3560d18e875caa8b3b15ac9d",
+    "bytes": 47766
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S05_family_method_metrics.csv",
+    "destination": "reference/paper_tables/original/S05_family_method_metrics.csv",
+    "sha256": "fc88be4468c05b34aeb8a38256d0cf2f7210a2da9c6d8d82153072d8701bb127",
+    "bytes": 81204
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S05_family_method_metrics.json",
+    "destination": "reference/paper_tables/original/S05_family_method_metrics.json",
+    "sha256": "f89a48d953c1efe626bbc7b1dbb853f7f5c9e571e79013aa81fdab6a8ccbddff",
+    "bytes": 230311
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S06_all20_costs.csv",
+    "destination": "reference/paper_tables/original/S06_all20_costs.csv",
+    "sha256": "b796ce94c3c9fa5264f31a9c52d299e8b300e5bf84db0ab702ae90cdf621a72a",
+    "bytes": 425697
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S06_all20_costs.json",
+    "destination": "reference/paper_tables/original/S06_all20_costs.json",
+    "sha256": "f0ab7ed022e6aca361b8d0986f88807d4c25052fef8c10cf86f67747b176f01b",
+    "bytes": 1109501
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S07_family_mean20.csv",
+    "destination": "reference/paper_tables/original/S07_family_mean20.csv",
+    "sha256": "7aef22d628936514a88621c171f08f67feba451cb0fe9e0a69f228aa43ca350b",
+    "bytes": 10899
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S07_family_mean20.json",
+    "destination": "reference/paper_tables/original/S07_family_mean20.json",
+    "sha256": "a170f4bd862bb6046967ad1b9241f69a6e29b3fdcbd0b498e506d2166fab19ac",
+    "bytes": 41786
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S08_family_all20.csv",
+    "destination": "reference/paper_tables/original/S08_family_all20.csv",
+    "sha256": "a90bd4af4e41a3ca981026fe95a826649489ac71d84ee315a1ffa214d113dde0",
+    "bytes": 145421
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S08_family_all20.json",
+    "destination": "reference/paper_tables/original/S08_family_all20.json",
+    "sha256": "83eff1084118d7fd45a2d8765ceca7733294fc9e96086bf6f50c55faeccf4de3",
+    "bytes": 411328
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S09_calibration_only_candidates.csv",
+    "destination": "reference/paper_tables/original/S09_calibration_only_candidates.csv",
+    "sha256": "815895eeb646a7855de6f1324d5f31598229062b0dd7da735119db5380ddd109",
+    "bytes": 608854
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S09_calibration_only_candidates.json",
+    "destination": "reference/paper_tables/original/S09_calibration_only_candidates.json",
+    "sha256": "691ce7e977556b5d3b41010980f8eabdff544085e12090365dd695bdc936b50d",
+    "bytes": 1714412
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S10_frozen_heuristic_rules.csv",
+    "destination": "reference/paper_tables/original/S10_frozen_heuristic_rules.csv",
+    "sha256": "3b55945cd81360f864297b37849ac0e351196e1b87f042354031985338420386",
+    "bytes": 94532
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/S10_frozen_heuristic_rules.json",
+    "destination": "reference/paper_tables/original/S10_frozen_heuristic_rules.json",
+    "sha256": "a25658b12edce7d56c0a71a676d969958adf16f87f438abf05fdefe471c80778",
+    "bytes": 116748
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/supplementary_data_directory.csv",
+    "destination": "reference/paper_tables/original/supplementary_data_directory.csv",
+    "sha256": "887e1810756da217f6cffa4f4d638950aa2bccfbb008029695f8697eade7e6fa",
+    "bytes": 2495
+  },
+  {
+    "source": "working/research_batches/manuscript_polish04_work/tables/original/supplementary_data_directory.json",
+    "destination": "reference/paper_tables/original/supplementary_data_directory.json",
+    "sha256": "c43542d66c3c38c2aae2b588d51f00c5240000744b12cac278e001523aff2d37",
+    "bytes": 3359
+  },
+  {
+    "source": "working/research_batches/evidence_closeout01_work/tables/F05_representative_case_data.json",
+    "destination": "reference/plot_inputs/F05_representative_case_data.json",
+    "sha256": "fd634fcb13f3a6adf9edf344ea28aaea21c353d685a59598345cc97975618d38",
+    "bytes": 45623
+  },
+  {
+    "source": "working/research_batches/evidence_closeout01_work/tables/ST03_source_family_index.json",
+    "destination": "reference/plot_inputs/ST03_source_family_index.json",
+    "sha256": "f4be923622cfea7f060a2d1a91697b1bdc29541b8e693dc9524b544bcebf6820",
+    "bytes": 12319
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/tables/T01_all_method_comparison.json",
+    "destination": "reference/plot_inputs/T01_all_method_comparison.json",
+    "sha256": "ca2231674fc2a96c11da24219bf293c30426c0fb3560d18e875caa8b3b15ac9d",
+    "bytes": 47766
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/tables/ST03_R2_minus_H_family_mean20.json",
+    "destination": "reference/plot_inputs/ST03_R2_minus_H_family_mean20.json",
+    "sha256": "a170f4bd862bb6046967ad1b9241f69a6e29b3fdcbd0b498e506d2166fab19ac",
+    "bytes": 41786
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/tables/T03_R2_minus_H_cost20.json",
+    "destination": "reference/plot_inputs/T03_R2_minus_H_cost20.json",
+    "sha256": "bdcb3df7caec6f2faf2347fe429277d67a7e1a8764264335dd635f5ea891c178",
+    "bytes": 58740
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json",
+    "destination": "reference/plot_inputs/H_curve_results.json",
+    "sha256": "cb3b20d0d1a2bf7773c53d3ae55f28fbaca8be0a9db7bd9801371c541123e44e",
+    "bytes": 418021
+  },
+  {
+    "source": "Supplementary_Laboratory_Data_D34-D38.zip!/D34_laboratory_raw.csv",
+    "destination": "data/laboratory/D34_laboratory_raw.csv",
+    "sha256": "d72a984a62f7e772b93c86557931133af17228fbf3310c00eaba725bac48054b",
+    "bytes": 566
+  },
+  {
+    "source": "Supplementary_Laboratory_Data_D34-D38.zip!/D35_laboratory_summary.csv",
+    "destination": "data/laboratory/D35_laboratory_summary.csv",
+    "sha256": "5b4d96b5172fd7354e7d84a2b8c48d41d8ec67e2529c8c68a028f6fbb96b97bd",
+    "bytes": 498
+  },
+  {
+    "source": "Supplementary_Laboratory_Data_D34-D38.zip!/D36_laboratory_prefixes.csv",
+    "destination": "data/laboratory/D36_laboratory_prefixes.csv",
+    "sha256": "556f44ad779a2d49f793bd1f42e259dc153c495023e7d375c9bf563d195fa60a",
+    "bytes": 5668
+  },
+  {
+    "source": "Supplementary_Laboratory_Data_D34-D38.zip!/D37_laboratory_actions.csv",
+    "destination": "data/laboratory/D37_laboratory_actions.csv",
+    "sha256": "4677a75dd696f9882fad5326c52f177fa6b3aad82bbe6d5cf24f6adf1e7899d2",
+    "bytes": 1579
+  },
+  {
+    "source": "Supplementary_Laboratory_Data_D34-D38.zip!/D38_laboratory_config.json",
+    "destination": "data/laboratory/D38_laboratory_config.json",
+    "sha256": "1a9357d0ea28c80bd20c62e46d6fb8129c126a7217178ff1d0013b7cd6d939b9",
+    "bytes": 564
+  },
+  {
+    "source": "working/research_batches/manuscript_revision02_work/scripts/figure_render.py",
+    "source_sha256": "867ffd6e841203206f1790a8cd4b24ffb6b5de63b2e3f83f9bcd05de5382816a",
+    "destination": "endpoint_release/plot_original.py",
+    "adaptation": "Original rendered plotting implementation; local imports/input resolver, cost wording becomes loss; original numerical inputs retained."
+  },
+  {
+    "source": "working/research_batches/calibration_robustness01_work/scripts/figures.py",
+    "source_sha256": "0eed3c7004a745a4316282ffd7424ab4f369d0fa39b52afb32a6c017cc622090",
+    "destination": "endpoint_release/plot_sensitivity.py",
+    "adaptation": "Original four-figure code; package-local IO only."
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/scripts/figures_saved.py",
+    "source_sha256": "48a86c53f600c35a68bf368a2c80385c869b179eb4ed1e389ffcfaf01cdd5cdd",
+    "destination": "endpoint_release/plot_archived_si.py",
+    "adaptation": "Two original SI plotting functions; local save/read wrappers, no scientific recalculation."
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/scripts/benchmark_figures.py",
+    "source_sha256": "47c1626d866b99291b3855abdc2eead993acbd1a45b467edec173b9b4e7d2e08",
+    "destination": "endpoint_release/plot_calibration.py",
+    "adaptation": "Original calibration-only figure block; other plots/report effects omitted."
+  },
+  {
+    "source": "working/research_batches/r2_source_learning_curve01_work/scripts/report.py",
+    "source_sha256": "39dc05028e8468a915da197266df131e4209962a1683d7c99d20da7f757b43f6",
+    "destination": "endpoint_release/plot_learning.py",
+    "adaptation": "Original two plotting blocks; report writing excluded."
+  },
+  {
+    "source": "working/research_batches/r2_source_learning_curve01_work/results/score_distribution_by_m.json",
+    "destination": "reference/plot_inputs/score_distribution_by_m.json",
+    "sha256": "e08708d2137b283c20e21745728c92e424efdf5420cf042a0d94778744ebfcc1",
+    "bytes": 20385
+  },
+  {
+    "source": "working/research_batches/r2_source_learning_curve01_work/results/policy_distribution_by_m.json",
+    "destination": "reference/plot_inputs/policy_distribution_by_m.json",
+    "sha256": "9ebee388c1b0eb33f2469076637c4aecfbe6380ba802eef2f344a880cef423e1",
+    "bytes": 39107
+  },
+  {
+    "source": "working/phase56_five_input_matched_learning_20261026/make_figures.py",
+    "source_sha256": "5a76a349832aebb3025788c90f52293d6f289fd5ce1f930ba878c285b3e4ef41",
+    "destination": "endpoint_release/plot_observation_budget.py",
+    "adaptation": "Original paired nested-correction diagnostic plot, distinct terminal-three-target86 cohort; local IO only."
+  },
+  {
+    "source": "working/phase56_five_input_matched_learning_20261026/data/sampling_paired_scores.json",
+    "destination": "reference/plot_inputs/sampling_paired_scores.json",
+    "sha256": "9bd392666d71fb5b7c705e9d09aece5c3ae92938d2cc4c29c7419b150ba10e6a",
+    "bytes": 556520
+  },
+  {
+    "source": "working/research_batches/domain_predictor_complementarity01_work/scripts/plots.py",
+    "source_sha256": "eb0ac9c3cc0506d59b848e427f8f69900e2d16dab1b20b742769018ce323349a",
+    "destination": "endpoint_release/plot_agreement.py",
+    "adaptation": "Original Fan/Du fixed-prefix panel; local IO; other diagnostic plots omitted."
+  },
+  {
+    "source": "working/research_batches/domain_predictor_complementarity01_work/results/case_evidence_layers.json",
+    "destination": "reference/plot_inputs/case_evidence_layers.json",
+    "sha256": "c6443f1273b3a9315d50495764ea24d6e0ea40b6a88d6f02cb67a7329009cbf8",
+    "bytes": 514939
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/results/calibration_candidates.json",
+    "destination": "reference/plot_inputs/calibration_candidates.json",
+    "sha256": "691ce7e977556b5d3b41010980f8eabdff544085e12090365dd695bdc936b50d",
+    "bytes": 1714412
+  },
+  {
+    "source": "working/research_batches/frozen_R2_multifamily_confirmation02_work/protocol/clock_boundary_inventory.json",
+    "destination": "reference/plot_inputs/clock_boundary_inventory.json",
+    "sha256": "9e10b3ff16a847f798d490fc87c9bb84ae36166a00537d24f8d063f7f3312150",
+    "bytes": 25281
+  },
+  {
+    "source": "working/research_batches/frozen_R2_independent_confirmation01_work/results/fixed_clock_reading_diagnostic.json",
+    "destination": "reference/plot_inputs/fixed_clock_reading_diagnostic.json",
+    "sha256": "ce44d5b26909679cbda51aaebe8a49979ab40a2b6923f6ac64ce20781ae0b480",
+    "bytes": 522
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/tables/T04_R2_minus_Simple_cost20.json",
+    "destination": "reference/plot_inputs/T04_R2_minus_Simple_cost20.json",
+    "sha256": "f67445d922fb529ab84260a4fa144989e82a31218616ecb6dd825ea3c0ba8518",
+    "bytes": 93662
+  },
+  {
+    "source": "working/research_batches/calibration_robustness01_work/protocol/selected_rules.json",
+    "destination": "reference/plot_inputs/selected_rules.json",
+    "sha256": "4185c4cf48e2de714d5e294bbfc865b7e5f5d52837d51106f2b0b5dc3b8f70d5",
+    "bytes": 1043342
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/figures/main/B03_calibration_only_diagnostics.png",
+    "destination": "reference/benchmark/figures/main/B03_calibration_only_diagnostics.png",
+    "sha256": "e9a4fd4342a38048d6feffbf9679deffc242b37c879b4779be783fa6db76054b",
+    "bytes": 173522
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/figures/main/B03_calibration_only_diagnostics.svg",
+    "destination": "reference/benchmark/figures/main/B03_calibration_only_diagnostics.svg",
+    "sha256": "298971de6216df7e0f339ca6aa936490a2c33818d522fcc00685fcf4bf0aeac8",
+    "bytes": 72584
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/figures/supplement/SF01_old_clock_boundary.png",
+    "destination": "reference/benchmark/figures/supplement/SF01_old_clock_boundary.png",
+    "sha256": "331b4cb45ffd0d2beed0d0daa7702fd89c120b711c8de834bb4052f49a03aa75",
+    "bytes": 119230
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/figures/supplement/SF01_old_clock_boundary.svg",
+    "destination": "reference/benchmark/figures/supplement/SF01_old_clock_boundary.svg",
+    "sha256": "eeab8fd972efa9e19b8ce311c694c1fe0a4c54ad82f3dec845e0288c5cfecf7d",
+    "bytes": 18010
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/figures/main/F04_all20_cost_differences.png",
+    "destination": "reference/benchmark/figures/main/F04_all20_cost_differences.png",
+    "sha256": "66ebad9fac84262cd7374999062c5f9a72888c775f42d6291a8fb1aca045b741",
+    "bytes": 413765
+  },
+  {
+    "source": "working/research_batches/sequential_heuristic_benchmark01_work/figures/main/F04_all20_cost_differences.svg",
+    "destination": "reference/benchmark/figures/main/F04_all20_cost_differences.svg",
+    "sha256": "56804579113e4526f99c51ecf42a564ce83b856c975dda40e53310c4e4c2784a",
+    "bytes": 76366
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/logs/calibration_receipt.json",
+    "destination": "provenance/historical_calibration_receipt.json",
+    "sha256": "aec33a69a536346c2f1a6e917f1c05bbc75aed4e2a0295ba90e6411c75dd03f1",
+    "bytes": 374
+  },
+  {
+    "source": "working/research_batches/calibrated_r2_fixed_time_comparison_work/results/fixed_time_rules.json",
+    "destination": "configs/fixed_time_rules.json",
+    "sha256": "957b261a86303fdb83d08f515235e46ab12f4d62b2401fd7511c12a5bbc7f963"
+  },
+  {
+    "source": "working/research_batches/calibrated_r2_fixed_time_comparison_work/results/simple_cal_choices.json",
+    "destination": "configs/simple_cal_choices.json",
+    "sha256": "9aff433d967ac1527f989e29e2957cee807166f2cf7e98472f0e95d6907053e3"
+  },
+  {
+    "source": "working/research_batches/source_sequential_acceptance_calibration_work/results/frozen_rules.json",
+    "destination": "configs/original_learned_rules.json",
+    "sha256": "08beace2c6b1e3ce5e809cd382c6e52d4721f38854cba922be96ddbdf963e2be"
+  }
+]

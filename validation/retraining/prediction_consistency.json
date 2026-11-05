@@ -1,0 +1,122 @@
+[
+  {
+    "case_id": "original_fold_00",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 7.105427357601002e-15,
+    "training_rows": 14084,
+    "train_curves": 45,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_01",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 3.552713678800501e-15,
+    "training_rows": 14084,
+    "train_curves": 45,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_02",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 3.552713678800501e-15,
+    "training_rows": 14084,
+    "train_curves": 45,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_03",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 3.552713678800501e-15,
+    "training_rows": 14592,
+    "train_curves": 52,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_04",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 3.552713678800501e-15,
+    "training_rows": 14084,
+    "train_curves": 45,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_05",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 1.7763568394002505e-15,
+    "training_rows": 14468,
+    "train_curves": 49,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_06",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 3.552713678800501e-15,
+    "training_rows": 14084,
+    "train_curves": 45,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_07",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 7.105427357601002e-15,
+    "training_rows": 1284,
+    "train_curves": 38,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_08",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 3.552713678800501e-15,
+    "training_rows": 14084,
+    "train_curves": 45,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_09",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 7.105427357601002e-15,
+    "training_rows": 14564,
+    "train_curves": 51,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_10",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 3.552713678800501e-15,
+    "training_rows": 14084,
+    "train_curves": 45,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_11",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 7.105427357601002e-15,
+    "training_rows": 14084,
+    "train_curves": 45,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_12",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 7.105427357601002e-15,
+    "training_rows": 13996,
+    "train_curves": 34,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fold_13",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 3.552713678800501e-15,
+    "training_rows": 14588,
+    "train_curves": 49,
+    "fit_families": 6
+  },
+  {
+    "case_id": "original_fit_cal_to_transfer",
+    "probe_states": 750,
+    "maximum_prediction_difference_pp": 7.105427357601002e-15,
+    "training_rows": 14596,
+    "train_curves": 53,
+    "fit_families": 7
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "optimizer": {
+    "method": "trf",
+    "jac": "2-point",
+    "bounds_fe": [
+      0,
+      1
+    ],
+    "bounds_tau_min": [
+      1e-06,
+      1000000.0
+    ],
+    "ftol": 1e-11,
+    "xtol": 1e-11,
+    "gtol": 1e-11,
+    "max_nfev": 3000,
+    "loss": "linear",
+    "x_scale": 1.0,
+    "starts": "fe in [clip(max(prefix_f),.001,.9999),.9999] crossed with tau in [max(1e-5,.1*t_first),median(prefix_t),2*t_last]",
+    "selection": "lowest prefix SSE among converged finite starts; no target response access"
+  },
+  "fit_code_sha256": "2f8f3c73232144d9c882df8801cebc70944fea12879e20e6013a83db0642a225"
+}

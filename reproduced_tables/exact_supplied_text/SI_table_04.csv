@@ -1,0 +1,7 @@
+﻿Method,Earliest input count,Calibration criterion,Threshold candidates
+Learned stopping,3,"Source A≥.25 and R≤.05; maximize A, minimize wait, threshold","Distinct finite learned scores in [0,5], plus 5 and all reject"
+Plateau H1,3,"Source A>0 and R≤.05; maximize A, minimize wait, observations, threshold","41 linear cal quantiles, deduplicate, add ±infinity"
+Forecast stability H2,4,Same as H1; parent and current forecasts available,Same construction from H2 cal scores
+Latest point error H3,4,Same as H1; usable parent and current forecast,Same construction from H3 cal scores
+Fixed PSO and fixed last,3,Original source-calibrated clock procedure retained,Original real relative-clock candidates
+Cal selected simple,As chosen reference,Minimize calibration source cost separately for each scenario,"Target measurement, fixed PSO or fixed last"

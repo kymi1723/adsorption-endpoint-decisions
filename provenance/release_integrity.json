@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "source_files_or_members_SHA_checked": 174,
+  "manuscript_SHA_unchanged": true,
+  "frozen_model_heads": 15,
+  "training_replicates": 15,
+  "evaluation_curves": 130,
+  "source_families": 31,
+  "DOIs": 34,
+  "prefixes": 750,
+  "rebuilt_states": 16134,
+  "training_rows": 15990,
+  "original_and_U0_E_actions_exact": [
+    {
+      "scheme": "U0-E",
+      "actions": 520,
+      "all_state_and_decision_fields_exact": true,
+      "max_error_metric_difference_pp": 0.0
+    },
+    {
+      "scheme": "Original_frozen",
+      "actions": 520,
+      "all_state_and_decision_fields_exact": true,
+      "max_error_metric_difference_pp": 0.0
+    }
+  ],
+  "canonical_figure_units": 18,
+  "external_original_project_reads_blocked": true,
+  "credentials_or_original_publisher_PDFs_shipped": false,
+  "full_PSO_all_state_refit_executed": false,
+  "complete_old_training_history_shipped": false,
+  "original_code_license_spdx": "MIT",
+  "non_code_materials_automatically_MIT": false,
+  "license_update_changes_scientific_files": false
+}

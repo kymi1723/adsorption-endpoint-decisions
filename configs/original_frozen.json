@@ -1,0 +1,9 @@
+{
+  "scheme": "Original_frozen",
+  "tolerance_pp": 5,
+  "learned_candidates": "scores in[0,5], plus5, plus all-reject",
+  "learned_minimum_A": 0.25,
+  "heuristic_candidates": "41 linear quantiles, deduplicate, add -inf,+inf",
+  "heuristic_minimum_A": 0,
+  "purpose": "Original Figures2–5 and original SI records; distinct from Tables2–3"
+}

@@ -1,0 +1,66 @@
+{
+  "new_tree_fit": {
+    "final_seconds": 0.1828638999722898,
+    "all15_total_seconds": 2.6601161998696625,
+    "min_seconds": 0.10151680000126362,
+    "max_seconds": 0.25182260014116764,
+    "includes": "model.fit plus threadpool-limit context entry/restoration; excludes serialization and features/PSO"
+  },
+  "new_calibration": {
+    "U0_E_all15_all4_methods_seconds": 2.6792462980374694,
+    "final_case": [
+      {
+        "method": "Learned",
+        "candidates": 160,
+        "calibration_seconds": 0.04029700020328164
+      },
+      {
+        "method": "H1",
+        "candidates": 161,
+        "calibration_seconds": 0.04599299980327487
+      },
+      {
+        "method": "H2",
+        "candidates": 135,
+        "calibration_seconds": 0.03288039984181523
+      },
+      {
+        "method": "H3",
+        "candidates": 135,
+        "calibration_seconds": 0.0346127999946475
+      }
+    ],
+    "includes": "candidate construction, all first-adoption calibration paths, selection; excludes feature/model inference and file IO"
+  },
+  "new_decision": {
+    "curve": "parallel_1",
+    "as_of_min": 60,
+    "observed_points": 5,
+    "target_min": 120,
+    "complete_decision_seconds": 0.2006438998505473,
+    "prefix_fit_feature_score_seconds": 0.18238449981436133,
+    "includes": "joblib load, PSO for n3/n4/n5, features, tree scores, first decision",
+    "excludes": "interpreter import/startup, physical experiment, plotting, endpoint truth",
+    "repeat_count": 1
+  },
+  "historical_tree_fit": {
+    "final_seconds": 0.2190000000409782,
+    "min_seconds": 0.10899999970570207,
+    "max_seconds": 0.2190000000409782,
+    "includes": "original measured fit + joblib serialization; not pure fit"
+  },
+  "historical_calibration": {
+    "folds": 15,
+    "rule_rows": 60,
+    "scalar_candidate_rows": 2207,
+    "mask_initial_rows": 134,
+    "mask_sequential_trace_rows": 15,
+    "test_actions": 392,
+    "test_actions_sha256": "ac0ad2a99dc202ffd61e0ed0c036657736bab48da2e29c6fad32633074e1bb73",
+    "test_target_labels_used_for_selection": false,
+    "model_refits": 0,
+    "elapsed_seconds": 0.6720000002533197
+  },
+  "historical_online_decision": null,
+  "historical_online_missing": "No matching three-series single-call decision timing record; do not replace it with current measurement"
+}

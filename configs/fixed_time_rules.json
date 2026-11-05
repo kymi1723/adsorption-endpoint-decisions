@@ -1,0 +1,272 @@
+[
+  {
+    "case_id": "original_fold_00",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 141
+  },
+  {
+    "case_id": "original_fold_00",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 141
+  },
+  {
+    "case_id": "original_fold_01",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 110
+  },
+  {
+    "case_id": "original_fold_01",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7496007255226887,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 109
+  },
+  {
+    "case_id": "original_fold_02",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_02",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_03",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_03",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_04",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 134
+  },
+  {
+    "case_id": "original_fold_04",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 134
+  },
+  {
+    "case_id": "original_fold_05",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_05",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_06",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 144
+  },
+  {
+    "case_id": "original_fold_06",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 144
+  },
+  {
+    "case_id": "original_fold_07",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_07",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_08",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.4167853569617794,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 85
+  },
+  {
+    "case_id": "original_fold_08",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.4995885472176649,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 90
+  },
+  {
+    "case_id": "original_fold_09",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_09",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_10",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 147
+  },
+  {
+    "case_id": "original_fold_10",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7496007255226887,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 146
+  },
+  {
+    "case_id": "original_fold_11",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7501819180080965,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 142
+  },
+  {
+    "case_id": "original_fold_11",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7501819180080965,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 142
+  },
+  {
+    "case_id": "original_fold_12",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_12",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_13",
+    "dataset": "original",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fold_13",
+    "dataset": "original",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fit_cal_to_transfer",
+    "dataset": "transfer",
+    "method": "F_PSO",
+    "predictor": "PSO",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  },
+  {
+    "case_id": "original_fit_cal_to_transfer",
+    "dataset": "transfer",
+    "method": "F_Last",
+    "predictor": "Last",
+    "r": 0.7499136705291377,
+    "status": "calibrated_fixed_time",
+    "chosen_candidate_ordinal": 101
+  }
+]

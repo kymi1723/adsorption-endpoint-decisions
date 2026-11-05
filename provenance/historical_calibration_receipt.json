@@ -1,0 +1,12 @@
+{
+  "folds": 15,
+  "rule_rows": 60,
+  "scalar_candidate_rows": 2207,
+  "mask_initial_rows": 134,
+  "mask_sequential_trace_rows": 15,
+  "test_actions": 392,
+  "test_actions_sha256": "ac0ad2a99dc202ffd61e0ed0c036657736bab48da2e29c6fad32633074e1bb73",
+  "test_target_labels_used_for_selection": false,
+  "model_refits": 0,
+  "elapsed_seconds": 0.6720000002533197
+}

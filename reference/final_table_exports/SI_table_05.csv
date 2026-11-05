@@ -1,0 +1,7 @@
+﻿Layer,Learned minus plateau,Learned minus forecast stability,Learned minus latest-point error
+Held-family development,-1.648 (17/20),-2.072 (17/20),-2.380 (17/20)
+Transfer development,-2.123 (16/20),-2.717 (17/20),-2.445 (18/20)
+Historical external,-0.965 (13/20),-1.450 (14/20),-1.450 (14/20)
+Aerogel evaluation,0.000 (0/20),0.000 (0/20),-3.994 (15/20)
+LDH–clay evaluation,-3.384 (17/20),-3.384 (17/20),-2.822 (18/20)
+Three-source queue,-0.466 (16/20),-4.527 (19/20),-0.043 (12/20)

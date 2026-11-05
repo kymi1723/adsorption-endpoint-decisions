@@ -1,0 +1,21 @@
+﻿Index,Feature,Definition using revealed inputs and known clocks
+1,Observation count,k
+2,First input clock,log(1+t_1)
+3,Last input clock,log(1+L)
+4,Minimum query ratio,log(min(Q)/L)
+5,Maximum query ratio,log(max(Q)/L)
+6,Last response,f_k
+7,Input response range,max(f_1...f_k)−min(f_1...f_k)
+8,Last slope,slog((f_k−f_(k−1))*L/(t_k−t_(k−1)))
+9,First to last slope,slog((f_k−f_1)*L/(L−t_1))
+10,Prefix fit error,log(1+100*sqrt(prefixSSE/k))
+11,PSO amplitude,f_e
+12,PSO time scale,log(1+tau/L)
+13,Query prediction,Mean PSO prediction over Q
+14,Query prediction range,Range of PSO predictions over Q
+15,Forecast to last gap,log(1+100*sqrt(mean_Q((prediction−f_k)^2)))
+16,Amplitude boundary flag,Saved f_e bound flag
+17,Time scale boundary flag,Saved tau bound flag
+18,Current fit unavailable,Saved unavailable flag
+19,Latest parent forecast error,log(1+100*abs(parentPSO(L)−f_k))
+20,Latest parent available,1 if usable parent exists;0 at initial k 3

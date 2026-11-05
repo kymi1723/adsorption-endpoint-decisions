@@ -1,0 +1,3 @@
+﻿variant,scheme,error_tolerance_pp,deleted_cal_family,category,batch_id,comparison,mean20_delta_loss,lower_cells,equal_cells,higher_cells
+U0-E__tol5,U0-E,5,,recalibrated_threshold,original79,Learned-H1,-1.6102954732725994,17,0,3
+U0-E__tol5,U0-E,5,,recalibrated_threshold,transfer19,Learned-H1,-1.9205313952441727,16,0,4

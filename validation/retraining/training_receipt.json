@@ -1,0 +1,25 @@
+{
+  "refitted_cases": [
+    "original_fold_00",
+    "original_fold_01",
+    "original_fold_02",
+    "original_fold_03",
+    "original_fold_04",
+    "original_fold_05",
+    "original_fold_06",
+    "original_fold_07",
+    "original_fold_08",
+    "original_fold_09",
+    "original_fold_10",
+    "original_fold_11",
+    "original_fold_12",
+    "original_fold_13",
+    "original_fit_cal_to_transfer"
+  ],
+  "reused_cases": [],
+  "hyperparameter_searches": 0,
+  "seed_searches": 0,
+  "same_head_cal_test": true,
+  "refit_after_calibration": false,
+  "maximum_probe_prediction_difference_pp": 7.105427357601002e-15
+}

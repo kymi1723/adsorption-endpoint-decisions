@@ -1,0 +1,12 @@
+[
+  {
+    "filename": "Manuscript_Integrated_Engineering_Revision.docx",
+    "sha256": "0bce0be45782f6493865381a4192b0f4654c4f8c9f8062e3d11005f8cabeccad",
+    "basis": "explicit final manuscript supplied by user; paired with SI model SHA and frozen records"
+  },
+  {
+    "filename": "Supplementary_Information_Integrated_Revision.docx",
+    "sha256": "273e6ef36d9e0b2bfe07f88cf77706266ab9755fcaba93ef849266384be269eb",
+    "basis": "explicit final manuscript supplied by user; paired with SI model SHA and frozen records"
+  }
+]

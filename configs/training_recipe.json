@@ -1,0 +1,49 @@
+{
+  "estimator": "sklearn.ensemble.ExtraTreesRegressor",
+  "parameters": {
+    "n_estimators": 128,
+    "max_depth": 4,
+    "min_samples_leaf": 5,
+    "min_weight_fraction_leaf": 0.01,
+    "max_features": 1.0,
+    "bootstrap": false,
+    "criterion": "squared_error",
+    "random_state": 20261030,
+    "n_jobs": 4
+  },
+  "features": [
+    "n",
+    "log1p_tfirst",
+    "log1p_tlast",
+    "log_Tmin_over_t",
+    "log_Tmax_over_t",
+    "f_last",
+    "f_range",
+    "slog_last_slope_t",
+    "slog_firstlast_slope_t",
+    "log1p_PSO_prefix_RMSE_pp",
+    "PSO_fe",
+    "log1p_tau_over_t",
+    "PSO_query_mean",
+    "PSO_query_range",
+    "log1p_PSO_Last_gap_pp",
+    "fe_bound",
+    "tau_bound",
+    "PSO_unavailable",
+    "log1p_latest_prior_error_pp",
+    "latest_prior_available"
+  ],
+  "dimensions": 20,
+  "label": "L120_pp = 100*abs(cached current-input PSO prediction - real target fraction)",
+  "training_states": "unchanged all valid original R0/PSO states, including old nonprefix states; replay only uses complete-prefix subset",
+  "weight_levels": [
+    "family",
+    "curve_id",
+    "n"
+  ],
+  "weight_function": "working/research_batches/joint_sampling_policy_work/scripts/risk_models.py#hierarchy_weights",
+  "preprocessing": "none; original ET uses raw 20 features, no learned normalizer or external imputer",
+  "score": "pp; finite negative clipped0, nonfinite unavailable",
+  "canonical_groups": "recorded identity/alias closure, stable existing preferred family label; no inference from similar names",
+  "old_model_metadata": "working/research_batches/fixed_target120_policy_work/models/original_fold_00/R0_PSO.json"
+}

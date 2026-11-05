@@ -1,0 +1,11 @@
+{
+  "states": 16134,
+  "training_rows": 15990,
+  "full_prefix_and_nonconsecutive_subsets": true,
+  "subsets": "first3 fixed, exhaustive subsets of all remaining strictly pretarget points; no sampling/cap/seed",
+  "new_pso_fits": 0,
+  "explicit_cache_hits": 16134,
+  "max_feature_difference": 0,
+  "max_label_difference_pp": 0.0,
+  "seconds": 3.1124840998090804
+}

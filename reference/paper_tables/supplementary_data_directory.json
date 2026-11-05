@@ -1,0 +1,200 @@
+[
+  {
+    "data_label": "Supplementary Data D1",
+    "content": "Curve identities and conditions",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/original/S01_curve_identity_conditions.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/original/S01_curve_identity_conditions.json"
+  },
+  {
+    "data_label": "Supplementary Data D2",
+    "content": "Fit calibration test roles",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/original/S02_all_roles.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/original/S02_all_roles.json"
+  },
+  {
+    "data_label": "Supplementary Data D3",
+    "content": "Admission and held dispositions",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/original/S03_admission_dispositions.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/original/S03_admission_dispositions.json"
+  },
+  {
+    "data_label": "Supplementary Data D4",
+    "content": "Method cohort summaries",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/original/S04_all_method_metrics.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/original/S04_all_method_metrics.json"
+  },
+  {
+    "data_label": "Supplementary Data D5",
+    "content": "Family method summaries",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/original/S05_family_method_metrics.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/original/S05_family_method_metrics.json"
+  },
+  {
+    "data_label": "Supplementary Data D6",
+    "content": "All20 scenario-weighted losses",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/original/S06_all20_costs.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/original/S06_all20_costs.json"
+  },
+  {
+    "data_label": "Supplementary Data D7",
+    "content": "Family mean20 differences",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/original/S07_family_mean20.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/original/S07_family_mean20.json"
+  },
+  {
+    "data_label": "Supplementary Data D8",
+    "content": "Family scenario differences",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/original/S08_family_all20.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/original/S08_family_all20.json"
+  },
+  {
+    "data_label": "Supplementary Data D9",
+    "content": "Calibration candidates",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/original/S09_calibration_only_candidates.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/original/S09_calibration_only_candidates.json"
+  },
+  {
+    "data_label": "Supplementary Data D10",
+    "content": "Selected heuristic rules",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/original/S10_frozen_heuristic_rules.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/original/S10_frozen_heuristic_rules.json"
+  },
+  {
+    "data_label": "Supplementary Data D11",
+    "content": "Scored-source bibliography",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/original/D11_scored_source_bibliography.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/original/D11_scored_source_bibliography.json"
+  },
+  {
+    "data_label": "Supplementary Data D12",
+    "content": "T01_policy_layer_metrics",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T01_policy_layer_metrics.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T01_policy_layer_metrics.json"
+  },
+  {
+    "data_label": "Supplementary Data D13",
+    "content": "T02_policy_family_metrics",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T02_policy_family_metrics.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T02_policy_family_metrics.json"
+  },
+  {
+    "data_label": "Supplementary Data D14",
+    "content": "T03_layer_scenario20",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T03_layer_scenario20.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T03_layer_scenario20.json"
+  },
+  {
+    "data_label": "Supplementary Data D15",
+    "content": "T04_family_scenario20",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T04_family_scenario20.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T04_family_scenario20.json"
+  },
+  {
+    "data_label": "Supplementary Data D16",
+    "content": "T05_Learned_minus_H_layer20",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T05_Learned_minus_H_layer20.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T05_Learned_minus_H_layer20.json"
+  },
+  {
+    "data_label": "Supplementary Data D17",
+    "content": "T06_Learned_minus_H_family20",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T06_Learned_minus_H_family20.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T06_Learned_minus_H_family20.json"
+  },
+  {
+    "data_label": "Supplementary Data D18",
+    "content": "T07_layer_mean20_differences",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T07_layer_mean20_differences.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T07_layer_mean20_differences.json"
+  },
+  {
+    "data_label": "Supplementary Data D19",
+    "content": "T08_family_mean20_differences",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T08_family_mean20_differences.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T08_family_mean20_differences.json"
+  },
+  {
+    "data_label": "Supplementary Data D20",
+    "content": "T09_cluster_bootstrap_intervals",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T09_cluster_bootstrap_intervals.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T09_cluster_bootstrap_intervals.json"
+  },
+  {
+    "data_label": "Supplementary Data D21",
+    "content": "T10_test_family_deletion",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T10_test_family_deletion.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T10_test_family_deletion.json"
+  },
+  {
+    "data_label": "Supplementary Data D22",
+    "content": "T11_adoption_error_family_concentration",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T11_adoption_error_family_concentration.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T11_adoption_error_family_concentration.json"
+  },
+  {
+    "data_label": "Supplementary Data D23",
+    "content": "T12_single_family_no_interval",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T12_single_family_no_interval.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T12_single_family_no_interval.json"
+  },
+  {
+    "data_label": "Supplementary Data D24",
+    "content": "T13_test_family_deletion_ranges",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T13_test_family_deletion_ranges.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T13_test_family_deletion_ranges.json"
+  },
+  {
+    "data_label": "Supplementary Data D25",
+    "content": "T14_cal_family_deletion_changes",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T14_cal_family_deletion_changes.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T14_cal_family_deletion_changes.json"
+  },
+  {
+    "data_label": "Supplementary Data D26",
+    "content": "T15_uniform_vs_original_actions",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T15_uniform_vs_original_actions.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T15_uniform_vs_original_actions.json"
+  },
+  {
+    "data_label": "Supplementary Data D27",
+    "content": "T16_family_scenario_wins",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T16_family_scenario_wins.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T16_family_scenario_wins.json"
+  },
+  {
+    "data_label": "Supplementary Data D28",
+    "content": "T17_calibration_feasibility",
+    "CSV": "working/research_batches/manuscript_polish04_work/tables/T17_calibration_feasibility.csv",
+    "JSON": "working/research_batches/manuscript_polish04_work/tables/T17_calibration_feasibility.json"
+  },
+  {
+    "data_label": "Supplementary Data D29",
+    "content": "selected_rules",
+    "CSV": "working/research_batches/calibration_robustness01_work/protocol/selected_rules.csv",
+    "JSON": "working/research_batches/calibration_robustness01_work/protocol/selected_rules.json"
+  },
+  {
+    "data_label": "Supplementary Data D30",
+    "content": "calibration_candidate_evaluations",
+    "CSV": "working/research_batches/calibration_robustness01_work/results/calibration_candidate_evaluations.csv",
+    "JSON": "working/research_batches/calibration_robustness01_work/results/calibration_candidate_evaluations.json"
+  },
+  {
+    "data_label": "Supplementary Data D31",
+    "content": "curve_results",
+    "CSV": "working/research_batches/calibration_robustness01_work/results/curve_results.csv",
+    "JSON": "working/research_batches/calibration_robustness01_work/results/curve_results.json"
+  },
+  {
+    "data_label": "Supplementary Data D32",
+    "content": "paired_bootstrap_distribution",
+    "CSV": "working/research_batches/calibration_robustness01_work/results/paired_bootstrap_distribution.csv",
+    "JSON": "working/research_batches/calibration_robustness01_work/results/paired_bootstrap_distribution.json"
+  },
+  {
+    "data_label": "Supplementary Data D33",
+    "content": "deleted_cal_full7_descriptions",
+    "CSV": "working/research_batches/calibration_robustness01_work/results/deleted_cal_full7_descriptions.csv",
+    "JSON": "working/research_batches/calibration_robustness01_work/results/deleted_cal_full7_descriptions.json"
+  }
+]

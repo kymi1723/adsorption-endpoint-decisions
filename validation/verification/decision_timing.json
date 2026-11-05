@@ -1,0 +1,11 @@
+{
+  "curve": "parallel_1",
+  "as_of_min": 60,
+  "observed_points": 5,
+  "target_min": 120,
+  "complete_decision_seconds": 0.2006438998505473,
+  "prefix_fit_feature_score_seconds": 0.18238449981436133,
+  "includes": "joblib load, PSO for n3/n4/n5, features, tree scores, first decision",
+  "excludes": "interpreter import/startup, physical experiment, plotting, endpoint truth",
+  "repeat_count": 1
+}

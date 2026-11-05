@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="912.17472pt" height="415.997812pt" viewBox="0 0 912.17472 415.997812" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-05T12:22:42.593339</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 415.997812 
+L 912.17472 415.997812 
+L 912.17472 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start" x="7.2" y="17.837812" transform="rotate(-0 7.2 17.837812)">a  Evaluation roles</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(14.122228 86.739703)">Held-family development: 79 curves / 14 families</text>
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(14.122228 101.85675)">14 different fit/cal/test configurations</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(14.122228 159.067303)">Transfer development: 19 / 6</text>
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(14.122228 174.18435)">Final fit 53 / 7; calibration 26 / 7</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(14.122228 231.394903)">Historical external: 15 / 6</text>
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(14.122228 246.51195)">Previously evaluated; now contacted</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(14.122228 303.722503)">Aerogel 1 / 1; LDH clay 6 / 1</text>
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(14.122228 318.83955)">LDH: prior qualitative-response contact</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(14.122228 376.050103)">Later three-source queue: 10 / 3</text>
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(14.122228 391.16715)">All new simple-rule comparisons retrospective</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_2">
+    <path d="M 531.174417 117.253355 
+L 811.524644 117.253355 
+Q 815.262647 117.253355 815.262647 112.785241 
+L 815.262647 56.933812 
+Q 815.262647 52.465698 811.524644 52.465698 
+L 531.174417 52.465698 
+Q 527.436414 52.465698 527.436414 56.933812 
+L 527.436414 112.785241 
+Q 527.436414 117.253355 531.174417 117.253355 
+z
+" style="fill: #edf3f6; stroke: #355564; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 531.174417 209.408212 
+L 811.524644 209.408212 
+Q 815.262647 209.408212 815.262647 204.940098 
+L 815.262647 149.08867 
+Q 815.262647 144.620555 811.524644 144.620555 
+L 531.174417 144.620555 
+Q 527.436414 144.620555 527.436414 149.08867 
+L 527.436414 204.940098 
+Q 527.436414 209.408212 531.174417 209.408212 
+z
+" style="fill: #edf3f6; stroke: #355564; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 440.060593 321.11107 
+L 631.633248 321.11107 
+Q 635.371251 321.11107 635.371251 316.642955 
+L 635.371251 260.791527 
+Q 635.371251 256.323412 631.633248 256.323412 
+L 440.060593 256.323412 
+Q 436.32259 256.323412 436.32259 260.791527 
+L 436.32259 316.642955 
+Q 436.32259 321.11107 440.060593 321.11107 
+z
+" style="fill: #edf3f6; stroke: #355564; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 694.712049 321.11107 
+L 886.284704 321.11107 
+Q 890.022707 321.11107 890.022707 316.642955 
+L 890.022707 260.791527 
+Q 890.022707 256.323412 886.284704 256.323412 
+L 694.712049 256.323412 
+Q 690.974046 256.323412 690.974046 260.791527 
+L 690.974046 316.642955 
+Q 690.974046 321.11107 694.712049 321.11107 
+z
+" style="fill: #edf3f6; stroke: #355564; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 671.34953 120.369363 
+Q 671.34953 129.539468 671.34953 137.591539 
+" clip-path="url(#pc1473945d2)" style="fill: none; stroke: #355564; stroke-linecap: round"/>
+    <path d="M 674.14953 131.991539 
+L 671.34953 137.591539 
+L 668.54953 131.991539 
+z
+" clip-path="url(#pc1473945d2)" style="fill: #355564; stroke: #355564; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 622.795731 214.123165 
+Q 580.235445 232.865928 538.698369 251.158087 
+" clip-path="url(#pc1473945d2)" style="fill: none; stroke: #355564; stroke-linecap: round"/>
+    <path d="M 544.951899 251.463635 
+L 538.698369 251.158087 
+L 542.694925 246.338592 
+z
+" clip-path="url(#pc1473945d2)" style="fill: #355564; stroke: #355564; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 719.847291 214.244863 
+Q 755.455569 232.86632 790.07311 250.969668 
+" clip-path="url(#pc1473945d2)" style="fill: none; stroke: #355564; stroke-linecap: round"/>
+    <path d="M 786.408259 245.893363 
+L 790.07311 250.969668 
+L 783.813156 250.855766 
+z
+" clip-path="url(#pc1473945d2)" style="fill: #355564; stroke: #355564; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="437.724341" y="29.008098" transform="rotate(-0 437.724341 29.008098)">b  Prediction adoption or continued measurement</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(573.572616 81.02616)">Real complete prefix, k &gt;= 3</text>
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(529.485624 96.143206)">Known target clock; initial-inventory scale</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(596.166132 173.181017)">PSO endpoint forecast</text>
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(533.520858 188.298064)">Available score &lt;= calibrated threshold?</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(445.116374 284.883874)">Yes: adopt current forecast</text>
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(472.150124 300.000921)">First passing prefix</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(700.443885 284.883874)">No: acquire next real point</text>
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(689.911775 300.000921)">Or measure target as fallback</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(511.074999 354.584766)">No generated observation; no post-target input</text>
+    <text style="font-size: 13.5px; font-family: 'DejaVu Sans'" transform="translate(504.620312 369.701812)">5 pp tolerance and 5% empirical goal are distinct</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc1473945d2">
+   <rect x="437.724341" y="17.837812" width="467.250378" height="390.96"/>
+  </clipPath>
+ </defs>
+</svg>

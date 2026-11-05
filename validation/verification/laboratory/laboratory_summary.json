@@ -1,0 +1,35 @@
+[
+  {
+    "series": "parallel_1",
+    "prediction_mg_g": 95.44972921686988,
+    "target_mg_g": 95.34,
+    "error_pp": 0.10972921686988002,
+    "score_pp": 1.5610934151123992,
+    "decision": "adopt",
+    "observations_used": 5,
+    "max_input_time_min": 60.0,
+    "decision_seconds": 0.23011900018900633
+  },
+  {
+    "series": "parallel_2",
+    "prediction_mg_g": 92.80548390353202,
+    "target_mg_g": 94.28,
+    "error_pp": 1.4745160964679798,
+    "score_pp": 1.7390304167424546,
+    "decision": "adopt",
+    "observations_used": 5,
+    "max_input_time_min": 60.0,
+    "decision_seconds": 0.1820071996189654
+  },
+  {
+    "series": "parallel_3",
+    "prediction_mg_g": 93.94999177537167,
+    "target_mg_g": 94.79,
+    "error_pp": 0.8400082246283347,
+    "score_pp": 1.5283122248347687,
+    "decision": "adopt",
+    "observations_used": 5,
+    "max_input_time_min": 60.0,
+    "decision_seconds": 0.18304309993982315
+  }
+]

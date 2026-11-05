@@ -1,0 +1,245 @@
+[
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "table_ordinal": 1,
+    "nearest_preceding_caption": "Table 1. Literature evaluation layers, curve counts, and model/evaluation roles.",
+    "rows": 7,
+    "path": "reference/final_table_exports/main_table_01.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Evaluation layer",
+      "Curves",
+      "Families",
+      "Recorded role"
+    ]
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "table_ordinal": 2,
+    "nearest_preceding_caption": "Table 2. Principal development comparison under common U0-E calibration (5-pp endpoint-error tolerance). A is source-equal adoption; adopted is an unweighted curve count. Waiting and observations include target-measurement fallback. Detailed conditional-error summaries are in Supplementary Data D12–D33; original-calibration comparisons are reported separately.",
+    "rows": 5,
+    "path": "reference/final_table_exports/main_table_02.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Layer",
+      "Strategy",
+      "Adopted",
+      "A (%)",
+      "Wait (min)",
+      "Obs. (n)"
+    ]
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "table_ordinal": 3,
+    "nearest_preceding_caption": "Table 3. Learned versus recent-plateau (H1) scenario-weighted loss under common U0-E calibration, consistent with Table 2. Mean20 is the unweighted average over 20 specified resource-weight combinations; negative learned-minus-H1 values favour learning. The original-calibration full H1–H3 comparison is preserved in SI Table S5 and Supplementary Data D6–D8.",
+    "rows": 3,
+    "path": "reference/final_table_exports/main_table_03.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Layer",
+      "Calibration",
+      "Lower-loss scenarios",
+      "Mean20 learned − H1"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 1,
+    "nearest_preceding_caption": "",
+    "rows": 7,
+    "path": "reference/final_table_exports/SI_table_01.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Layer",
+      "Admission criterion",
+      "Implementation / record"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 2,
+    "nearest_preceding_caption": "",
+    "rows": 10,
+    "path": "reference/final_table_exports/SI_table_02.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Record class",
+      "Count",
+      "Documentation / disposition"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 3,
+    "nearest_preceding_caption": "Table S1. Fixed state representation. Define L=t_k, Q as the known query times and slog(z)=sign(z)*log(1+|z|). For this one-target task Q={T}; query min/max features coincide and query range is zero. This redundancy was retained because the original estimator was frozen.",
+    "rows": 21,
+    "path": "reference/final_table_exports/SI_table_03.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Index",
+      "Feature",
+      "Definition using revealed inputs and known clocks"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 4,
+    "nearest_preceding_caption": "Table S2. Information and calibration differences retained from the fixed protocols.",
+    "rows": 7,
+    "path": "reference/final_table_exports/SI_table_04.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Method",
+      "Earliest input count",
+      "Calibration criterion",
+      "Threshold candidates"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 5,
+    "nearest_preceding_caption": "Table S5. Archived original-calibration mean20 scenario-weighted loss differences and numbers of favourable scenarios (learned minus each simple sequential rule). Negative differences favour learned stopping. These results retain the original policy thresholds and are distinct from the main-text U0-E Table 3.",
+    "rows": 7,
+    "path": "reference/final_table_exports/SI_table_05.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Layer",
+      "Learned minus plateau",
+      "Learned minus forecast stability",
+      "Learned minus latest-point error"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 6,
+    "nearest_preceding_caption": "Table S5. Archived original-calibration mean20 scenario-weighted loss differences and numbers of favourable scenarios (learned minus each simple sequential rule). Negative differences favour learned stopping. These results retain the original policy thresholds and are distinct from the main-text U0-E Table 3.",
+    "rows": 12,
+    "path": "reference/final_table_exports/SI_table_06.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Attachment",
+      "Content",
+      "Retained filename"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 7,
+    "nearest_preceding_caption": "Table S3. Four common calibration algorithms, each applied to Learned,H1,H2,H3. Score thresholds are method-specific; only the generation/selection algorithm is shared.",
+    "rows": 5,
+    "path": "reference/final_table_exports/SI_table_07.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Setting",
+      "Coverage requirement",
+      "Candidate scores"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 8,
+    "nearest_preceding_caption": "Table S4. CBES and the present task. Both forecast later performance from partial observations; their stopping event and controlled-error denominator differ.",
+    "rows": 6,
+    "path": "reference/final_table_exports/SI_table_08.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Aspect",
+      "CBES [15]",
+      "Present study"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 9,
+    "nearest_preceding_caption": "Table S4. CBES and the present task. Both forecast later performance from partial observations; their stopping event and controlled-error denominator differ.",
+    "rows": 23,
+    "path": "reference/final_table_exports/SI_table_09.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Attachment",
+      "Content",
+      "File"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 10,
+    "nearest_preceding_caption": "Table S6. All 27 supplied uptake measurements from three parallel MMT-5/XO laboratory kinetic series, with mean, sample SD and RSD; measured reversals are retained. The 120-min observation is each series’s own target.",
+    "rows": 10,
+    "path": "reference/final_table_exports/SI_table_10.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "t (min)",
+      "Series 1",
+      "Series 2",
+      "Series 3",
+      "Mean ± SD",
+      "RSD (%)",
+      "Role"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 11,
+    "nearest_preceding_caption": "Table S7. Twelve complete-prefix PSO forecasts and frozen learned-policy error scores for three laboratory series. The score threshold for U0-E adoption is 2.1167078708551017 pp; 5 pp is the separate endpoint-error tolerance. At 60 min, the forecast and decision were fixed before later sampling. The 90-min states are post-adoption diagnostics, not new adoption events; H1–H3 columns contain their respective screening scores.",
+    "rows": 13,
+    "path": "reference/final_table_exports/SI_table_11.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Series",
+      "Last time",
+      "PSO q₁₂₀",
+      "Learned score",
+      "Target error",
+      "Learned action",
+      "H1 / H2 / H3 score"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 12,
+    "nearest_preceding_caption": "Table S7a. Bounded-PSO prefix parameters for the twelve states. qₑ is expressed in mg g−1 and τ in min; SSE is on the normalized removal-fraction scale. The target is not used in fitting.",
+    "rows": 13,
+    "path": "reference/final_table_exports/SI_table_12.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Series",
+      "Last (min)",
+      "PSO qₑ",
+      "τ (min)",
+      "Prefix SSE",
+      "q₁₂₀ forecast"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 13,
+    "nearest_preceding_caption": "Table S8. First stopping actions for each laboratory series under source-excluded U0-E calibration, with 120-min target measurement as the full-observation reference. Zero forecast error for target fallback follows from using the observed target as that reference.",
+    "rows": 16,
+    "path": "reference/final_table_exports/SI_table_13.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Series / method",
+      "Action (min)",
+      "Reported q₁₂₀",
+      "Measured q₁₂₀",
+      "Error (pp)",
+      "Obs. (n)",
+      "Saved n / min"
+    ]
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "table_ordinal": 14,
+    "nearest_preceding_caption": "Table S9. Model-development alternatives and observed trade-offs.",
+    "rows": 5,
+    "path": "reference/final_table_exports/SI_table_14.csv",
+    "role": "exact text export of supplied table; not a recalculation",
+    "header": [
+      "Model variant",
+      "Recorded outcome",
+      "Interpretation and limit"
+    ]
+  }
+]

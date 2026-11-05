@@ -1,0 +1,14 @@
+[
+  {
+    "scheme": "U0-E",
+    "actions": 520,
+    "all_state_and_decision_fields_exact": true,
+    "max_error_metric_difference_pp": 0.0
+  },
+  {
+    "scheme": "Original_frozen",
+    "actions": 520,
+    "all_state_and_decision_fields_exact": true,
+    "max_error_metric_difference_pp": 0.0
+  }
+]

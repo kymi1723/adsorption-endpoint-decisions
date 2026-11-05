@@ -1,0 +1,68 @@
+[
+  {
+    "data_label": "Supplementary Data D1",
+    "content": "Curve identities and conditions",
+    "CSV": "working/research_batches/manuscript_revision02_work/tables/S01_curve_identity_conditions.csv",
+    "JSON": "working/research_batches/manuscript_revision02_work/tables/S01_curve_identity_conditions.json"
+  },
+  {
+    "data_label": "Supplementary Data D2",
+    "content": "Fit calibration test roles",
+    "CSV": "working/research_batches/manuscript_revision02_work/tables/S02_all_roles.csv",
+    "JSON": "working/research_batches/manuscript_revision02_work/tables/S02_all_roles.json"
+  },
+  {
+    "data_label": "Supplementary Data D3",
+    "content": "Admission and held dispositions",
+    "CSV": "working/research_batches/manuscript_revision02_work/tables/S03_admission_dispositions.csv",
+    "JSON": "working/research_batches/manuscript_revision02_work/tables/S03_admission_dispositions.json"
+  },
+  {
+    "data_label": "Supplementary Data D4",
+    "content": "Method cohort summaries",
+    "CSV": "working/research_batches/manuscript_revision02_work/tables/S04_all_method_metrics.csv",
+    "JSON": "working/research_batches/manuscript_revision02_work/tables/S04_all_method_metrics.json"
+  },
+  {
+    "data_label": "Supplementary Data D5",
+    "content": "Family method summaries",
+    "CSV": "working/research_batches/manuscript_revision02_work/tables/S05_family_method_metrics.csv",
+    "JSON": "working/research_batches/manuscript_revision02_work/tables/S05_family_method_metrics.json"
+  },
+  {
+    "data_label": "Supplementary Data D6",
+    "content": "All20 scenario costs",
+    "CSV": "working/research_batches/manuscript_revision02_work/tables/S06_all20_costs.csv",
+    "JSON": "working/research_batches/manuscript_revision02_work/tables/S06_all20_costs.json"
+  },
+  {
+    "data_label": "Supplementary Data D7",
+    "content": "Family mean20 differences",
+    "CSV": "working/research_batches/manuscript_revision02_work/tables/S07_family_mean20.csv",
+    "JSON": "working/research_batches/manuscript_revision02_work/tables/S07_family_mean20.json"
+  },
+  {
+    "data_label": "Supplementary Data D8",
+    "content": "Family scenario differences",
+    "CSV": "working/research_batches/manuscript_revision02_work/tables/S08_family_all20.csv",
+    "JSON": "working/research_batches/manuscript_revision02_work/tables/S08_family_all20.json"
+  },
+  {
+    "data_label": "Supplementary Data D9",
+    "content": "Calibration candidates",
+    "CSV": "working/research_batches/manuscript_revision02_work/tables/S09_calibration_only_candidates.csv",
+    "JSON": "working/research_batches/manuscript_revision02_work/tables/S09_calibration_only_candidates.json"
+  },
+  {
+    "data_label": "Supplementary Data D10",
+    "content": "Selected heuristic rules",
+    "CSV": "working/research_batches/manuscript_revision02_work/tables/S10_frozen_heuristic_rules.csv",
+    "JSON": "working/research_batches/manuscript_revision02_work/tables/S10_frozen_heuristic_rules.json"
+  },
+  {
+    "data_label": "Supplementary Data D11",
+    "content": "Scored-source bibliography",
+    "CSV": "working/research_batches/manuscript_revision02_work/tables/D11_scored_source_bibliography.csv",
+    "JSON": "working/research_batches/manuscript_revision02_work/tables/D11_scored_source_bibliography.json"
+  }
+]

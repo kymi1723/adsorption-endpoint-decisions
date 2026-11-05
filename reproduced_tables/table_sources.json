@@ -1,0 +1,6 @@
+{
+  "Table2": "reference/paper_tables/T01_policy_layer_metrics.json; filters U0-E,5pp,no calibration-family deletion; verified against fresh model/calibration output",
+  "Table3": "reference/paper_tables/T07_layer_mean20_differences.json; same filters",
+  "exact_supplied_text": "direct DOCX table-text exports, never claimed to be new calculations",
+  "laboratory_tables": "data/laboratory/D34–D38; freshly inferred60min check in outputs/verification/laboratory"
+}

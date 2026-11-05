@@ -1,0 +1,25 @@
+﻿batch_id,scheme,method,families,adopting_families,unsafe_families,unsafe_family_ids,adopted_curve_count,unsafe_curve_count
+original79,Original_frozen,Learned,14,9,2,"[""China_CUGBeijing_Chen_Daimei"", ""China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue""]",60,2
+original79,Original_frozen,H1,14,8,1,"[""Morocco_IbnZohr_Lisbon_Ouachtak_Taha""]",35,1
+original79,U0-E,Learned,14,9,2,"[""China_CUGBeijing_Chen_Daimei"", ""China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue""]",60,2
+original79,U0-E,H1,14,8,1,"[""Morocco_IbnZohr_Lisbon_Ouachtak_Taha""]",39,1
+transfer19,Original_frozen,Learned,6,6,0,[],15,0
+transfer19,Original_frozen,H1,6,3,0,[],5,0
+transfer19,U0-E,Learned,6,6,0,[],15,0
+transfer19,U0-E,H1,6,3,0,[],5,0
+historical_external15,Original_frozen,Learned,6,3,1,"[""China_GuangxiU_Fan_Zhang_Qin""]",8,1
+historical_external15,Original_frozen,H1,6,1,0,[],1,0
+historical_external15,U0-E,Learned,6,3,1,"[""China_GuangxiU_Fan_Zhang_Qin""]",8,1
+historical_external15,U0-E,H1,6,1,0,[],1,0
+N4_confirmation01,Original_frozen,Learned,1,0,0,[],0,0
+N4_confirmation01,Original_frozen,H1,1,0,0,[],0,0
+N4_confirmation01,U0-E,Learned,1,0,0,[],0,0
+N4_confirmation01,U0-E,H1,1,0,0,[],0,0
+C01_confirmation02,Original_frozen,Learned,1,1,0,[],6,0
+C01_confirmation02,Original_frozen,H1,1,0,0,[],0,0
+C01_confirmation02,U0-E,Learned,1,1,0,[],6,0
+C01_confirmation02,U0-E,H1,1,0,0,[],0,0
+remaining_queue03,Original_frozen,Learned,3,2,0,[],4,0
+remaining_queue03,Original_frozen,H1,3,3,0,[],5,0
+remaining_queue03,U0-E,Learned,3,2,0,[],4,0
+remaining_queue03,U0-E,H1,3,3,0,[],5,0

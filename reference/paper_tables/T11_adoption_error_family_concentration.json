@@ -1,0 +1,280 @@
+[
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "families": 14,
+    "adopting_families": 9,
+    "unsafe_families": 2,
+    "unsafe_family_ids": [
+      "China_CUGBeijing_Chen_Daimei",
+      "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue"
+    ],
+    "adopted_curve_count": 60,
+    "unsafe_curve_count": 2
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "families": 14,
+    "adopting_families": 8,
+    "unsafe_families": 1,
+    "unsafe_family_ids": [
+      "Morocco_IbnZohr_Lisbon_Ouachtak_Taha"
+    ],
+    "adopted_curve_count": 35,
+    "unsafe_curve_count": 1
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "families": 14,
+    "adopting_families": 9,
+    "unsafe_families": 2,
+    "unsafe_family_ids": [
+      "China_CUGBeijing_Chen_Daimei",
+      "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue"
+    ],
+    "adopted_curve_count": 60,
+    "unsafe_curve_count": 2
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "H1",
+    "families": 14,
+    "adopting_families": 8,
+    "unsafe_families": 1,
+    "unsafe_family_ids": [
+      "Morocco_IbnZohr_Lisbon_Ouachtak_Taha"
+    ],
+    "adopted_curve_count": 39,
+    "unsafe_curve_count": 1
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "families": 6,
+    "adopting_families": 6,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 15,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "families": 6,
+    "adopting_families": 3,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 5,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "families": 6,
+    "adopting_families": 6,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 15,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "H1",
+    "families": 6,
+    "adopting_families": 3,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 5,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "families": 6,
+    "adopting_families": 3,
+    "unsafe_families": 1,
+    "unsafe_family_ids": [
+      "China_GuangxiU_Fan_Zhang_Qin"
+    ],
+    "adopted_curve_count": 8,
+    "unsafe_curve_count": 1
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "families": 6,
+    "adopting_families": 1,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 1,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "families": 6,
+    "adopting_families": 3,
+    "unsafe_families": 1,
+    "unsafe_family_ids": [
+      "China_GuangxiU_Fan_Zhang_Qin"
+    ],
+    "adopted_curve_count": 8,
+    "unsafe_curve_count": 1
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "H1",
+    "families": 6,
+    "adopting_families": 1,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 1,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "N4_confirmation01",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "families": 1,
+    "adopting_families": 0,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 0,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "N4_confirmation01",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "families": 1,
+    "adopting_families": 0,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 0,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "N4_confirmation01",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "families": 1,
+    "adopting_families": 0,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 0,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "N4_confirmation01",
+    "scheme": "U0-E",
+    "method": "H1",
+    "families": 1,
+    "adopting_families": 0,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 0,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "C01_confirmation02",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "families": 1,
+    "adopting_families": 1,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 6,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "C01_confirmation02",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "families": 1,
+    "adopting_families": 0,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 0,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "C01_confirmation02",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "families": 1,
+    "adopting_families": 1,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 6,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "C01_confirmation02",
+    "scheme": "U0-E",
+    "method": "H1",
+    "families": 1,
+    "adopting_families": 0,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 0,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "families": 3,
+    "adopting_families": 2,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 4,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "families": 3,
+    "adopting_families": 3,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 5,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "families": 3,
+    "adopting_families": 2,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 4,
+    "unsafe_curve_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "H1",
+    "families": 3,
+    "adopting_families": 3,
+    "unsafe_families": 0,
+    "unsafe_family_ids": [],
+    "adopted_curve_count": 5,
+    "unsafe_curve_count": 0
+  }
+]

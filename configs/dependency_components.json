@@ -1,0 +1,425 @@
+[
+  {
+    "canonical_group_id": "University_of_Leeds",
+    "recorded_family_labels": [
+      "University_of_Leeds"
+    ],
+    "source_ids": [
+      "ACS2017"
+    ],
+    "dois": [
+      "10.1021/acsami.7b08406"
+    ]
+  },
+  {
+    "canonical_group_id": "Morocco_IbnTofail_Abbou_Lebkiri_Rifi",
+    "recorded_family_labels": [
+      "Morocco_IbnTofail_Abbou_Lebkiri_Rifi"
+    ],
+    "source_ids": [
+      "Abbou2023"
+    ],
+    "dois": [
+      "10.1016/j.inoche.2023.111127"
+    ]
+  },
+  {
+    "canonical_group_id": "China_Guangxi_PakistanPeshawar_Ain_Yaseen_Tong",
+    "recorded_family_labels": [
+      "China_Guangxi_PakistanPeshawar_Ain_Yaseen_Tong"
+    ],
+    "source_ids": [
+      "Ain2020"
+    ],
+    "dois": [
+      "10.1016/j.apsusc.2020.145929"
+    ]
+  },
+  {
+    "canonical_group_id": "Brazil_Maringa_Campinas_AndreoDosSantos_daSilva",
+    "recorded_family_labels": [
+      "Brazil_Maringa_Campinas_AndreoDosSantos_daSilva"
+    ],
+    "source_ids": [
+      "AndreoDosSantos2013"
+    ],
+    "dois": [
+      "10.3303/cet1332052"
+    ]
+  },
+  {
+    "canonical_group_id": "India_AnnaUniversity_Baskaralingam_Sivanesan",
+    "recorded_family_labels": [
+      "India_AnnaUniversity_Baskaralingam_Sivanesan"
+    ],
+    "source_ids": [
+      "Baskar2006"
+    ],
+    "dois": [
+      "10.1016/j.jhazmat.2005.07.049"
+    ]
+  },
+  {
+    "canonical_group_id": "India_CSMCRI_Bhatt_Paul",
+    "recorded_family_labels": [
+      "India_CSMCRI_Bhatt_Paul"
+    ],
+    "source_ids": [
+      "Bhatt2012"
+    ],
+    "dois": [
+      "10.1039/c2ra20347b"
+    ]
+  },
+  {
+    "canonical_group_id": "Algeria_USTOran_Khenifi_Derriche",
+    "recorded_family_labels": [
+      "Algeria_USTOran_Khenifi_Derriche"
+    ],
+    "source_ids": [
+      "Bouberka2009",
+      "Khenifi2007",
+      "Zohra2008_CEJ"
+    ],
+    "dois": [
+      "10.1007/s10450-007-9016-6",
+      "10.1016/j.cej.2007.03.086",
+      "10.1016/j.jhazmat.2008.05.079"
+    ]
+  },
+  {
+    "canonical_group_id": "Brazil_UFPB_Fonseca_Filho_Jaber",
+    "recorded_family_labels": [
+      "Brazil_UFPB_Fonseca_Filho_Jaber"
+    ],
+    "source_ids": [
+      "Brito2018"
+    ],
+    "dois": [
+      "10.1016/j.jece.2018.11.006"
+    ]
+  },
+  {
+    "canonical_group_id": "China_CUGBeijing_Chen_Daimei",
+    "recorded_family_labels": [
+      "China_CUGBeijing_Chen_Daimei"
+    ],
+    "source_ids": [
+      "Chen2011"
+    ],
+    "dois": [
+      "10.1016/j.cej.2011.05.013"
+    ]
+  },
+  {
+    "canonical_group_id": "SeoulTech_Park_Hwang",
+    "recorded_family_labels": [
+      "SeoulTech_Park_Hwang"
+    ],
+    "source_ids": [
+      "Choi2023"
+    ],
+    "dois": [
+      "10.4491/eer.2022.076"
+    ]
+  },
+  {
+    "canonical_group_id": "China_University_of_Petroleum_Gao",
+    "recorded_family_labels": [
+      "China_University_of_Petroleum_Gao"
+    ],
+    "source_ids": [
+      "Ding2018",
+      "Jin2022",
+      "Luo2015"
+    ],
+    "dois": [
+      "10.1016/j.apsusc.2014.11.043",
+      "10.1016/j.cej.2018.05.095",
+      "10.1016/j.jece.2022.108442"
+    ]
+  },
+  {
+    "canonical_group_id": "China_JiangxiUST_Luo_Wuhui",
+    "recorded_family_labels": [
+      "China_JiangxiUST_Luo_Wuhui"
+    ],
+    "source_ids": [
+      "Du2024"
+    ],
+    "dois": [
+      "10.1016/j.colsurfa.2024.133489"
+    ]
+  },
+  {
+    "canonical_group_id": "Algeria_Tlemcen_Didi_Makhoukhi_Guezzen",
+    "recorded_family_labels": [
+      "Algeria_Tlemcen_Didi_Makhoukhi",
+      "Algeria_Tlemcen_Didi_Makhoukhi_Guezzen",
+      "Guezzen_Didi_Medjahed_Adjdir_Algeria"
+    ],
+    "source_ids": [
+      "Guezzen2023",
+      "Makhoukhi2010"
+    ],
+    "dois": [
+      "10.1016/j.clay.2010.08.026",
+      "10.1016/j.jiec.2023.05.034"
+    ]
+  },
+  {
+    "canonical_group_id": "Iraq_Baghdad_Ibrahim_AbdAli",
+    "recorded_family_labels": [
+      "Iraq_Baghdad_Ibrahim_AbdAli"
+    ],
+    "source_ids": [
+      "Ibrahim2020"
+    ],
+    "dois": [
+      "10.31026/j.eng.2020.05.05"
+    ]
+  },
+  {
+    "canonical_group_id": "Morocco_UM5Rabat_Iqajtaoune_Taibi",
+    "recorded_family_labels": [
+      "Morocco_UM5Rabat_Iqajtaoune_Taibi"
+    ],
+    "source_ids": [
+      "Iqajtaoune2024"
+    ],
+    "dois": [
+      "10.1016/j.dwt.2024.100607"
+    ]
+  },
+  {
+    "canonical_group_id": "Japan_OsakaMetropolitan_Iwasaki",
+    "recorded_family_labels": [
+      "Japan_OsakaMetropolitan_Iwasaki"
+    ],
+    "source_ids": [
+      "Iwasaki2023"
+    ],
+    "dois": [
+      "10.3390/min13010041"
+    ]
+  },
+  {
+    "canonical_group_id": "Serbia_Belgrade_ICTM_Jovic",
+    "recorded_family_labels": [
+      "Serbia_Belgrade_ICTM_Jovic"
+    ],
+    "source_ids": [
+      "Jovic2008",
+      "Jovic2013"
+    ],
+    "dois": [
+      "10.1002/ceat.200700421",
+      "10.1016/j.jconhyd.2013.03.004"
+    ]
+  },
+  {
+    "canonical_group_id": "China_West_Normal_Jiang_Zhou",
+    "recorded_family_labels": [
+      "China_West_Normal_Jiang_Zhou"
+    ],
+    "source_ids": [
+      "Kan2011",
+      "Wang2013"
+    ],
+    "dois": [
+      "10.1016/j.clay.2011.07.009",
+      "10.1021/je400164e"
+    ]
+  },
+  {
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "recorded_family_labels": [
+      "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue"
+    ],
+    "source_ids": [
+      "Li2009",
+      "Li2010",
+      "Shen2009"
+    ],
+    "dois": [
+      "10.1016/j.jenvman.2010.03.001",
+      "10.1016/j.jhazmat.2008.10.110",
+      "10.1016/j.jhazmat.2009.06.139"
+    ]
+  },
+  {
+    "canonical_group_id": "Iran_Institute_Color_Science_Mahmoodi",
+    "recorded_family_labels": [
+      "Iran_Institute_Color_Science_Mahmoodi"
+    ],
+    "source_ids": [
+      "Mahmoodi2019"
+    ],
+    "dois": [
+      "10.1016/j.jece.2019.103243"
+    ]
+  },
+  {
+    "canonical_group_id": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "recorded_family_labels": [
+      "Greece_DemocritusThrace_Kyzas_Meretoudi"
+    ],
+    "source_ids": [
+      "Meretoudi2025"
+    ],
+    "dois": [
+      "10.1021/acs.langmuir.5c03148"
+    ]
+  },
+  {
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "recorded_family_labels": [
+      "Beijing_Technology_Business_University_Liu_Xu"
+    ],
+    "source_ids": [
+      "Mo2024"
+    ],
+    "dois": [
+      "10.5650/jos.ess23174"
+    ]
+  },
+  {
+    "canonical_group_id": "Vietnam_Hue_DongThap_Khieu_MyLinh",
+    "recorded_family_labels": [
+      "Vietnam_Hue_DongThap_Khieu_MyLinh"
+    ],
+    "source_ids": [
+      "MyLinh2020"
+    ],
+    "dois": [
+      "10.1155/2020/1504805"
+    ]
+  },
+  {
+    "canonical_group_id": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "recorded_family_labels": [
+      "Morocco_IbnZohr_Lisbon_Ouachtak_Taha"
+    ],
+    "source_ids": [
+      "Ouachtak2021"
+    ],
+    "dois": [
+      "10.1016/j.molliq.2021.116560"
+    ]
+  },
+  {
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "recorded_family_labels": [
+      "Turkey_Anadolu_Ozcan_Erdem"
+    ],
+    "source_ids": [
+      "Ozcan2004",
+      "Ozcan2005",
+      "Ozcan2006Sep",
+      "Ozcan2007RB"
+    ],
+    "dois": [
+      "10.1016/j.colsurfa.2005.06.001",
+      "10.1016/j.jcis.2004.07.035",
+      "10.1016/j.jhazmat.2005.08.037",
+      "10.1016/j.jhazmat.2006.06.138"
+    ]
+  },
+  {
+    "canonical_group_id": "Latvia_Estonia_OzolaDavidane_Klavins",
+    "recorded_family_labels": [
+      "Latvia_Estonia_OzolaDavidane_Klavins"
+    ],
+    "source_ids": [
+      "OzolaDavidane2021"
+    ],
+    "dois": [
+      "10.1016/j.molliq.2021.116373"
+    ]
+  },
+  {
+    "canonical_group_id": "Guangzhou_University_Peng_Zeng",
+    "recorded_family_labels": [
+      "Guangzhou_University_Peng_Zeng"
+    ],
+    "source_ids": [
+      "Peng2019"
+    ],
+    "dois": [
+      "10.1016/j.colsurfa.2019.123602"
+    ]
+  },
+  {
+    "canonical_group_id": "Xijing_University_Ren_Miao",
+    "recorded_family_labels": [
+      "Xijing_University_Ren_Miao"
+    ],
+    "source_ids": [
+      "Ren2018"
+    ],
+    "dois": [
+      "10.1016/j.clay.2017.10.024"
+    ]
+  },
+  {
+    "canonical_group_id": "China_Zhejiang_Tong_Zhou",
+    "recorded_family_labels": [
+      "China_Zhejiang_Tong_Zhou"
+    ],
+    "source_ids": [
+      "Tong2010"
+    ],
+    "dois": [
+      "10.1016/j.clay.2010.08.018"
+    ]
+  },
+  {
+    "canonical_group_id": "Australia_Adelaide_Toor_Jin",
+    "recorded_family_labels": [
+      "Australia_Adelaide_Toor_Jin"
+    ],
+    "source_ids": [
+      "Toor2012"
+    ],
+    "dois": [
+      "10.1016/j.cej.2012.01.089"
+    ]
+  },
+  {
+    "canonical_group_id": "China_Lanzhou_LICP_Wang_Aiqin",
+    "recorded_family_labels": [
+      "China_Lanzhou_LICP_Wang_Aiqin"
+    ],
+    "source_ids": [
+      "Wang2008"
+    ],
+    "dois": [
+      "10.1016/j.cej.2007.12.007",
+      "10.1016/j.jhazmat.2008.02.104"
+    ]
+  },
+  {
+    "canonical_group_id": "China_Weifang_Qingdao_Changzhou_Zheng_Li_Zhang",
+    "recorded_family_labels": [
+      "China_Weifang_Qingdao_Changzhou_Zheng_Li_Zhang"
+    ],
+    "source_ids": [
+      "Zheng2026"
+    ],
+    "dois": [
+      "10.1016/j.dwt.2025.101595"
+    ]
+  },
+  {
+    "canonical_group_id": "China_SichuanUniversity_Chen_Hui",
+    "recorded_family_labels": [
+      "China_SichuanUniversity_Chen_Hui"
+    ],
+    "source_ids": [
+      "Zhu2023"
+    ],
+    "dois": [
+      "10.1016/j.colsurfa.2022.130705"
+    ]
+  }
+]

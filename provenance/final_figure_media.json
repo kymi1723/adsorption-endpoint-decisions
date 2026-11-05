@@ -1,0 +1,247 @@
+[
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image2.svg",
+    "release_path": "reference/final_manuscript_media/main/image2.svg",
+    "sha256": "74f67382e0c4f3baefb90457e4464389f413421901f9a8d9c588765fb505527a",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image7.png",
+    "release_path": "reference/final_manuscript_media/main/image7.png",
+    "sha256": "da00cea5ec148696f13dcdfa7987b5f50c37fa283d6918518ad701e25f0a975e",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image12.svg",
+    "release_path": "reference/final_manuscript_media/main/image12.svg",
+    "sha256": "ec875022ef5d03905ce35979991d50cb0b6d0e6516098cd40668c3b48ff8c7ff",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image1.png",
+    "release_path": "reference/final_manuscript_media/main/image1.png",
+    "sha256": "9f638b7dcb325ee5518187e3017bcf4c9be07ceed2f18770f648901f52f5d54d",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image6.svg",
+    "release_path": "reference/final_manuscript_media/main/image6.svg",
+    "sha256": "7da3dd303336f6bf6117005ca507b0392d0f64951bf4114aae5078d06263a5b1",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image11.png",
+    "release_path": "reference/final_manuscript_media/main/image11.png",
+    "sha256": "759624647d47e9a476fee79e6abda8f6d870143c115c540b47609b7e27a46cc5",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image10.svg",
+    "release_path": "reference/final_manuscript_media/main/image10.svg",
+    "sha256": "e1b3b7db5eb6055f2901373eade1b89aa1bbbc0b5b5d07f9427714447f11c45e",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image5.png",
+    "release_path": "reference/final_manuscript_media/main/image5.png",
+    "sha256": "88d866af23fb55f2430a80e1f383aa1e09b6e368cfece50a863590e8d0cc4b3e",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image9.png",
+    "release_path": "reference/final_manuscript_media/main/image9.png",
+    "sha256": "2b29be8515fa16ea208119512fc125c485b3fa12fdeed2c96802afe0e708cf96",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image4.svg",
+    "release_path": "reference/final_manuscript_media/main/image4.svg",
+    "sha256": "6a08dd58aa3d1a39c85aea56927c60c196d2038d2ecf8e4fcc49f05cbe864ed8",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image3.png",
+    "release_path": "reference/final_manuscript_media/main/image3.png",
+    "sha256": "c70a17cdca6b96f73613fa5c423c068bbd261c7f7f0f37cbdfc742bc9b901645",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Manuscript_Integrated_Engineering_Revision.docx",
+    "member": "word/media/image8.svg",
+    "release_path": "reference/final_manuscript_media/main/image8.svg",
+    "sha256": "0076e133755a3abda78d04a5cfd4d3b645a1d85f4424c04983b2c5d747881041",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image12.svg",
+    "release_path": "reference/final_manuscript_media/SI/image12.svg",
+    "sha256": "e43425a86c3a4534010fd4a1f3bc8bd65cfe24ae5113a5f2bce5dfea237aab24",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image17.png",
+    "release_path": "reference/final_manuscript_media/SI/image17.png",
+    "sha256": "da04162a55a1184f10a366aba41d430c0ac3422c5dd6c605e48c0b16ee90e464",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image2.svg",
+    "release_path": "reference/final_manuscript_media/SI/image2.svg",
+    "sha256": "ed25dc381a575814a123b39fe9f35a965ee512427b51a2f84030731d769ee38a",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image7.png",
+    "release_path": "reference/final_manuscript_media/SI/image7.png",
+    "sha256": "d6e14f2565dffd9010f54200a15368f2a4f077266e2be67ff5708bbd7d80009b",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image18.svg",
+    "release_path": "reference/final_manuscript_media/SI/image18.svg",
+    "sha256": "56adb869774977db0f71671056925808b7a2fa434a52b78bb56aebe7b9a381dc",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image23.png",
+    "release_path": "reference/final_manuscript_media/SI/image23.png",
+    "sha256": "27166217a48b20e8bd64e31bd8110ed6c2c71ebe87ed81935e21443f06518901",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image8.svg",
+    "release_path": "reference/final_manuscript_media/SI/image8.svg",
+    "sha256": "f075e1ccf6af69a9bb3449ba90f92c4578196d8481d3fd6d962a823be9cbe81b",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image13.png",
+    "release_path": "reference/final_manuscript_media/SI/image13.png",
+    "sha256": "9d3cbea0d40d8adc75514a695fa5559b48d2e812f7cbc18dd6674ef58104f62f",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image3.png",
+    "release_path": "reference/final_manuscript_media/SI/image3.png",
+    "sha256": "b81352fe6c5772f0eff168fe3017b649ab80aae06eb28589cea8cdff253b726a",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image11.png",
+    "release_path": "reference/final_manuscript_media/SI/image11.png",
+    "sha256": "d70f6b857a061fd9d859eb37132cb613945b45020017169abce2a57b18aabc25",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image16.svg",
+    "release_path": "reference/final_manuscript_media/SI/image16.svg",
+    "sha256": "629b8d427576841d772ebb4f43c615f68efcb767b8d71bce27a090acf5c2feaf",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image19.png",
+    "release_path": "reference/final_manuscript_media/SI/image19.png",
+    "sha256": "c7097194f88ae72954d4e400d58b7d1abfc12d8cbc25f5f7aa7d95ed345fa252",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image1.png",
+    "release_path": "reference/final_manuscript_media/SI/image1.png",
+    "sha256": "a8b16b8173d06d8414d362e254c369037791c66bc0c2fc7b88c7c22ab1f5449c",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image6.svg",
+    "release_path": "reference/final_manuscript_media/SI/image6.svg",
+    "sha256": "972cc47d169ddb0b374163534114d25ddfccf2cf472e0b377a703261287144d4",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image9.png",
+    "release_path": "reference/final_manuscript_media/SI/image9.png",
+    "sha256": "27497d54d24a4e00659d1b5ee150ad4380f80a5d346b7bfc23bd08311fb988e4",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image14.svg",
+    "release_path": "reference/final_manuscript_media/SI/image14.svg",
+    "sha256": "cfc3285a00fd42f61d7613b2124ceb8bebc60e4b4eebb717c980561777b5c57e",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image22.svg",
+    "release_path": "reference/final_manuscript_media/SI/image22.svg",
+    "sha256": "36e575028914aef966016e7763c2f23aaef2937571256a0a5c83679da2345629",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image4.svg",
+    "release_path": "reference/final_manuscript_media/SI/image4.svg",
+    "sha256": "e00f97062442b35079fb53e75edf5a00f886b9e55cd6e237d5ed1ed9c3de84dc",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image20.svg",
+    "release_path": "reference/final_manuscript_media/SI/image20.svg",
+    "sha256": "542020101e426be93f7f48c7c91393076223d9afc38f1df0bb61f7cbf4468e2e",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image15.png",
+    "release_path": "reference/final_manuscript_media/SI/image15.png",
+    "sha256": "fd2dc572301e1c1c1b53c97e5c514a30665bd5d637166c7d720be08f764f8bef",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image10.svg",
+    "release_path": "reference/final_manuscript_media/SI/image10.svg",
+    "sha256": "83932046b4ffdd804559f383c43b67b5740b91b44cddfa833df4e51f514b23c0",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image5.png",
+    "release_path": "reference/final_manuscript_media/SI/image5.png",
+    "sha256": "a262bef3877e84bc6aeabc42cb53cae3880e23186c274779c595411b327799e3",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  },
+  {
+    "document": "Supplementary_Information_Integrated_Revision.docx",
+    "member": "word/media/image21.png",
+    "release_path": "reference/final_manuscript_media/SI/image21.png",
+    "sha256": "91a0daf9a91733537e858375454a46e86fa15685a555cd7d3febcffcd7b05391",
+    "role": "exact supplied figure; extraction, not a fresh calculation"
+  }
+]

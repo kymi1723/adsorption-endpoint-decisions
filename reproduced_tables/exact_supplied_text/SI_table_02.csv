@@ -1,0 +1,10 @@
+﻿Record class,Count,Documentation / disposition
+DOI-deduplicated research-article collection,105,Broader literature assembled for data construction and methodological development.
+Scored kinetic-curve source publications,34,Contribute 130 eligible curves; scored DOI/curve/family linkage in Supplementary Data D1 and D11.
+Other research articles (aggregate),71,"May support methods/context, lack a compatible task, have insufficient numerical evidence, or remain deferred; no single exclusion reason assigned to the group."
+Methods or general background,Within 71; not tabulated,"Retained for conceptual, methodological or domain context; item-level reason count not established."
+Task-incompatible kinetic records,Within 71; not tabulated,"E.g., without a measured eligible 120-min target; precise count not established."
+Insufficient or inconsistent measurement information,Within 71; not tabulated,"E.g., ambiguous time readings or uptake normalization; precise count not established."
+Deferred/other unscored research articles,Within 71; not tabulated,Pending or otherwise not placed into the scored benchmark; precise count not established.
+Erratum / correction record,1 (separate),Tracked separately; not counted among the 105 research articles.
+Response / reply record,1 (separate),Tracked separately; not counted among the 105 research articles.

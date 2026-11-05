@@ -1,0 +1,5 @@
+﻿Setting,Coverage requirement,Candidate scores
+U0-E,A>0,All distinct finite calibration scores and ±infinity
+U25-E,A≥0.25,Same exhaustive scores
+U0-Q,A>0,"41 linear calibration quantiles, deduplicate, add ±infinity"
+U25-Q,A≥0.25,Same quantile construction

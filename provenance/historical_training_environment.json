@@ -1,0 +1,21 @@
+{
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "executable": "D:\\environment\\py311\\python.exe",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "numpy": "1.26.4",
+  "sklearn": "1.6.1",
+  "joblib": "1.4.2",
+  "new_dependencies": 0,
+  "tree_parameters": {
+    "n_estimators": 128,
+    "max_depth": 4,
+    "min_samples_leaf": 5,
+    "min_weight_fraction_leaf": 0.01,
+    "max_features": 1.0,
+    "bootstrap": false,
+    "criterion": "squared_error",
+    "random_state": 20261030,
+    "n_jobs": 4
+  },
+  "threadpool": "limits1 as original training entry; ExtraTrees n_jobs retained original4"
+}

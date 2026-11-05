@@ -1,0 +1,23 @@
+﻿Attachment,Content,File
+Supplementary Data D12,T01_policy_layer_metrics,T01_policy_layer_metrics.csv / JSON
+Supplementary Data D13,T02_policy_family_metrics,T02_policy_family_metrics.csv / JSON
+Supplementary Data D14,T03_layer_scenario20,T03_layer_scenario20.csv / JSON
+Supplementary Data D15,T04_family_scenario20,T04_family_scenario20.csv / JSON
+Supplementary Data D16,T05_Learned_minus_H_layer20,T05_Learned_minus_H_layer20.csv / JSON
+Supplementary Data D17,T06_Learned_minus_H_family20,T06_Learned_minus_H_family20.csv / JSON
+Supplementary Data D18,T07_layer_mean20_differences,T07_layer_mean20_differences.csv / JSON
+Supplementary Data D19,T08_family_mean20_differences,T08_family_mean20_differences.csv / JSON
+Supplementary Data D20,T09_cluster_bootstrap_intervals,T09_cluster_bootstrap_intervals.csv / JSON
+Supplementary Data D21,T10_test_family_deletion,T10_test_family_deletion.csv / JSON
+Supplementary Data D22,T11_adoption_error_family_concentration,T11_adoption_error_family_concentration.csv / JSON
+Supplementary Data D23,T12_single_family_no_interval,T12_single_family_no_interval.csv / JSON
+Supplementary Data D24,T13_test_family_deletion_ranges,T13_test_family_deletion_ranges.csv / JSON
+Supplementary Data D25,T14_cal_family_deletion_changes,T14_cal_family_deletion_changes.csv / JSON
+Supplementary Data D26,T15_uniform_vs_original_actions,T15_uniform_vs_original_actions.csv / JSON
+Supplementary Data D27,T16_family_scenario_wins,T16_family_scenario_wins.csv / JSON
+Supplementary Data D28,T17_calibration_feasibility,T17_calibration_feasibility.csv / JSON
+Supplementary Data D29,selected_rules,selected_rules.csv / JSON
+Supplementary Data D30,calibration_candidate_evaluations,calibration_candidate_evaluations.csv / JSON
+Supplementary Data D31,curve_results,curve_results.csv / JSON
+Supplementary Data D32,paired_bootstrap_distribution,paired_bootstrap_distribution.csv / JSON
+Supplementary Data D33,deleted_cal_full7_descriptions,deleted_cal_full7_descriptions.csv / JSON

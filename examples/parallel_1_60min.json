@@ -1,0 +1,33 @@
+{
+  "curve_id": "parallel_1",
+  "target_time_min": 120,
+  "as_of_min": 60,
+  "scale": {
+    "response": "uptake_mg_g",
+    "C0_mg_L": 200,
+    "rho_g_L": 2
+  },
+  "observations": [
+    {
+      "time_min": 5.0,
+      "value": 71.22
+    },
+    {
+      "time_min": 10.0,
+      "value": 83.25
+    },
+    {
+      "time_min": 20.0,
+      "value": 88.92
+    },
+    {
+      "time_min": 30.0,
+      "value": 90.15
+    },
+    {
+      "time_min": 60.0,
+      "value": 94.88
+    }
+  ],
+  "next_time_min": 90
+}

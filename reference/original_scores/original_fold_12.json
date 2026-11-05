@@ -1,0 +1,5649 @@
+[
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_methylcarbonate_T25_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_methylcarbonate_T25_C100.0_p08",
+    "target_time_min": 120.11828910888066,
+    "target_time_lower": 118.61828910888066,
+    "target_time_upper": 121.61828910888066,
+    "pool_count": 7,
+    "t3": 20.15465003063479,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "6fa45b1517a993d882abfecc",
+        "k": 3,
+        "time_min": 20.15465003063479,
+        "time_over_target": 0.16779001915658076,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T25_C100.0_p01",
+          "Mo2024_methylcarbonate_T25_C100.0_p02",
+          "Mo2024_methylcarbonate_T25_C100.0_p03"
+        ],
+        "prediction": 0.12516461335625337,
+        "available": true,
+        "raw_q_pp": 6.117886992121431,
+        "q_pp": 6.117886992121431,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2dc896d8c8352801d10127ea",
+        "k": 4,
+        "time_min": 30.189585782402418,
+        "time_over_target": 0.2513321327365661,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T25_C100.0_p01",
+          "Mo2024_methylcarbonate_T25_C100.0_p02",
+          "Mo2024_methylcarbonate_T25_C100.0_p03",
+          "Mo2024_methylcarbonate_T25_C100.0_p04"
+        ],
+        "prediction": 0.1355531100883272,
+        "available": true,
+        "raw_q_pp": 4.075677578696434,
+        "q_pp": 4.075677578696434,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "1f00e16095388bc7e455011d",
+        "k": 5,
+        "time_min": 40.03688475655573,
+        "time_over_target": 0.3333121463315589,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T25_C100.0_p01",
+          "Mo2024_methylcarbonate_T25_C100.0_p02",
+          "Mo2024_methylcarbonate_T25_C100.0_p03",
+          "Mo2024_methylcarbonate_T25_C100.0_p04",
+          "Mo2024_methylcarbonate_T25_C100.0_p05"
+        ],
+        "prediction": 0.14971619209661396,
+        "available": true,
+        "raw_q_pp": 3.65163245544956,
+        "q_pp": 3.65163245544956,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e1f305322ef5baa9969ba777",
+        "k": 6,
+        "time_min": 60.103309978501564,
+        "time_over_target": 0.50036768275996,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T25_C100.0_p01",
+          "Mo2024_methylcarbonate_T25_C100.0_p02",
+          "Mo2024_methylcarbonate_T25_C100.0_p03",
+          "Mo2024_methylcarbonate_T25_C100.0_p04",
+          "Mo2024_methylcarbonate_T25_C100.0_p05",
+          "Mo2024_methylcarbonate_T25_C100.0_p06"
+        ],
+        "prediction": 0.15907611099529323,
+        "available": true,
+        "raw_q_pp": 2.5550814147022773,
+        "q_pp": 2.5550814147022773,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c2e798f0b59ceaeb8f82bf61",
+        "k": 7,
+        "time_min": 90.02048045619013,
+        "time_over_target": 0.7494319235149236,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T25_C100.0_p01",
+          "Mo2024_methylcarbonate_T25_C100.0_p02",
+          "Mo2024_methylcarbonate_T25_C100.0_p03",
+          "Mo2024_methylcarbonate_T25_C100.0_p04",
+          "Mo2024_methylcarbonate_T25_C100.0_p05",
+          "Mo2024_methylcarbonate_T25_C100.0_p06",
+          "Mo2024_methylcarbonate_T25_C100.0_p07"
+        ],
+        "prediction": 0.1651778702768532,
+        "available": true,
+        "raw_q_pp": 1.8663003095687614,
+        "q_pp": 1.8663003095687614,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_methylcarbonate_T35_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_methylcarbonate_T35_C100.0_p08",
+    "target_time_min": 119.93725328600298,
+    "target_time_lower": 118.43725328600298,
+    "target_time_upper": 121.43725328600298,
+    "pool_count": 7,
+    "t3": 19.973614207757123,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "8d560fe1d102f0bc69f60f6d",
+        "k": 3,
+        "time_min": 19.973614207757123,
+        "time_over_target": 0.1665338638373512,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T35_C100.0_p01",
+          "Mo2024_methylcarbonate_T35_C100.0_p02",
+          "Mo2024_methylcarbonate_T35_C100.0_p03"
+        ],
+        "prediction": 0.10974656961168744,
+        "available": true,
+        "raw_q_pp": 6.664193345162003,
+        "q_pp": 6.664193345162003,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "403e255930ffc9db4979c4df",
+        "k": 4,
+        "time_min": 30.006482190571102,
+        "time_over_target": 0.2501848372249904,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T35_C100.0_p01",
+          "Mo2024_methylcarbonate_T35_C100.0_p02",
+          "Mo2024_methylcarbonate_T35_C100.0_p03",
+          "Mo2024_methylcarbonate_T35_C100.0_p04"
+        ],
+        "prediction": 0.11434306766378044,
+        "available": true,
+        "raw_q_pp": 4.154619392335271,
+        "q_pp": 4.154619392335271,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a67e7355d31fc99a876ff30a",
+        "k": 5,
+        "time_min": 39.856909328013266,
+        "time_over_target": 0.33231467484894184,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T35_C100.0_p01",
+          "Mo2024_methylcarbonate_T35_C100.0_p02",
+          "Mo2024_methylcarbonate_T35_C100.0_p03",
+          "Mo2024_methylcarbonate_T35_C100.0_p04",
+          "Mo2024_methylcarbonate_T35_C100.0_p05"
+        ],
+        "prediction": 0.1297882379429605,
+        "available": true,
+        "raw_q_pp": 3.7412473489568425,
+        "q_pp": 3.7412473489568425,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "46442ab852450818b9d6cfbc",
+        "k": 6,
+        "time_min": 59.92259227392446,
+        "time_over_target": 0.4996161795620977,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T35_C100.0_p01",
+          "Mo2024_methylcarbonate_T35_C100.0_p02",
+          "Mo2024_methylcarbonate_T35_C100.0_p03",
+          "Mo2024_methylcarbonate_T35_C100.0_p04",
+          "Mo2024_methylcarbonate_T35_C100.0_p05",
+          "Mo2024_methylcarbonate_T35_C100.0_p06"
+        ],
+        "prediction": 0.1410107591603294,
+        "available": true,
+        "raw_q_pp": 2.697806720078988,
+        "q_pp": 2.697806720078988,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6649ae0e6799cf1b187ad4af",
+        "k": 7,
+        "time_min": 89.83870235727781,
+        "time_over_target": 0.749047521899205,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T35_C100.0_p01",
+          "Mo2024_methylcarbonate_T35_C100.0_p02",
+          "Mo2024_methylcarbonate_T35_C100.0_p03",
+          "Mo2024_methylcarbonate_T35_C100.0_p04",
+          "Mo2024_methylcarbonate_T35_C100.0_p05",
+          "Mo2024_methylcarbonate_T35_C100.0_p06",
+          "Mo2024_methylcarbonate_T35_C100.0_p07"
+        ],
+        "prediction": 0.14940889407646832,
+        "available": true,
+        "raw_q_pp": 2.086185589654408,
+        "q_pp": 2.086185589654408,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_methylcarbonate_T45_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_methylcarbonate_T45_C100.0_p08",
+    "target_time_min": 119.93865830849712,
+    "target_time_lower": 118.43865830849712,
+    "target_time_upper": 121.43865830849712,
+    "pool_count": 7,
+    "t3": 19.97501923025127,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "49d57845827d304b3f282704",
+        "k": 3,
+        "time_min": 19.97501923025127,
+        "time_over_target": 0.166543627483918,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T45_C100.0_p01",
+          "Mo2024_methylcarbonate_T45_C100.0_p02",
+          "Mo2024_methylcarbonate_T45_C100.0_p03"
+        ],
+        "prediction": 0.08513493364565866,
+        "available": true,
+        "raw_q_pp": 6.598304698452857,
+        "q_pp": 6.598304698452857,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "abe1ed01731ec04597fc8c13",
+        "k": 4,
+        "time_min": 30.006482190571102,
+        "time_over_target": 0.250181906432459,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T45_C100.0_p01",
+          "Mo2024_methylcarbonate_T45_C100.0_p02",
+          "Mo2024_methylcarbonate_T45_C100.0_p03",
+          "Mo2024_methylcarbonate_T45_C100.0_p04"
+        ],
+        "prediction": 0.10195280030661125,
+        "available": true,
+        "raw_q_pp": 4.143518287137001,
+        "q_pp": 4.143518287137001,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0b498c51064d2a9a306f5759",
+        "k": 5,
+        "time_min": 39.856909328013266,
+        "time_over_target": 0.33231078194568714,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T45_C100.0_p01",
+          "Mo2024_methylcarbonate_T45_C100.0_p02",
+          "Mo2024_methylcarbonate_T45_C100.0_p03",
+          "Mo2024_methylcarbonate_T45_C100.0_p04",
+          "Mo2024_methylcarbonate_T45_C100.0_p05"
+        ],
+        "prediction": 0.10803768872718475,
+        "available": true,
+        "raw_q_pp": 3.7436822987108833,
+        "q_pp": 3.7436822987108833,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "135c2f0e293aa11aa62419e2",
+        "k": 6,
+        "time_min": 59.92264529364122,
+        "time_over_target": 0.4996107688608016,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T45_C100.0_p01",
+          "Mo2024_methylcarbonate_T45_C100.0_p02",
+          "Mo2024_methylcarbonate_T45_C100.0_p03",
+          "Mo2024_methylcarbonate_T45_C100.0_p04",
+          "Mo2024_methylcarbonate_T45_C100.0_p05",
+          "Mo2024_methylcarbonate_T45_C100.0_p06"
+        ],
+        "prediction": 0.11187034987927405,
+        "available": true,
+        "raw_q_pp": 2.6536799439562073,
+        "q_pp": 2.6536799439562073,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5e51c5d2c7fc2ed7f17d72d6",
+        "k": 7,
+        "time_min": 89.83875537699457,
+        "time_over_target": 0.7490391892322001,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T45_C100.0_p01",
+          "Mo2024_methylcarbonate_T45_C100.0_p02",
+          "Mo2024_methylcarbonate_T45_C100.0_p03",
+          "Mo2024_methylcarbonate_T45_C100.0_p04",
+          "Mo2024_methylcarbonate_T45_C100.0_p05",
+          "Mo2024_methylcarbonate_T45_C100.0_p06",
+          "Mo2024_methylcarbonate_T45_C100.0_p07"
+        ],
+        "prediction": 0.11607333539793656,
+        "available": true,
+        "raw_q_pp": 2.0517103011360125,
+        "q_pp": 2.0517103011360125,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_benzoate_T25_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_benzoate_T25_C100.0_p08",
+    "target_time_min": 120.18691498196199,
+    "target_time_lower": 118.68691498196199,
+    "target_time_upper": 121.68691498196199,
+    "pool_count": 7,
+    "t3": 20.073709680473417,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "6047253ecb09589f8ce66e2e",
+        "k": 3,
+        "time_min": 20.073709680473417,
+        "time_over_target": 0.1670207583203724,
+        "input_ids": [
+          "Mo2024_benzoate_T25_C100.0_p01",
+          "Mo2024_benzoate_T25_C100.0_p02",
+          "Mo2024_benzoate_T25_C100.0_p03"
+        ],
+        "prediction": 0.0985375525008973,
+        "available": true,
+        "raw_q_pp": 6.311958154420976,
+        "q_pp": 6.311958154420976,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b7fd8e7493e7f04b64568d3b",
+        "k": 4,
+        "time_min": 30.065790719419464,
+        "time_over_target": 0.2501586027391736,
+        "input_ids": [
+          "Mo2024_benzoate_T25_C100.0_p01",
+          "Mo2024_benzoate_T25_C100.0_p02",
+          "Mo2024_benzoate_T25_C100.0_p03",
+          "Mo2024_benzoate_T25_C100.0_p04"
+        ],
+        "prediction": 0.10903646828687245,
+        "available": true,
+        "raw_q_pp": 4.059656465435659,
+        "q_pp": 4.059656465435659,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "afad86277827ab2b6dcbd8d3",
+        "k": 5,
+        "time_min": 40.06159116791263,
+        "time_over_target": 0.3333273940339112,
+        "input_ids": [
+          "Mo2024_benzoate_T25_C100.0_p01",
+          "Mo2024_benzoate_T25_C100.0_p02",
+          "Mo2024_benzoate_T25_C100.0_p03",
+          "Mo2024_benzoate_T25_C100.0_p04",
+          "Mo2024_benzoate_T25_C100.0_p05"
+        ],
+        "prediction": 0.11147685558091594,
+        "available": true,
+        "raw_q_pp": 3.593160299055818,
+        "q_pp": 3.593160299055818,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2a6fe41fdea96abdd9cf9f59",
+        "k": 6,
+        "time_min": 60.04400625041139,
+        "time_over_target": 0.4995885472176649,
+        "input_ids": [
+          "Mo2024_benzoate_T25_C100.0_p01",
+          "Mo2024_benzoate_T25_C100.0_p02",
+          "Mo2024_benzoate_T25_C100.0_p03",
+          "Mo2024_benzoate_T25_C100.0_p04",
+          "Mo2024_benzoate_T25_C100.0_p05",
+          "Mo2024_benzoate_T25_C100.0_p06"
+        ],
+        "prediction": 0.11786838038146755,
+        "available": true,
+        "raw_q_pp": 2.495799588923774,
+        "q_pp": 2.495799588923774,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "46ee13ff182c5a2ec6aad74a",
+        "k": 7,
+        "time_min": 90.20869945097007,
+        "time_over_target": 0.7505700555215088,
+        "input_ids": [
+          "Mo2024_benzoate_T25_C100.0_p01",
+          "Mo2024_benzoate_T25_C100.0_p02",
+          "Mo2024_benzoate_T25_C100.0_p03",
+          "Mo2024_benzoate_T25_C100.0_p04",
+          "Mo2024_benzoate_T25_C100.0_p05",
+          "Mo2024_benzoate_T25_C100.0_p06",
+          "Mo2024_benzoate_T25_C100.0_p07"
+        ],
+        "prediction": 0.12320976690517133,
+        "available": true,
+        "raw_q_pp": 1.864254583694398,
+        "q_pp": 1.864254583694398,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_benzoate_T35_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_benzoate_T35_C100.0_p08",
+    "target_time_min": 120.00190253433804,
+    "target_time_lower": 118.50190253433804,
+    "target_time_upper": 121.50190253433804,
+    "pool_count": 7,
+    "t3": 19.891176839214207,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "26b13ba534255cfecc7cb606",
+        "k": 3,
+        "time_min": 19.891176839214207,
+        "time_over_target": 0.16575717900407813,
+        "input_ids": [
+          "Mo2024_benzoate_T35_C100.0_p01",
+          "Mo2024_benzoate_T35_C100.0_p02",
+          "Mo2024_benzoate_T35_C100.0_p03"
+        ],
+        "prediction": 0.07868336995392546,
+        "available": true,
+        "raw_q_pp": 6.362576506138401,
+        "q_pp": 6.362576506138401,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6555ff2c5b725eb0dee21062",
+        "k": 4,
+        "time_min": 29.883652360991015,
+        "time_over_target": 0.24902648816288503,
+        "input_ids": [
+          "Mo2024_benzoate_T35_C100.0_p01",
+          "Mo2024_benzoate_T35_C100.0_p02",
+          "Mo2024_benzoate_T35_C100.0_p03",
+          "Mo2024_benzoate_T35_C100.0_p04"
+        ],
+        "prediction": 0.09549133014416149,
+        "available": true,
+        "raw_q_pp": 4.094662633695532,
+        "q_pp": 4.094662633695532,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "12cc571e1cb98f6138de4aea",
+        "k": 5,
+        "time_min": 39.87624059214804,
+        "time_over_target": 0.33229673655163605,
+        "input_ids": [
+          "Mo2024_benzoate_T35_C100.0_p01",
+          "Mo2024_benzoate_T35_C100.0_p02",
+          "Mo2024_benzoate_T35_C100.0_p03",
+          "Mo2024_benzoate_T35_C100.0_p04",
+          "Mo2024_benzoate_T35_C100.0_p05"
+        ],
+        "prediction": 0.10151078227894453,
+        "available": true,
+        "raw_q_pp": 3.6499626137911005,
+        "q_pp": 3.6499626137911005,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "074a6a60c85eaf0afb2b850a",
+        "k": 6,
+        "time_min": 59.86152976384229,
+        "time_over_target": 0.49883817255908225,
+        "input_ids": [
+          "Mo2024_benzoate_T35_C100.0_p01",
+          "Mo2024_benzoate_T35_C100.0_p02",
+          "Mo2024_benzoate_T35_C100.0_p03",
+          "Mo2024_benzoate_T35_C100.0_p04",
+          "Mo2024_benzoate_T35_C100.0_p05",
+          "Mo2024_benzoate_T35_C100.0_p06"
+        ],
+        "prediction": 0.11000095316846246,
+        "available": true,
+        "raw_q_pp": 2.53182402559664,
+        "q_pp": 2.53182402559664,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "86f2a0b3440af50c09e5f3fd",
+        "k": 7,
+        "time_min": 90.02402513148677,
+        "time_over_target": 0.7501883156038027,
+        "input_ids": [
+          "Mo2024_benzoate_T35_C100.0_p01",
+          "Mo2024_benzoate_T35_C100.0_p02",
+          "Mo2024_benzoate_T35_C100.0_p03",
+          "Mo2024_benzoate_T35_C100.0_p04",
+          "Mo2024_benzoate_T35_C100.0_p05",
+          "Mo2024_benzoate_T35_C100.0_p06",
+          "Mo2024_benzoate_T35_C100.0_p07"
+        ],
+        "prediction": 0.11795573772520485,
+        "available": true,
+        "raw_q_pp": 1.8813227210686514,
+        "q_pp": 1.8813227210686514,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_benzoate_T45_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_benzoate_T45_C100.0_p08",
+    "target_time_min": 120.00224066247868,
+    "target_time_lower": 118.50224066247868,
+    "target_time_upper": 121.50224066247868,
+    "pool_count": 7,
+    "t3": 19.89162767673507,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "9d442abd3ccca00b605a71dd",
+        "k": 3,
+        "time_min": 19.89162767673507,
+        "time_over_target": 0.165760468862267,
+        "input_ids": [
+          "Mo2024_benzoate_T45_C100.0_p01",
+          "Mo2024_benzoate_T45_C100.0_p02",
+          "Mo2024_benzoate_T45_C100.0_p03"
+        ],
+        "prediction": 0.07295295440155979,
+        "available": true,
+        "raw_q_pp": 6.434613566542682,
+        "q_pp": 6.434613566542682,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "086674112184e9a8b42c1eec",
+        "k": 4,
+        "time_min": 29.883652360991015,
+        "time_over_target": 0.24902578648545842,
+        "input_ids": [
+          "Mo2024_benzoate_T45_C100.0_p01",
+          "Mo2024_benzoate_T45_C100.0_p02",
+          "Mo2024_benzoate_T45_C100.0_p03",
+          "Mo2024_benzoate_T45_C100.0_p04"
+        ],
+        "prediction": 0.07665016270956532,
+        "available": true,
+        "raw_q_pp": 3.9628564567730002,
+        "q_pp": 3.9628564567730002,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "feecc3e642848fb3ae1b4b7d",
+        "k": 5,
+        "time_min": 39.875057143655766,
+        "time_over_target": 0.33228593835851244,
+        "input_ids": [
+          "Mo2024_benzoate_T45_C100.0_p01",
+          "Mo2024_benzoate_T45_C100.0_p02",
+          "Mo2024_benzoate_T45_C100.0_p03",
+          "Mo2024_benzoate_T45_C100.0_p04",
+          "Mo2024_benzoate_T45_C100.0_p05"
+        ],
+        "prediction": 0.07901112103348729,
+        "available": true,
+        "raw_q_pp": 3.5054475396681606,
+        "q_pp": 3.5054475396681606,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0cd2c17e4d19c6f3373242f5",
+        "k": 6,
+        "time_min": 59.86152976384229,
+        "time_over_target": 0.49883676699179585,
+        "input_ids": [
+          "Mo2024_benzoate_T45_C100.0_p01",
+          "Mo2024_benzoate_T45_C100.0_p02",
+          "Mo2024_benzoate_T45_C100.0_p03",
+          "Mo2024_benzoate_T45_C100.0_p04",
+          "Mo2024_benzoate_T45_C100.0_p05",
+          "Mo2024_benzoate_T45_C100.0_p06"
+        ],
+        "prediction": 0.0814548069146234,
+        "available": true,
+        "raw_q_pp": 2.53182402559664,
+        "q_pp": 2.53182402559664,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5d312cc25898b299b4991f62",
+        "k": 7,
+        "time_min": 90.0243632596274,
+        "time_over_target": 0.7501890194936626,
+        "input_ids": [
+          "Mo2024_benzoate_T45_C100.0_p01",
+          "Mo2024_benzoate_T45_C100.0_p02",
+          "Mo2024_benzoate_T45_C100.0_p03",
+          "Mo2024_benzoate_T45_C100.0_p04",
+          "Mo2024_benzoate_T45_C100.0_p05",
+          "Mo2024_benzoate_T45_C100.0_p06",
+          "Mo2024_benzoate_T45_C100.0_p07"
+        ],
+        "prediction": 0.08443709613234067,
+        "available": true,
+        "raw_q_pp": 1.8813227210686514,
+        "q_pp": 1.8813227210686514,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_bromide_T25_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_bromide_T25_C100.0_p08",
+    "target_time_min": 120.03430956921491,
+    "target_time_lower": 118.53430956921491,
+    "target_time_upper": 121.53430956921491,
+    "pool_count": 7,
+    "t3": 20.110337095742853,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "688d458a645dd381f52d1d14",
+        "k": 3,
+        "time_min": 20.110337095742853,
+        "time_over_target": 0.16753824109053345,
+        "input_ids": [
+          "Mo2024_bromide_T25_C100.0_p01",
+          "Mo2024_bromide_T25_C100.0_p02",
+          "Mo2024_bromide_T25_C100.0_p03"
+        ],
+        "prediction": 0.33046926225903944,
+        "available": true,
+        "raw_q_pp": 6.560038534229593,
+        "q_pp": 6.560038534229593,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "f80bbeb775a7e7939cd45259",
+        "k": 4,
+        "time_min": 30.02743638786151,
+        "time_over_target": 0.25015711337554625,
+        "input_ids": [
+          "Mo2024_bromide_T25_C100.0_p01",
+          "Mo2024_bromide_T25_C100.0_p02",
+          "Mo2024_bromide_T25_C100.0_p03",
+          "Mo2024_bromide_T25_C100.0_p04"
+        ],
+        "prediction": 0.3411741312571627,
+        "available": true,
+        "raw_q_pp": 4.066640088046101,
+        "q_pp": 4.066640088046101,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "be7ebcb13a89375271c05fdf",
+        "k": 5,
+        "time_min": 40.132815779021584,
+        "time_over_target": 0.33434453801627406,
+        "input_ids": [
+          "Mo2024_bromide_T25_C100.0_p01",
+          "Mo2024_bromide_T25_C100.0_p02",
+          "Mo2024_bromide_T25_C100.0_p03",
+          "Mo2024_bromide_T25_C100.0_p04",
+          "Mo2024_bromide_T25_C100.0_p05"
+        ],
+        "prediction": 0.34796822609012285,
+        "available": true,
+        "raw_q_pp": 3.5550395802476307,
+        "q_pp": 3.5550395802476307,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "01abfaa6bf82866ac3bcf7df",
+        "k": 6,
+        "time_min": 60.15526629352428,
+        "time_over_target": 0.5011506002693104,
+        "input_ids": [
+          "Mo2024_bromide_T25_C100.0_p01",
+          "Mo2024_bromide_T25_C100.0_p02",
+          "Mo2024_bromide_T25_C100.0_p03",
+          "Mo2024_bromide_T25_C100.0_p04",
+          "Mo2024_bromide_T25_C100.0_p05",
+          "Mo2024_bromide_T25_C100.0_p06"
+        ],
+        "prediction": 0.35341448688634336,
+        "available": true,
+        "raw_q_pp": 2.537491415292514,
+        "q_pp": 2.537491415292514,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2daab21676a6e6f2c7e11c7a",
+        "k": 7,
+        "time_min": 90.09473159381751,
+        "time_over_target": 0.7505748307892465,
+        "input_ids": [
+          "Mo2024_bromide_T25_C100.0_p01",
+          "Mo2024_bromide_T25_C100.0_p02",
+          "Mo2024_bromide_T25_C100.0_p03",
+          "Mo2024_bromide_T25_C100.0_p04",
+          "Mo2024_bromide_T25_C100.0_p05",
+          "Mo2024_bromide_T25_C100.0_p06",
+          "Mo2024_bromide_T25_C100.0_p07"
+        ],
+        "prediction": 0.3581385019841031,
+        "available": true,
+        "raw_q_pp": 1.8962899275048681,
+        "q_pp": 1.8962899275048681,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_bromide_T35_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_bromide_T35_C100.0_p08",
+    "target_time_min": 119.8489590228815,
+    "target_time_lower": 118.3489590228815,
+    "target_time_upper": 121.3489590228815,
+    "pool_count": 7,
+    "t3": 19.92462035532094,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "707c5ff502e7e78c089881cb",
+        "k": 3,
+        "time_min": 19.92462035532094,
+        "time_over_target": 0.16624775482210857,
+        "input_ids": [
+          "Mo2024_bromide_T35_C100.0_p01",
+          "Mo2024_bromide_T35_C100.0_p02",
+          "Mo2024_bromide_T35_C100.0_p03"
+        ],
+        "prediction": 0.26324285357621213,
+        "available": true,
+        "raw_q_pp": 6.323926582871525,
+        "q_pp": 6.323926582871525,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d4ac9a82526af87d3948b113",
+        "k": 4,
+        "time_min": 29.842057672752063,
+        "time_over_target": 0.24899722046859524,
+        "input_ids": [
+          "Mo2024_bromide_T35_C100.0_p01",
+          "Mo2024_bromide_T35_C100.0_p02",
+          "Mo2024_bromide_T35_C100.0_p03",
+          "Mo2024_bromide_T35_C100.0_p04"
+        ],
+        "prediction": 0.2694548093895687,
+        "available": true,
+        "raw_q_pp": 4.003233584147058,
+        "q_pp": 4.003233584147058,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a06a175aa8b472441cae2611",
+        "k": 5,
+        "time_min": 39.946704675735134,
+        "time_over_target": 0.3333087329370006,
+        "input_ids": [
+          "Mo2024_bromide_T35_C100.0_p01",
+          "Mo2024_bromide_T35_C100.0_p02",
+          "Mo2024_bromide_T35_C100.0_p03",
+          "Mo2024_bromide_T35_C100.0_p04",
+          "Mo2024_bromide_T35_C100.0_p05"
+        ],
+        "prediction": 0.27516940433643217,
+        "available": true,
+        "raw_q_pp": 3.563124463868198,
+        "q_pp": 3.563124463868198,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "9a52791d02ca0cf7b75612ef",
+        "k": 6,
+        "time_min": 59.96912702146179,
+        "time_over_target": 0.5003725314794976,
+        "input_ids": [
+          "Mo2024_bromide_T35_C100.0_p01",
+          "Mo2024_bromide_T35_C100.0_p02",
+          "Mo2024_bromide_T35_C100.0_p03",
+          "Mo2024_bromide_T35_C100.0_p04",
+          "Mo2024_bromide_T35_C100.0_p05",
+          "Mo2024_bromide_T35_C100.0_p06"
+        ],
+        "prediction": 0.27968446786439793,
+        "available": true,
+        "raw_q_pp": 2.58648230746279,
+        "q_pp": 2.58648230746279,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0fa1f957a5234469caa0078c",
+        "k": 7,
+        "time_min": 89.90904302217164,
+        "time_over_target": 0.7501862657397488,
+        "input_ids": [
+          "Mo2024_bromide_T35_C100.0_p01",
+          "Mo2024_bromide_T35_C100.0_p02",
+          "Mo2024_bromide_T35_C100.0_p03",
+          "Mo2024_bromide_T35_C100.0_p04",
+          "Mo2024_bromide_T35_C100.0_p05",
+          "Mo2024_bromide_T35_C100.0_p06",
+          "Mo2024_bromide_T35_C100.0_p07"
+        ],
+        "prediction": 0.28472124665874343,
+        "available": true,
+        "raw_q_pp": 1.933846097994983,
+        "q_pp": 1.933846097994983,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_bromide_T45_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_bromide_T45_C100.0_p08",
+    "target_time_min": 119.84867733512111,
+    "target_time_lower": 118.34867733512111,
+    "target_time_upper": 121.34867733512111,
+    "pool_count": 7,
+    "t3": 19.92388796714394,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "8d15e4484c283938792a682f",
+        "k": 3,
+        "time_min": 19.92388796714394,
+        "time_over_target": 0.16624203462365067,
+        "input_ids": [
+          "Mo2024_bromide_T45_C100.0_p01",
+          "Mo2024_bromide_T45_C100.0_p02",
+          "Mo2024_bromide_T45_C100.0_p03"
+        ],
+        "prediction": 0.2555385871393944,
+        "available": true,
+        "raw_q_pp": 6.431553465483827,
+        "q_pp": 6.431553465483827,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "7d9ba91005cfe4b45793e9b7",
+        "k": 4,
+        "time_min": 29.84132528457506,
+        "time_over_target": 0.24899169476132546,
+        "input_ids": [
+          "Mo2024_bromide_T45_C100.0_p01",
+          "Mo2024_bromide_T45_C100.0_p02",
+          "Mo2024_bromide_T45_C100.0_p03",
+          "Mo2024_bromide_T45_C100.0_p04"
+        ],
+        "prediction": 0.26134165491613803,
+        "available": true,
+        "raw_q_pp": 3.9680855208823083,
+        "q_pp": 3.9680855208823083,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "cd2053ef72d24847a7aca6cb",
+        "k": 5,
+        "time_min": 39.945972287558135,
+        "time_over_target": 0.3333034053922942,
+        "input_ids": [
+          "Mo2024_bromide_T45_C100.0_p01",
+          "Mo2024_bromide_T45_C100.0_p02",
+          "Mo2024_bromide_T45_C100.0_p03",
+          "Mo2024_bromide_T45_C100.0_p04",
+          "Mo2024_bromide_T45_C100.0_p05"
+        ],
+        "prediction": 0.26479448659191673,
+        "available": true,
+        "raw_q_pp": 3.508021100136776,
+        "q_pp": 3.508021100136776,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6354de6dadb927e05d2009a1",
+        "k": 6,
+        "time_min": 59.96991574719087,
+        "time_over_target": 0.500380288549225,
+        "input_ids": [
+          "Mo2024_bromide_T45_C100.0_p01",
+          "Mo2024_bromide_T45_C100.0_p02",
+          "Mo2024_bromide_T45_C100.0_p03",
+          "Mo2024_bromide_T45_C100.0_p04",
+          "Mo2024_bromide_T45_C100.0_p05",
+          "Mo2024_bromide_T45_C100.0_p06"
+        ],
+        "prediction": 0.2666020428664409,
+        "available": true,
+        "raw_q_pp": 2.4975614509355326,
+        "q_pp": 2.4975614509355326,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a1937c70108ce635a1d660b4",
+        "k": 7,
+        "time_min": 89.90831063399465,
+        "time_over_target": 0.7501819180080965,
+        "input_ids": [
+          "Mo2024_bromide_T45_C100.0_p01",
+          "Mo2024_bromide_T45_C100.0_p02",
+          "Mo2024_bromide_T45_C100.0_p03",
+          "Mo2024_bromide_T45_C100.0_p04",
+          "Mo2024_bromide_T45_C100.0_p05",
+          "Mo2024_bromide_T45_C100.0_p06",
+          "Mo2024_bromide_T45_C100.0_p07"
+        ],
+        "prediction": 0.268918277813353,
+        "available": true,
+        "raw_q_pp": 1.866016445706157,
+        "q_pp": 1.866016445706157,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Bhatt2012_BNTOC_C488",
+    "source_id": "Bhatt2012",
+    "doi": "10.1039/c2ra20347b",
+    "family": "India_CSMCRI_Bhatt_Paul",
+    "canonical_group_id": "India_CSMCRI_Bhatt_Paul",
+    "target_point_id": "Bhatt2012_BNTOC_C488_p05",
+    "target_time_min": 120.99087353324641,
+    "target_time_lower": 114.73272490221643,
+    "target_time_upper": 127.2490221642764,
+    "pool_count": 4,
+    "t3": 30.247718383311604,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "2a66bb45ff37680424b5ed4b",
+        "k": 3,
+        "time_min": 30.247718383311604,
+        "time_over_target": 0.25,
+        "input_ids": [
+          "Bhatt2012_BNTOC_C488_p01",
+          "Bhatt2012_BNTOC_C488_p02",
+          "Bhatt2012_BNTOC_C488_p03"
+        ],
+        "prediction": 0.6458591286612835,
+        "available": true,
+        "raw_q_pp": 4.45139477779629,
+        "q_pp": 4.45139477779629,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b236a8d7bcab2c80639800cb",
+        "k": 4,
+        "time_min": 60.49543676662321,
+        "time_over_target": 0.5,
+        "input_ids": [
+          "Bhatt2012_BNTOC_C488_p01",
+          "Bhatt2012_BNTOC_C488_p02",
+          "Bhatt2012_BNTOC_C488_p03",
+          "Bhatt2012_BNTOC_C488_p04"
+        ],
+        "prediction": 0.6554470514733886,
+        "available": true,
+        "raw_q_pp": 2.7676370434533686,
+        "q_pp": 2.7676370434533686,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ouachtak2021_CTAB_Mt_1CEC_OrangeG_C100",
+    "source_id": "Ouachtak2021",
+    "doi": "10.1016/j.molliq.2021.116560",
+    "family": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "canonical_group_id": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "target_point_id": "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_10",
+    "target_time_min": 120.0138092096659,
+    "target_time_lower": 119.45840014247261,
+    "target_time_upper": 120.56921827685917,
+    "pool_count": 10,
+    "t3": 9.991292860556545,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "c4fe7d69eec82850515621ae",
+        "k": 3,
+        "time_min": 9.991292860556545,
+        "time_over_target": 0.08325119356141433,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02"
+        ],
+        "prediction": 0.9885124601974508,
+        "available": true,
+        "raw_q_pp": 6.4623931034629525,
+        "q_pp": 6.4623931034629525,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e9d233540d1b2fa17ba8c967",
+        "k": 4,
+        "time_min": 15.007152255937324,
+        "time_over_target": 0.12504521233652044,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03"
+        ],
+        "prediction": 0.9889885263588548,
+        "available": true,
+        "raw_q_pp": 2.639758441744648,
+        "q_pp": 2.639758441744648,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b96f962706c8e0d355b63edf",
+        "k": 5,
+        "time_min": 19.98057566690287,
+        "time_over_target": 0.16648563859844254,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04"
+        ],
+        "prediction": 0.9892214808257976,
+        "available": true,
+        "raw_q_pp": 2.463354220564219,
+        "q_pp": 2.463354220564219,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d749d0e7ea709fc184a6fda5",
+        "k": 6,
+        "time_min": 29.971892442001117,
+        "time_over_target": 0.24973703142477363,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_05"
+        ],
+        "prediction": 0.9893055936653189,
+        "available": true,
+        "raw_q_pp": 1.769274369232007,
+        "q_pp": 1.769274369232007,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5be995575ebdae15cc2207a7",
+        "k": 7,
+        "time_min": 40.003580415054316,
+        "time_over_target": 0.33332481219029947,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_06"
+        ],
+        "prediction": 0.9893363725298211,
+        "available": true,
+        "raw_q_pp": 1.5217598000273738,
+        "q_pp": 1.5217598000273738,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ff6d87f1a6e3679d79555031",
+        "k": 8,
+        "time_min": 49.99591417452854,
+        "time_over_target": 0.4165846789112821,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_07"
+        ],
+        "prediction": 0.9893557090950861,
+        "available": true,
+        "raw_q_pp": 1.1690077391395386,
+        "q_pp": 1.1690077391395386,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0d5ac8e7b32fc5ea5295160b",
+        "k": 9,
+        "time_min": 59.98519698087485,
+        "time_over_target": 0.49981912394831024,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_08"
+        ],
+        "prediction": 0.9893509079014396,
+        "available": true,
+        "raw_q_pp": 1.114243943985498,
+        "q_pp": 1.114243943985498,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "cd8fa2a9c2118aae1e2b027a",
+        "k": 10,
+        "time_min": 89.99999617860418,
+        "time_over_target": 0.7499136705291377,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_08",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_09"
+        ],
+        "prediction": 0.9893462798818025,
+        "available": true,
+        "raw_q_pp": 0.987734692387875,
+        "q_pp": 0.987734692387875,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ouachtak2021_CTAB_Mt_1CEC_OrangeG_C125",
+    "source_id": "Ouachtak2021",
+    "doi": "10.1016/j.molliq.2021.116560",
+    "family": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "canonical_group_id": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "target_point_id": "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_10",
+    "target_time_min": 120.0138092096659,
+    "target_time_lower": 119.45840014247261,
+    "target_time_upper": 120.56921827685917,
+    "pool_count": 10,
+    "t3": 9.991292860556545,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "7b1267547065ae7997b421f5",
+        "k": 3,
+        "time_min": 9.991292860556545,
+        "time_over_target": 0.08325119356141433,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02"
+        ],
+        "prediction": 0.9827804431681779,
+        "available": true,
+        "raw_q_pp": 7.939886885258883,
+        "q_pp": 7.939886885258883,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "bf5d35e77ae56cdb2f9d25e1",
+        "k": 4,
+        "time_min": 15.007152255937324,
+        "time_over_target": 0.12504521233652044,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03"
+        ],
+        "prediction": 0.9831046723845355,
+        "available": true,
+        "raw_q_pp": 4.09249020967469,
+        "q_pp": 4.09249020967469,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "85412a4d953feebc9b25aa23",
+        "k": 5,
+        "time_min": 19.98057566690287,
+        "time_over_target": 0.16648563859844254,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04"
+        ],
+        "prediction": 0.9831294608838382,
+        "available": true,
+        "raw_q_pp": 3.6093590930694663,
+        "q_pp": 3.6093590930694663,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "997f0403c5d35ffc028f99ce",
+        "k": 6,
+        "time_min": 29.971892442001117,
+        "time_over_target": 0.24973703142477363,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_05"
+        ],
+        "prediction": 0.9829397864555471,
+        "available": true,
+        "raw_q_pp": 2.258397374616886,
+        "q_pp": 2.258397374616886,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "06fe9d9d1b7d85f38cea8da5",
+        "k": 7,
+        "time_min": 40.003580415054316,
+        "time_over_target": 0.33332481219029947,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_06"
+        ],
+        "prediction": 0.9758719155990566,
+        "available": true,
+        "raw_q_pp": 3.625054111868381,
+        "q_pp": 3.625054111868381,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "90761852410b881cb564a33d",
+        "k": 8,
+        "time_min": 49.99591417452854,
+        "time_over_target": 0.4165846789112821,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_07"
+        ],
+        "prediction": 0.9635160583843023,
+        "available": true,
+        "raw_q_pp": 3.685348017052281,
+        "q_pp": 3.685348017052281,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "1909f7f8c0aad30386c901ab",
+        "k": 9,
+        "time_min": 59.98519698087485,
+        "time_over_target": 0.49981912394831024,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_08"
+        ],
+        "prediction": 0.9548166768923873,
+        "available": true,
+        "raw_q_pp": 3.462386443508409,
+        "q_pp": 3.462386443508409,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ce9172064ccb4a38ea9c4f28",
+        "k": 10,
+        "time_min": 89.99999617860418,
+        "time_over_target": 0.7499136705291377,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_08",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_09"
+        ],
+        "prediction": 0.946851289251478,
+        "available": true,
+        "raw_q_pp": 3.3552322534978543,
+        "q_pp": 3.3552322534978543,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ouachtak2021_CTAB_Mt_1CEC_OrangeG_C150",
+    "source_id": "Ouachtak2021",
+    "doi": "10.1016/j.molliq.2021.116560",
+    "family": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "canonical_group_id": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "target_point_id": "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_10",
+    "target_time_min": 120.0138092096659,
+    "target_time_lower": 119.45840014247261,
+    "target_time_upper": 120.56921827685917,
+    "pool_count": 10,
+    "t3": 9.991292860556545,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "6706cd971fd66cdcdacf60e9",
+        "k": 3,
+        "time_min": 9.991292860556545,
+        "time_over_target": 0.08325119356141433,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02"
+        ],
+        "prediction": 0.9377833765520401,
+        "available": true,
+        "raw_q_pp": 11.12306689629324,
+        "q_pp": 11.12306689629324,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "4fbbe5104285108a8ac54523",
+        "k": 4,
+        "time_min": 15.007152255937324,
+        "time_over_target": 0.12504521233652044,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03"
+        ],
+        "prediction": 0.895900105280813,
+        "available": true,
+        "raw_q_pp": 7.67188679214021,
+        "q_pp": 7.67188679214021,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "aac76471aafc800926ffcb11",
+        "k": 5,
+        "time_min": 19.98057566690287,
+        "time_over_target": 0.16648563859844254,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04"
+        ],
+        "prediction": 0.880257394839374,
+        "available": true,
+        "raw_q_pp": 7.8816986111313545,
+        "q_pp": 7.8816986111313545,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d363a913453ea9d84eaa87cf",
+        "k": 6,
+        "time_min": 29.971892442001117,
+        "time_over_target": 0.24973703142477363,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_05"
+        ],
+        "prediction": 0.8718150451527054,
+        "available": true,
+        "raw_q_pp": 5.11439636313721,
+        "q_pp": 5.11439636313721,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0b6dd0ed3e92f1c648cd3332",
+        "k": 7,
+        "time_min": 40.003580415054316,
+        "time_over_target": 0.33332481219029947,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_06"
+        ],
+        "prediction": 0.8663814327368855,
+        "available": true,
+        "raw_q_pp": 4.74129752070853,
+        "q_pp": 4.74129752070853,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ef2c1fe16125b85e041983ec",
+        "k": 8,
+        "time_min": 49.99591417452854,
+        "time_over_target": 0.4165846789112821,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_07"
+        ],
+        "prediction": 0.8617942311676858,
+        "available": true,
+        "raw_q_pp": 4.4712031397122045,
+        "q_pp": 4.4712031397122045,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "95522be4b756caf398902692",
+        "k": 9,
+        "time_min": 59.98519698087485,
+        "time_over_target": 0.49981912394831024,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_08"
+        ],
+        "prediction": 0.8581799111436168,
+        "available": true,
+        "raw_q_pp": 3.858571252233257,
+        "q_pp": 3.858571252233257,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "369d08560c91e738e66a045c",
+        "k": 10,
+        "time_min": 89.99999617860418,
+        "time_over_target": 0.7499136705291377,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_08",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_09"
+        ],
+        "prediction": 0.8545737805056968,
+        "available": true,
+        "raw_q_pp": 3.3314345418243683,
+        "q_pp": 3.3314345418243683,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Khenifi2007_new_condition_T60",
+    "source_id": "Zohra2008_CEJ",
+    "doi": "10.1016/j.cej.2007.03.086",
+    "family": "Algeria_USTOran_Khenifi_Derriche",
+    "canonical_group_id": "Algeria_USTOran_Khenifi_Derriche",
+    "target_point_id": "Khenifi2007_new_condition_T60_p12",
+    "target_time_min": 119.89984792371084,
+    "target_time_lower": 119.61959158699182,
+    "target_time_upper": 120.18010426042986,
+    "pool_count": 11,
+    "t3": 15.08397799079593,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "dec1c0b14577d8bb33b9b091",
+        "k": 3,
+        "time_min": 15.08397799079593,
+        "time_over_target": 0.12580481336718186,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03"
+        ],
+        "prediction": 0.8225081208447267,
+        "available": true,
+        "raw_q_pp": 6.406955967082924,
+        "q_pp": 6.406955967082924,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ca9577d7dd9f185173b2ad4d",
+        "k": 4,
+        "time_min": 19.98846388337885,
+        "time_over_target": 0.1667096683566854,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04"
+        ],
+        "prediction": 0.8352109509220218,
+        "available": true,
+        "raw_q_pp": 6.492594320492768,
+        "q_pp": 6.492594320492768,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "1f23398c2fe0e227d400b969",
+        "k": 5,
+        "time_min": 25.033077944321278,
+        "time_over_target": 0.20878323348874617,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05"
+        ],
+        "prediction": 0.8370659898523178,
+        "available": true,
+        "raw_q_pp": 4.813556819849969,
+        "q_pp": 4.813556819849969,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2dca5a24b1bf6b71a6cea629",
+        "k": 6,
+        "time_min": 30.077692005263707,
+        "time_over_target": 0.25085679862080695,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06"
+        ],
+        "prediction": 0.8432158558318497,
+        "available": true,
+        "raw_q_pp": 3.9499998702967836,
+        "q_pp": 3.9499998702967836,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "605da493e96862e028b766d4",
+        "k": 7,
+        "time_min": 40.026791958789055,
+        "time_over_target": 0.33383521874237126,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06",
+          "Khenifi2007_new_condition_T60_p07"
+        ],
+        "prediction": 0.8512778875936582,
+        "available": true,
+        "raw_q_pp": 3.4411153126994236,
+        "q_pp": 3.4411153126994236,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "43706cd98c28848d615b806a",
+        "k": 8,
+        "time_min": 49.835763743954885,
+        "time_over_target": 0.41564492872137826,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06",
+          "Khenifi2007_new_condition_T60_p07",
+          "Khenifi2007_new_condition_T60_p08"
+        ],
+        "prediction": 0.8548659078911881,
+        "available": true,
+        "raw_q_pp": 2.999984295815786,
+        "q_pp": 2.999984295815786,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "cd9d3d9e6932f3c878e992f0",
+        "k": 9,
+        "time_min": 64.96960592678218,
+        "time_over_target": 0.5418656241175607,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06",
+          "Khenifi2007_new_condition_T60_p07",
+          "Khenifi2007_new_condition_T60_p08",
+          "Khenifi2007_new_condition_T60_p09"
+        ],
+        "prediction": 0.8577540440485162,
+        "available": true,
+        "raw_q_pp": 2.220209651573692,
+        "q_pp": 2.220209651573692,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "3a74be301937a4e0e18b9cc9",
+        "k": 10,
+        "time_min": 80.10344810960946,
+        "time_over_target": 0.6680863195137429,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06",
+          "Khenifi2007_new_condition_T60_p07",
+          "Khenifi2007_new_condition_T60_p08",
+          "Khenifi2007_new_condition_T60_p09",
+          "Khenifi2007_new_condition_T60_p10"
+        ],
+        "prediction": 0.8584047921838123,
+        "available": true,
+        "raw_q_pp": 1.860170589891461,
+        "q_pp": 1.860170589891461,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "1a9ad4221b07fdd992d0d681",
+        "k": 11,
+        "time_min": 100.00164801666016,
+        "time_over_target": 0.8340431597568715,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06",
+          "Khenifi2007_new_condition_T60_p07",
+          "Khenifi2007_new_condition_T60_p08",
+          "Khenifi2007_new_condition_T60_p09",
+          "Khenifi2007_new_condition_T60_p10",
+          "Khenifi2007_new_condition_T60_p11"
+        ],
+        "prediction": 0.8590003875293678,
+        "available": true,
+        "raw_q_pp": 1.731365578103649,
+        "q_pp": 1.731365578103649,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Zheng2026_XO_MMT5_T25",
+    "source_id": "Zheng2026",
+    "doi": "10.1016/j.dwt.2025.101595",
+    "family": "China_Weifang_Qingdao_Changzhou_Zheng_Li_Zhang",
+    "canonical_group_id": "China_Weifang_Qingdao_Changzhou_Zheng_Li_Zhang",
+    "target_point_id": "Zheng2026_XO_MMT5_T25_p09",
+    "target_time_min": 120.1789113612338,
+    "target_time_lower": 119.23131891372525,
+    "target_time_upper": 121.12650380874236,
+    "pool_count": 8,
+    "t3": 5.060082699339379,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "d7862f4ec107319c3c30a54d",
+        "k": 3,
+        "time_min": 5.060082699339379,
+        "time_over_target": 0.04210458092876029,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03"
+        ],
+        "prediction": 0.9922128643879083,
+        "available": true,
+        "raw_q_pp": 7.808970574396213,
+        "q_pp": 7.808970574396213,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "77f6692957d1d9ef3a689d8d",
+        "k": 4,
+        "time_min": 10.023993178308139,
+        "time_over_target": 0.0834089197910773,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03",
+          "Zheng2026_XO_MMT5_T25_p04"
+        ],
+        "prediction": 0.9922147270745475,
+        "available": true,
+        "raw_q_pp": 7.261459683604706,
+        "q_pp": 7.261459683604706,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "f96531db311f6e4c36979e89",
+        "k": 5,
+        "time_min": 19.98881309651251,
+        "time_over_target": 0.16632546317906083,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03",
+          "Zheng2026_XO_MMT5_T25_p04",
+          "Zheng2026_XO_MMT5_T25_p05"
+        ],
+        "prediction": 0.9921940107787394,
+        "available": true,
+        "raw_q_pp": 3.576350844906219,
+        "q_pp": 3.576350844906219,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c1ff3344901a718781491342",
+        "k": 6,
+        "time_min": 29.84411282528116,
+        "time_over_target": 0.24833069701867844,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03",
+          "Zheng2026_XO_MMT5_T25_p04",
+          "Zheng2026_XO_MMT5_T25_p05",
+          "Zheng2026_XO_MMT5_T25_p06"
+        ],
+        "prediction": 0.9906410557315006,
+        "available": true,
+        "raw_q_pp": 3.876341364473508,
+        "q_pp": 3.876341364473508,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "768a92cf67c344658f436132",
+        "k": 7,
+        "time_min": 60.048557969243504,
+        "time_over_target": 0.499659693111627,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03",
+          "Zheng2026_XO_MMT5_T25_p04",
+          "Zheng2026_XO_MMT5_T25_p05",
+          "Zheng2026_XO_MMT5_T25_p06",
+          "Zheng2026_XO_MMT5_T25_p07"
+        ],
+        "prediction": 0.9833144725460817,
+        "available": true,
+        "raw_q_pp": 3.2055196886921373,
+        "q_pp": 3.2055196886921373,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "8f29e02441c7f4c194889224",
+        "k": 8,
+        "time_min": 90.17485550936354,
+        "time_over_target": 0.75033842866421,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03",
+          "Zheng2026_XO_MMT5_T25_p04",
+          "Zheng2026_XO_MMT5_T25_p05",
+          "Zheng2026_XO_MMT5_T25_p06",
+          "Zheng2026_XO_MMT5_T25_p07",
+          "Zheng2026_XO_MMT5_T25_p08"
+        ],
+        "prediction": 0.978601251144946,
+        "available": true,
+        "raw_q_pp": 3.017721005979737,
+        "q_pp": 3.017721005979737,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig9_curve1_IC_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig9_curve1_IC_rho0p5_p10",
+    "target_time_min": 120.16028576073515,
+    "target_time_lower": 119.47990480765439,
+    "target_time_upper": 120.8406667138159,
+    "pool_count": 9,
+    "t3": 30.00980947753515,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "98891a04c73c634930ec281f",
+        "k": 3,
+        "time_min": 30.00980947753515,
+        "time_over_target": 0.24974815337316278,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03"
+        ],
+        "prediction": 0.6358150156744607,
+        "available": true,
+        "raw_q_pp": 4.583026807777847,
+        "q_pp": 4.583026807777847,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "bdfbc3bcad5c628c1e79fe1d",
+        "k": 4,
+        "time_min": 35.11266662564082,
+        "time_over_target": 0.2922152390312857,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04"
+        ],
+        "prediction": 0.6300561052823304,
+        "available": true,
+        "raw_q_pp": 4.397953877827105,
+        "q_pp": 4.397953877827105,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "29c3daee5f8ab2d4b4054768",
+        "k": 5,
+        "time_min": 40.215523773746476,
+        "time_over_target": 0.33468232468940856,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04",
+          "Shen2009_fig9_curve1_IC_rho0p5_p05"
+        ],
+        "prediction": 0.6003795390759468,
+        "available": true,
+        "raw_q_pp": 4.396174831963685,
+        "q_pp": 4.396174831963685,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "dbd8abad3e2df45b11e08e94",
+        "k": 6,
+        "time_min": 50.081047593417416,
+        "time_over_target": 0.4167853569617794,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04",
+          "Shen2009_fig9_curve1_IC_rho0p5_p05",
+          "Shen2009_fig9_curve1_IC_rho0p5_p06"
+        ],
+        "prediction": 0.5351197802036206,
+        "available": true,
+        "raw_q_pp": 3.736311315875419,
+        "q_pp": 3.736311315875419,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a0f15b39e681b536cccd4e77",
+        "k": 7,
+        "time_min": 59.94657141308836,
+        "time_over_target": 0.49888838923415024,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04",
+          "Shen2009_fig9_curve1_IC_rho0p5_p05",
+          "Shen2009_fig9_curve1_IC_rho0p5_p06",
+          "Shen2009_fig9_curve1_IC_rho0p5_p07"
+        ],
+        "prediction": 0.49758897211541314,
+        "available": true,
+        "raw_q_pp": 3.348321273575132,
+        "q_pp": 3.348321273575132,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "da9f54a106bc050e5aa59a27",
+        "k": 8,
+        "time_min": 80.01780952897062,
+        "time_over_target": 0.6659255928227668,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04",
+          "Shen2009_fig9_curve1_IC_rho0p5_p05",
+          "Shen2009_fig9_curve1_IC_rho0p5_p06",
+          "Shen2009_fig9_curve1_IC_rho0p5_p07",
+          "Shen2009_fig9_curve1_IC_rho0p5_p08"
+        ],
+        "prediction": 0.46282182748330375,
+        "available": true,
+        "raw_q_pp": 2.6867731709007328,
+        "q_pp": 2.6867731709007328,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ede992ec5f1e91790924f0c7",
+        "k": 9,
+        "time_min": 100.08904764485288,
+        "time_over_target": 0.8329627964113834,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04",
+          "Shen2009_fig9_curve1_IC_rho0p5_p05",
+          "Shen2009_fig9_curve1_IC_rho0p5_p06",
+          "Shen2009_fig9_curve1_IC_rho0p5_p07",
+          "Shen2009_fig9_curve1_IC_rho0p5_p08",
+          "Shen2009_fig9_curve1_IC_rho0p5_p09"
+        ],
+        "prediction": 0.4409084722440058,
+        "available": true,
+        "raw_q_pp": 2.7035364615465323,
+        "q_pp": 2.7035364615465323,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig9_curve2_ATB2G_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig9_curve2_ATB2G_rho0p5_p10",
+    "target_time_min": 120.16028576073515,
+    "target_time_lower": 119.47990480765439,
+    "target_time_upper": 120.8406667138159,
+    "pool_count": 9,
+    "t3": 30.00980947753515,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "7b0b1412de0bc4f23e744ad0",
+        "k": 3,
+        "time_min": 30.00980947753515,
+        "time_over_target": 0.24974815337316278,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03"
+        ],
+        "prediction": 0.38703127089066597,
+        "available": true,
+        "raw_q_pp": 4.498480869092248,
+        "q_pp": 4.498480869092248,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "7381fc83933af69aff781755",
+        "k": 4,
+        "time_min": 35.11266662564082,
+        "time_over_target": 0.2922152390312857,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04"
+        ],
+        "prediction": 0.3899807443196206,
+        "available": true,
+        "raw_q_pp": 4.22199143935119,
+        "q_pp": 4.22199143935119,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6f69a3f5aa87d0c14c3155f1",
+        "k": 5,
+        "time_min": 40.215523773746476,
+        "time_over_target": 0.33468232468940856,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p05"
+        ],
+        "prediction": 0.40015575489967153,
+        "available": true,
+        "raw_q_pp": 4.236266473346687,
+        "q_pp": 4.236266473346687,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a8fffc9d913cb3fa886f64c6",
+        "k": 6,
+        "time_min": 50.081047593417416,
+        "time_over_target": 0.4167853569617794,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p05",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p06"
+        ],
+        "prediction": 0.40656887921838963,
+        "available": true,
+        "raw_q_pp": 3.571798687150637,
+        "q_pp": 3.571798687150637,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d171735e51e5297f1ac986a2",
+        "k": 7,
+        "time_min": 60.28676188962873,
+        "time_over_target": 0.501719528278025,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p05",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p06",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p07"
+        ],
+        "prediction": 0.40293365394910385,
+        "available": true,
+        "raw_q_pp": 2.857922742200353,
+        "q_pp": 2.857922742200353,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ecff2e2f6ac99a8fedb114f0",
+        "k": 8,
+        "time_min": 80.01780952897062,
+        "time_over_target": 0.6659255928227668,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p05",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p06",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p07",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p08"
+        ],
+        "prediction": 0.39888331448458336,
+        "available": true,
+        "raw_q_pp": 2.126247795176187,
+        "q_pp": 2.126247795176187,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "cd09dd01dfe8d74a2297bdbf",
+        "k": 9,
+        "time_min": 100.08904764485288,
+        "time_over_target": 0.8329627964113834,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p05",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p06",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p07",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p08",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p09"
+        ],
+        "prediction": 0.3989744807139523,
+        "available": true,
+        "raw_q_pp": 1.8692403182495412,
+        "q_pp": 1.8692403182495412,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig9_curve3_IC_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig9_curve3_IC_rho0p5_p10",
+    "target_time_min": 120.16028576073515,
+    "target_time_lower": 119.47990480765439,
+    "target_time_upper": 120.8406667138159,
+    "pool_count": 9,
+    "t3": 30.00980947753515,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "e381ad21e3698906b06de1a4",
+        "k": 3,
+        "time_min": 30.00980947753515,
+        "time_over_target": 0.24974815337316278,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03"
+        ],
+        "prediction": 0.6223732057403724,
+        "available": true,
+        "raw_q_pp": 4.583026807777847,
+        "q_pp": 4.583026807777847,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "cea637ff747dd2a1fc3e19ce",
+        "k": 4,
+        "time_min": 35.11266662564082,
+        "time_over_target": 0.2922152390312857,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04"
+        ],
+        "prediction": 0.6001315433226186,
+        "available": true,
+        "raw_q_pp": 4.412048141393136,
+        "q_pp": 4.412048141393136,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a2c8324df48b9d9eaa222526",
+        "k": 5,
+        "time_min": 40.215523773746476,
+        "time_over_target": 0.33468232468940856,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04",
+          "Shen2009_fig9_curve3_IC_rho0p5_p05"
+        ],
+        "prediction": 0.571144924793423,
+        "available": true,
+        "raw_q_pp": 4.3631362739545105,
+        "q_pp": 4.3631362739545105,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e2a028373e7d84c7c9ecb34c",
+        "k": 6,
+        "time_min": 50.081047593417416,
+        "time_over_target": 0.4167853569617794,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04",
+          "Shen2009_fig9_curve3_IC_rho0p5_p05",
+          "Shen2009_fig9_curve3_IC_rho0p5_p06"
+        ],
+        "prediction": 0.5519752993724529,
+        "available": true,
+        "raw_q_pp": 3.6014196662162297,
+        "q_pp": 3.6014196662162297,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "254f3f1479f8fe47c9a23581",
+        "k": 7,
+        "time_min": 60.28676188962873,
+        "time_over_target": 0.501719528278025,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04",
+          "Shen2009_fig9_curve3_IC_rho0p5_p05",
+          "Shen2009_fig9_curve3_IC_rho0p5_p06",
+          "Shen2009_fig9_curve3_IC_rho0p5_p07"
+        ],
+        "prediction": 0.5389471746679875,
+        "available": true,
+        "raw_q_pp": 2.8812298926440207,
+        "q_pp": 2.8812298926440207,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "64403eb9789e299c714ea95e",
+        "k": 8,
+        "time_min": 80.01780952897062,
+        "time_over_target": 0.6659255928227668,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04",
+          "Shen2009_fig9_curve3_IC_rho0p5_p05",
+          "Shen2009_fig9_curve3_IC_rho0p5_p06",
+          "Shen2009_fig9_curve3_IC_rho0p5_p07",
+          "Shen2009_fig9_curve3_IC_rho0p5_p08"
+        ],
+        "prediction": 0.5314434761830741,
+        "available": true,
+        "raw_q_pp": 2.138295212543165,
+        "q_pp": 2.138295212543165,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "9097b5ed3511785d566dc40b",
+        "k": 9,
+        "time_min": 100.08904764485288,
+        "time_over_target": 0.8329627964113834,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04",
+          "Shen2009_fig9_curve3_IC_rho0p5_p05",
+          "Shen2009_fig9_curve3_IC_rho0p5_p06",
+          "Shen2009_fig9_curve3_IC_rho0p5_p07",
+          "Shen2009_fig9_curve3_IC_rho0p5_p08",
+          "Shen2009_fig9_curve3_IC_rho0p5_p09"
+        ],
+        "prediction": 0.5231003138618189,
+        "available": true,
+        "raw_q_pp": 1.9981397794907019,
+        "q_pp": 1.9981397794907019,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig9_curve4_ASGR_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig9_curve4_ASGR_rho0p5_p10",
+    "target_time_min": 120.16028576073515,
+    "target_time_lower": 119.47990480765439,
+    "target_time_upper": 120.8406667138159,
+    "pool_count": 9,
+    "t3": 30.349999954075535,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "a7884a9eac78ff9b9c5ad460",
+        "k": 3,
+        "time_min": 30.349999954075535,
+        "time_over_target": 0.2525792924170377,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03"
+        ],
+        "prediction": 0.6707583013522809,
+        "available": true,
+        "raw_q_pp": 4.693781388520577,
+        "q_pp": 4.693781388520577,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "47a91b33674aa080d63f8bd7",
+        "k": 4,
+        "time_min": 35.11266662564082,
+        "time_over_target": 0.2922152390312857,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04"
+        ],
+        "prediction": 0.6461296478272084,
+        "available": true,
+        "raw_q_pp": 4.43670475558337,
+        "q_pp": 4.43670475558337,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c64a7936f50f73e5c8611c80",
+        "k": 5,
+        "time_min": 40.215523773746476,
+        "time_over_target": 0.33468232468940856,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p05"
+        ],
+        "prediction": 0.6592961162318676,
+        "available": true,
+        "raw_q_pp": 4.411252395134483,
+        "q_pp": 4.411252395134483,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "03c7000656fd6bf24408bae0",
+        "k": 6,
+        "time_min": 50.081047593417416,
+        "time_over_target": 0.4167853569617794,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p05",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p06"
+        ],
+        "prediction": 0.6659244702762185,
+        "available": true,
+        "raw_q_pp": 3.728823614100055,
+        "q_pp": 3.728823614100055,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e26ffb151e083e7f342c6171",
+        "k": 7,
+        "time_min": 60.28676188962873,
+        "time_over_target": 0.501719528278025,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p05",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p06",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p07"
+        ],
+        "prediction": 0.6595252709541638,
+        "available": true,
+        "raw_q_pp": 2.9034651022160256,
+        "q_pp": 2.9034651022160256,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "72f9a7a4ec61bdca2ce7c854",
+        "k": 8,
+        "time_min": 80.01780952897062,
+        "time_over_target": 0.6659255928227668,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p05",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p06",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p07",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p08"
+        ],
+        "prediction": 0.672739433012685,
+        "available": true,
+        "raw_q_pp": 2.17409639820527,
+        "q_pp": 2.17409639820527,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "366f1c6b60d72951872deeda",
+        "k": 9,
+        "time_min": 100.08904764485288,
+        "time_over_target": 0.8329627964113834,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p05",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p06",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p07",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p08",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p09"
+        ],
+        "prediction": 0.6678871580267104,
+        "available": true,
+        "raw_q_pp": 1.9747401697963263,
+        "q_pp": 1.9747401697963263,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig10_curve1_ATB2G_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig10_curve1_ATB2G_rho0p5_p10",
+    "target_time_min": 120.14617664893129,
+    "target_time_lower": 119.4859034986727,
+    "target_time_upper": 120.80644979918988,
+    "pool_count": 9,
+    "t3": 30.018891638633455,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "00747629dbe3acb411c861d7",
+        "k": 3,
+        "time_min": 30.018891638633455,
+        "time_over_target": 0.2498530746121789,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03"
+        ],
+        "prediction": 0.20248443761728863,
+        "available": true,
+        "raw_q_pp": 3.9023368510040517,
+        "q_pp": 3.9023368510040517,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6e043c1d0b019d0f100e3a45",
+        "k": 4,
+        "time_min": 34.9709402655729,
+        "time_over_target": 0.2910699386444768,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04"
+        ],
+        "prediction": 0.2092147105262424,
+        "available": true,
+        "raw_q_pp": 3.698674331765859,
+        "q_pp": 3.698674331765859,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ee9c9863c168c19a41fcee4c",
+        "k": 5,
+        "time_min": 40.25312546764163,
+        "time_over_target": 0.3350345936122611,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p05"
+        ],
+        "prediction": 0.20551887161604895,
+        "available": true,
+        "raw_q_pp": 3.6397641121280544,
+        "q_pp": 3.6397641121280544,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6b621d38e4bd144fbdf96c62",
+        "k": 6,
+        "time_min": 50.15722272152052,
+        "time_over_target": 0.4174683216768569,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p05",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p06"
+        ],
+        "prediction": 0.19878676580416366,
+        "available": true,
+        "raw_q_pp": 3.122884591602154,
+        "q_pp": 3.122884591602154,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d8afff3e8d554ca66a836562",
+        "k": 7,
+        "time_min": 60.06131997539941,
+        "time_over_target": 0.49990204974145264,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p05",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p06",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p07"
+        ],
+        "prediction": 0.19702154437960231,
+        "available": true,
+        "raw_q_pp": 2.643472622577206,
+        "q_pp": 2.643472622577206,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ecb9c91359fbdc2284e7e1de",
+        "k": 8,
+        "time_min": 80.19965105828646,
+        "time_over_target": 0.6675172968061306,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p05",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p06",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p07",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p08"
+        ],
+        "prediction": 0.19453920192171872,
+        "available": true,
+        "raw_q_pp": 2.0369084735267524,
+        "q_pp": 2.0369084735267524,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "47104ad51b078be55dc3dde3",
+        "k": 9,
+        "time_min": 100.00784556604421,
+        "time_over_target": 0.8323847529353219,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p05",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p06",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p07",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p08",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p09"
+        ],
+        "prediction": 0.19209363496483717,
+        "available": true,
+        "raw_q_pp": 1.9804260517934253,
+        "q_pp": 1.9804260517934253,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig10_curve2_IC_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig10_curve2_IC_rho0p5_p10",
+    "target_time_min": 120.14617664893129,
+    "target_time_lower": 119.4859034986727,
+    "target_time_upper": 120.80644979918988,
+    "pool_count": 9,
+    "t3": 30.018891638633455,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "c957657a36f76dee1f75314d",
+        "k": 3,
+        "time_min": 30.018891638633455,
+        "time_over_target": 0.2498530746121789,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03"
+        ],
+        "prediction": 0.31875286094602534,
+        "available": true,
+        "raw_q_pp": 4.159635098511641,
+        "q_pp": 4.159635098511641,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b2436777ad15b9516a906933",
+        "k": 4,
+        "time_min": 34.9709402655729,
+        "time_over_target": 0.2910699386444768,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04"
+        ],
+        "prediction": 0.3088209847600334,
+        "available": true,
+        "raw_q_pp": 3.7181748705143756,
+        "q_pp": 3.7181748705143756,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b5e598c16e464011cb4f0feb",
+        "k": 5,
+        "time_min": 40.25312546764163,
+        "time_over_target": 0.3350345936122611,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04",
+          "Shen2009_fig10_curve2_IC_rho0p5_p05"
+        ],
+        "prediction": 0.2982569688450406,
+        "available": true,
+        "raw_q_pp": 3.736159445130015,
+        "q_pp": 3.736159445130015,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e0b650f6507db95742878794",
+        "k": 6,
+        "time_min": 50.15722272152052,
+        "time_over_target": 0.4174683216768569,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04",
+          "Shen2009_fig10_curve2_IC_rho0p5_p05",
+          "Shen2009_fig10_curve2_IC_rho0p5_p06"
+        ],
+        "prediction": 0.29506486016291744,
+        "available": true,
+        "raw_q_pp": 3.354599272234527,
+        "q_pp": 3.354599272234527,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "fe3df2ef57890f047d8bb3d2",
+        "k": 7,
+        "time_min": 60.06131997539941,
+        "time_over_target": 0.49990204974145264,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04",
+          "Shen2009_fig10_curve2_IC_rho0p5_p05",
+          "Shen2009_fig10_curve2_IC_rho0p5_p06",
+          "Shen2009_fig10_curve2_IC_rho0p5_p07"
+        ],
+        "prediction": 0.29124021403952854,
+        "available": true,
+        "raw_q_pp": 2.805059354926951,
+        "q_pp": 2.805059354926951,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "4cdf8d34013859b64537f129",
+        "k": 8,
+        "time_min": 80.19965105828646,
+        "time_over_target": 0.6675172968061306,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04",
+          "Shen2009_fig10_curve2_IC_rho0p5_p05",
+          "Shen2009_fig10_curve2_IC_rho0p5_p06",
+          "Shen2009_fig10_curve2_IC_rho0p5_p07",
+          "Shen2009_fig10_curve2_IC_rho0p5_p08"
+        ],
+        "prediction": 0.28624794778902884,
+        "available": true,
+        "raw_q_pp": 2.5611545481649878,
+        "q_pp": 2.5611545481649878,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "9001a16982cfc463eecabb88",
+        "k": 9,
+        "time_min": 100.00784556604421,
+        "time_over_target": 0.8323847529353219,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04",
+          "Shen2009_fig10_curve2_IC_rho0p5_p05",
+          "Shen2009_fig10_curve2_IC_rho0p5_p06",
+          "Shen2009_fig10_curve2_IC_rho0p5_p07",
+          "Shen2009_fig10_curve2_IC_rho0p5_p08",
+          "Shen2009_fig10_curve2_IC_rho0p5_p09"
+        ],
+        "prediction": 0.28116374302230907,
+        "available": true,
+        "raw_q_pp": 2.5797907053169538,
+        "q_pp": 2.5797907053169538,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig10_curve3_ASGR_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig10_curve3_ASGR_rho0p5_p10",
+    "target_time_min": 120.14617664893129,
+    "target_time_lower": 119.4859034986727,
+    "target_time_upper": 120.80644979918988,
+    "pool_count": 9,
+    "t3": 30.349028213762757,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "84d4eb1c1b578a3aac3d54b2",
+        "k": 3,
+        "time_min": 30.349028213762757,
+        "time_over_target": 0.2526008655476655,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03"
+        ],
+        "prediction": 0.6986125123324476,
+        "available": true,
+        "raw_q_pp": 4.103465405553724,
+        "q_pp": 4.103465405553724,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "04a892734179c7d0ebe383f4",
+        "k": 4,
+        "time_min": 34.9709402655729,
+        "time_over_target": 0.2910699386444768,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04"
+        ],
+        "prediction": 0.6256704150928395,
+        "available": true,
+        "raw_q_pp": 4.422610492017337,
+        "q_pp": 4.422610492017337,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a42e1b3c5047a216370905da",
+        "k": 5,
+        "time_min": 40.25312546764163,
+        "time_over_target": 0.3350345936122611,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p05"
+        ],
+        "prediction": 0.6164829883072379,
+        "available": true,
+        "raw_q_pp": 4.397158131568451,
+        "q_pp": 4.397158131568451,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "16faab06b433f9db98b1a299",
+        "k": 6,
+        "time_min": 50.15722272152052,
+        "time_over_target": 0.4174683216768569,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p05",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p06"
+        ],
+        "prediction": 0.6161493744771227,
+        "available": true,
+        "raw_q_pp": 3.728823614100055,
+        "q_pp": 3.728823614100055,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b9f4a143f7e85df1d30571a9",
+        "k": 7,
+        "time_min": 60.06131997539941,
+        "time_over_target": 0.49990204974145264,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p05",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p06",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p07"
+        ],
+        "prediction": 0.6307825042448847,
+        "available": true,
+        "raw_q_pp": 2.91883214691195,
+        "q_pp": 2.91883214691195,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "273869781e36c60bae97086c",
+        "k": 8,
+        "time_min": 80.19965105828646,
+        "time_over_target": 0.6675172968061306,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p05",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p06",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p07",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p08"
+        ],
+        "prediction": 0.6461381844017011,
+        "available": true,
+        "raw_q_pp": 2.1756506360665875,
+        "q_pp": 2.1756506360665875,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "826cceff9554490f5d84a24a",
+        "k": 9,
+        "time_min": 100.33798214117351,
+        "time_over_target": 0.8351325438708085,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p05",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p06",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p07",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p08",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p09"
+        ],
+        "prediction": 0.6404424727613758,
+        "available": true,
+        "raw_q_pp": 2.013242685537461,
+        "q_pp": 2.013242685537461,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Meretoudi2025_RB5_CS_MT",
+    "source_id": "Meretoudi2025",
+    "doi": "10.1021/acs.langmuir.5c03148",
+    "family": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "canonical_group_id": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "target_point_id": "Meretoudi2025_RB5_CS_MT_p09",
+    "target_time_min": 120.03531534163693,
+    "target_time_lower": 118.96229000631651,
+    "target_time_upper": 121.10834067695735,
+    "pool_count": 8,
+    "t3": 14.982134254785421,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "b9e1a5e3e068ddfcf7af31a8",
+        "k": 3,
+        "time_min": 14.982134254785421,
+        "time_over_target": 0.12481438660067845,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03"
+        ],
+        "prediction": 0.3629858514550292,
+        "available": true,
+        "raw_q_pp": 7.381791881603509,
+        "q_pp": 7.381791881603509,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "997021fd9b85de51742bdf4d",
+        "k": 4,
+        "time_min": 20.00657833457541,
+        "time_over_target": 0.1666724353381665,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03",
+          "Meretoudi2025_RB5_CS_MT_p04"
+        ],
+        "prediction": 0.37487559181978525,
+        "available": true,
+        "raw_q_pp": 7.195247914004984,
+        "q_pp": 7.195247914004984,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "357f534590684fc66a7f7543",
+        "k": 5,
+        "time_min": 29.958865397378133,
+        "time_over_target": 0.24958376051340478,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03",
+          "Meretoudi2025_RB5_CS_MT_p04",
+          "Meretoudi2025_RB5_CS_MT_p05"
+        ],
+        "prediction": 0.40789532248617566,
+        "available": true,
+        "raw_q_pp": 4.386062575909161,
+        "q_pp": 4.386062575909161,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5a4b3e52708452d79156ae01",
+        "k": 6,
+        "time_min": 45.04024090603474,
+        "time_over_target": 0.3752249142499776,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03",
+          "Meretoudi2025_RB5_CS_MT_p04",
+          "Meretoudi2025_RB5_CS_MT_p05",
+          "Meretoudi2025_RB5_CS_MT_p06"
+        ],
+        "prediction": 0.4516564691026589,
+        "available": true,
+        "raw_q_pp": 4.279356937796302,
+        "q_pp": 4.279356937796302,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "51eb67cbe235832ca004f3f1",
+        "k": 7,
+        "time_min": 60.01834329300965,
+        "time_over_target": 0.5000057118372975,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03",
+          "Meretoudi2025_RB5_CS_MT_p04",
+          "Meretoudi2025_RB5_CS_MT_p05",
+          "Meretoudi2025_RB5_CS_MT_p06",
+          "Meretoudi2025_RB5_CS_MT_p07"
+        ],
+        "prediction": 0.4953562740003478,
+        "available": true,
+        "raw_q_pp": 3.687590047189871,
+        "q_pp": 3.687590047189871,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "f1bd224c2a55390d2fc94d8f",
+        "k": 8,
+        "time_min": 89.97855946843578,
+        "time_over_target": 0.7496007255226887,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03",
+          "Meretoudi2025_RB5_CS_MT_p04",
+          "Meretoudi2025_RB5_CS_MT_p05",
+          "Meretoudi2025_RB5_CS_MT_p06",
+          "Meretoudi2025_RB5_CS_MT_p07",
+          "Meretoudi2025_RB5_CS_MT_p08"
+        ],
+        "prediction": 0.5282445086241216,
+        "available": true,
+        "raw_q_pp": 3.0945091121425126,
+        "q_pp": 3.0945091121425126,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Meretoudi2025_RB5_CS_MT_GO",
+    "source_id": "Meretoudi2025",
+    "doi": "10.1021/acs.langmuir.5c03148",
+    "family": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "canonical_group_id": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "target_point_id": "Meretoudi2025_RB5_CS_MT_GO_p09",
+    "target_time_min": 120.03398502992286,
+    "target_time_lower": 118.96095969460244,
+    "target_time_upper": 121.10701036524328,
+    "pool_count": 8,
+    "t3": 14.980783476737258,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "018105f4241b3e82e335a729",
+        "k": 3,
+        "time_min": 14.980783476737258,
+        "time_over_target": 0.12480451659588533,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03"
+        ],
+        "prediction": 0.35639075829582434,
+        "available": true,
+        "raw_q_pp": 7.70640835624297,
+        "q_pp": 7.70640835624297,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "80d89719381689958dd44e5f",
+        "k": 4,
+        "time_min": 20.006557868241316,
+        "time_over_target": 0.16667411202963853,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03",
+          "Meretoudi2025_RB5_CS_MT_GO_p04"
+        ],
+        "prediction": 0.32742206624905357,
+        "available": true,
+        "raw_q_pp": 7.570954850955326,
+        "q_pp": 7.570954850955326,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c45d52e0c72aac7ae9d3e531",
+        "k": 5,
+        "time_min": 29.96021617542624,
+        "time_over_target": 0.2495977798950652,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03",
+          "Meretoudi2025_RB5_CS_MT_GO_p04",
+          "Meretoudi2025_RB5_CS_MT_GO_p05"
+        ],
+        "prediction": 0.36836089770661884,
+        "available": true,
+        "raw_q_pp": 4.492335654774537,
+        "q_pp": 4.492335654774537,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6f107b8f41494d2e5ebeed6a",
+        "k": 6,
+        "time_min": 45.037559816272505,
+        "time_over_target": 0.37520673670082055,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03",
+          "Meretoudi2025_RB5_CS_MT_GO_p04",
+          "Meretoudi2025_RB5_CS_MT_GO_p05",
+          "Meretoudi2025_RB5_CS_MT_GO_p06"
+        ],
+        "prediction": 0.40486965687072957,
+        "available": true,
+        "raw_q_pp": 3.9218150433399965,
+        "q_pp": 3.9218150433399965,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "aad18264138b5452d6c7344a",
+        "k": 7,
+        "time_min": 60.01834329300965,
+        "time_over_target": 0.5000112532967049,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03",
+          "Meretoudi2025_RB5_CS_MT_GO_p04",
+          "Meretoudi2025_RB5_CS_MT_GO_p05",
+          "Meretoudi2025_RB5_CS_MT_GO_p06",
+          "Meretoudi2025_RB5_CS_MT_GO_p07"
+        ],
+        "prediction": 0.4346839098825064,
+        "available": true,
+        "raw_q_pp": 3.233301113703205,
+        "q_pp": 3.233301113703205,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d09911dd2c33377c02606d8b",
+        "k": 8,
+        "time_min": 89.97720869038761,
+        "time_over_target": 0.7495977798950647,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03",
+          "Meretoudi2025_RB5_CS_MT_GO_p04",
+          "Meretoudi2025_RB5_CS_MT_GO_p05",
+          "Meretoudi2025_RB5_CS_MT_GO_p06",
+          "Meretoudi2025_RB5_CS_MT_GO_p07",
+          "Meretoudi2025_RB5_CS_MT_GO_p08"
+        ],
+        "prediction": 0.47366537926096997,
+        "available": true,
+        "raw_q_pp": 3.0471821135218327,
+        "q_pp": 3.0471821135218327,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Meretoudi2025_MB_CS_MT",
+    "source_id": "Meretoudi2025",
+    "doi": "10.1021/acs.langmuir.5c03148",
+    "family": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "canonical_group_id": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "target_point_id": "Meretoudi2025_MB_CS_MT_p09",
+    "target_time_min": 120.0326215551537,
+    "target_time_lower": 118.97526355502887,
+    "target_time_upper": 121.08997955527852,
+    "pool_count": 8,
+    "t3": 14.978805836269544,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "58e88111e0a87ab172d6584a",
+        "k": 3,
+        "time_min": 14.978805836269544,
+        "time_over_target": 0.12478945841724322,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03"
+        ],
+        "prediction": 0.3664320211997088,
+        "available": true,
+        "raw_q_pp": 7.413515725097928,
+        "q_pp": 7.413515725097928,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "3d509012a671917faf5e857d",
+        "k": 4,
+        "time_min": 20.00390231330323,
+        "time_over_target": 0.16665388170424697,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03",
+          "Meretoudi2025_MB_CS_MT_p04"
+        ],
+        "prediction": 0.37112125438066484,
+        "available": true,
+        "raw_q_pp": 7.295355632446432,
+        "q_pp": 7.295355632446432,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "46af1d79ea4c01c6a3f77910",
+        "k": 5,
+        "time_min": 29.95890465151456,
+        "time_over_target": 0.2495896887309819,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03",
+          "Meretoudi2025_MB_CS_MT_p04",
+          "Meretoudi2025_MB_CS_MT_p05"
+        ],
+        "prediction": 0.3948258801798887,
+        "available": true,
+        "raw_q_pp": 4.263690237965977,
+        "q_pp": 4.263690237965977,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "fa0b0a19bff3408841874b92",
+        "k": 6,
+        "time_min": 45.03685619305895,
+        "time_over_target": 0.3752051368166195,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03",
+          "Meretoudi2025_MB_CS_MT_p04",
+          "Meretoudi2025_MB_CS_MT_p05",
+          "Meretoudi2025_MB_CS_MT_p06"
+        ],
+        "prediction": 0.4516935890040584,
+        "available": true,
+        "raw_q_pp": 4.272334609162236,
+        "q_pp": 4.272334609162236,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e9beb5b84edf2ba7de4b74a9",
+        "k": 7,
+        "time_min": 60.015623953082354,
+        "time_over_target": 0.49999427801804547,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03",
+          "Meretoudi2025_MB_CS_MT_p04",
+          "Meretoudi2025_MB_CS_MT_p05",
+          "Meretoudi2025_MB_CS_MT_p06",
+          "Meretoudi2025_MB_CS_MT_p07"
+        ],
+        "prediction": 0.48565685194892627,
+        "available": true,
+        "raw_q_pp": 3.075078020322477,
+        "q_pp": 3.075078020322477,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e5680f29f491eff9c1a84459",
+        "k": 8,
+        "time_min": 89.97457119836417,
+        "time_over_target": 0.7495843216006228,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03",
+          "Meretoudi2025_MB_CS_MT_p04",
+          "Meretoudi2025_MB_CS_MT_p05",
+          "Meretoudi2025_MB_CS_MT_p06",
+          "Meretoudi2025_MB_CS_MT_p07",
+          "Meretoudi2025_MB_CS_MT_p08"
+        ],
+        "prediction": 0.5113155946248538,
+        "available": true,
+        "raw_q_pp": 2.528558866420919,
+        "q_pp": 2.528558866420919,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Meretoudi2025_MB_CS_MT_GO",
+    "source_id": "Meretoudi2025",
+    "doi": "10.1021/acs.langmuir.5c03148",
+    "family": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "canonical_group_id": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "target_point_id": "Meretoudi2025_MB_CS_MT_GO_p09",
+    "target_time_min": 120.032581220147,
+    "target_time_lower": 118.97522322002217,
+    "target_time_upper": 121.08993922027182,
+    "pool_count": 8,
+    "t3": 14.98013689149127,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "calibration",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "8203f3e8730859909bfa1908",
+        "k": 3,
+        "time_min": 14.98013689149127,
+        "time_over_target": 0.1248005894667615,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03"
+        ],
+        "prediction": 0.8472079177055444,
+        "available": true,
+        "raw_q_pp": 5.307530742468831,
+        "q_pp": 5.307530742468831,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b56d17c16183f3b4ead7dda7",
+        "k": 4,
+        "time_min": 20.006564423746568,
+        "time_over_target": 0.1666761159376663,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03",
+          "Meretoudi2025_MB_CS_MT_GO_p04"
+        ],
+        "prediction": 0.8478536742646678,
+        "available": true,
+        "raw_q_pp": 4.977310001748812,
+        "q_pp": 4.977310001748812,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "66c1deb82c03e5e6ee326b35",
+        "k": 5,
+        "time_min": 29.95894498652126,
+        "time_over_target": 0.24959010863537748,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03",
+          "Meretoudi2025_MB_CS_MT_GO_p04",
+          "Meretoudi2025_MB_CS_MT_GO_p05"
+        ],
+        "prediction": 0.7436608166117534,
+        "available": true,
+        "raw_q_pp": 4.559284208847938,
+        "q_pp": 4.559284208847938,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "62beea153186b56d6b10a880",
+        "k": 6,
+        "time_min": 45.03552513783734,
+        "time_over_target": 0.3751941737821956,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03",
+          "Meretoudi2025_MB_CS_MT_GO_p04",
+          "Meretoudi2025_MB_CS_MT_GO_p05",
+          "Meretoudi2025_MB_CS_MT_GO_p06"
+        ],
+        "prediction": 0.6584369775091501,
+        "available": true,
+        "raw_q_pp": 4.615646042938116,
+        "q_pp": 4.615646042938116,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5b6feab50c71835ddead3418",
+        "k": 7,
+        "time_min": 60.01695500830408,
+        "time_over_target": 0.5000055351490723,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03",
+          "Meretoudi2025_MB_CS_MT_GO_p04",
+          "Meretoudi2025_MB_CS_MT_GO_p05",
+          "Meretoudi2025_MB_CS_MT_GO_p06",
+          "Meretoudi2025_MB_CS_MT_GO_p07"
+        ],
+        "prediction": 0.6298103862444538,
+        "available": true,
+        "raw_q_pp": 3.351877181069461,
+        "q_pp": 3.351877181069461,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ff675b85aef47f2e476b8c5c",
+        "k": 8,
+        "time_min": 89.9758619185792,
+        "time_over_target": 0.7495953265685259,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03",
+          "Meretoudi2025_MB_CS_MT_GO_p04",
+          "Meretoudi2025_MB_CS_MT_GO_p05",
+          "Meretoudi2025_MB_CS_MT_GO_p06",
+          "Meretoudi2025_MB_CS_MT_GO_p07",
+          "Meretoudi2025_MB_CS_MT_GO_p08"
+        ],
+        "prediction": 0.610682083499155,
+        "available": true,
+        "raw_q_pp": 2.515567268859246,
+        "q_pp": 2.515567268859246,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2004_Na_T20",
+    "source_id": "Ozcan2004",
+    "doi": "10.1016/j.jcis.2004.07.035",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2004_Na_T20_p07",
+    "target_time_min": 120.00000000000007,
+    "target_time_lower": 119.67698519515486,
+    "target_time_upper": 120.32301480484529,
+    "pool_count": 6,
+    "t3": 30.0403768506057,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "171de2889cf658f0aa9281d5",
+        "k": 3,
+        "time_min": 30.0403768506057,
+        "time_over_target": 0.25033647375504736,
+        "input_ids": [
+          "Ozcan2004_Na_T20_p01",
+          "Ozcan2004_Na_T20_p02",
+          "Ozcan2004_Na_T20_p03"
+        ],
+        "prediction": 0.5812777530232646,
+        "available": true,
+        "raw_q_pp": 4.354495202219069,
+        "q_pp": 4.354495202219069,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "1770b94294745a0b0440123a",
+        "k": 4,
+        "time_min": 45.06056527590853,
+        "time_over_target": 0.37550471063257085,
+        "input_ids": [
+          "Ozcan2004_Na_T20_p01",
+          "Ozcan2004_Na_T20_p02",
+          "Ozcan2004_Na_T20_p03",
+          "Ozcan2004_Na_T20_p04"
+        ],
+        "prediction": 0.5586291185926485,
+        "available": true,
+        "raw_q_pp": 3.9729636574984584,
+        "q_pp": 3.9729636574984584,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5afa7a26f0254d3bb6319bd5",
+        "k": 5,
+        "time_min": 60.080753701211364,
+        "time_over_target": 0.5006729475100944,
+        "input_ids": [
+          "Ozcan2004_Na_T20_p01",
+          "Ozcan2004_Na_T20_p02",
+          "Ozcan2004_Na_T20_p03",
+          "Ozcan2004_Na_T20_p04",
+          "Ozcan2004_Na_T20_p05"
+        ],
+        "prediction": 0.5457979491807867,
+        "available": true,
+        "raw_q_pp": 2.8242959561732066,
+        "q_pp": 2.8242959561732066,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "8300a45b18352aae81b26f3d",
+        "k": 6,
+        "time_min": 89.9596231493944,
+        "time_over_target": 0.7496635262449529,
+        "input_ids": [
+          "Ozcan2004_Na_T20_p01",
+          "Ozcan2004_Na_T20_p02",
+          "Ozcan2004_Na_T20_p03",
+          "Ozcan2004_Na_T20_p04",
+          "Ozcan2004_Na_T20_p05",
+          "Ozcan2004_Na_T20_p06"
+        ],
+        "prediction": 0.539710558611583,
+        "available": true,
+        "raw_q_pp": 1.9547056618481873,
+        "q_pp": 1.9547056618481873,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2004_Na_T30",
+    "source_id": "Ozcan2004",
+    "doi": "10.1016/j.jcis.2004.07.035",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2004_Na_T30_p07",
+    "target_time_min": 120.00000000000007,
+    "target_time_lower": 119.67698519515486,
+    "target_time_upper": 120.32301480484529,
+    "pool_count": 6,
+    "t3": 30.0403768506057,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "f4eeb502076fb77d3f14414e",
+        "k": 3,
+        "time_min": 30.0403768506057,
+        "time_over_target": 0.25033647375504736,
+        "input_ids": [
+          "Ozcan2004_Na_T30_p01",
+          "Ozcan2004_Na_T30_p02",
+          "Ozcan2004_Na_T30_p03"
+        ],
+        "prediction": 0.4991338451612061,
+        "available": true,
+        "raw_q_pp": 4.388345775695338,
+        "q_pp": 4.388345775695338,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "87a5f9a6096d99f07036aace",
+        "k": 4,
+        "time_min": 45.06056527590853,
+        "time_over_target": 0.37550471063257085,
+        "input_ids": [
+          "Ozcan2004_Na_T30_p01",
+          "Ozcan2004_Na_T30_p02",
+          "Ozcan2004_Na_T30_p03",
+          "Ozcan2004_Na_T30_p04"
+        ],
+        "prediction": 0.49037715753804545,
+        "available": true,
+        "raw_q_pp": 3.836947763029342,
+        "q_pp": 3.836947763029342,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "45b9e19610f200a837e653ba",
+        "k": 5,
+        "time_min": 60.080753701211364,
+        "time_over_target": 0.5006729475100944,
+        "input_ids": [
+          "Ozcan2004_Na_T30_p01",
+          "Ozcan2004_Na_T30_p02",
+          "Ozcan2004_Na_T30_p03",
+          "Ozcan2004_Na_T30_p04",
+          "Ozcan2004_Na_T30_p05"
+        ],
+        "prediction": 0.4829970589706591,
+        "available": true,
+        "raw_q_pp": 2.759825012733756,
+        "q_pp": 2.759825012733756,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "18d8437b11dc1c1083c658e6",
+        "k": 6,
+        "time_min": 89.9596231493944,
+        "time_over_target": 0.7496635262449529,
+        "input_ids": [
+          "Ozcan2004_Na_T30_p01",
+          "Ozcan2004_Na_T30_p02",
+          "Ozcan2004_Na_T30_p03",
+          "Ozcan2004_Na_T30_p04",
+          "Ozcan2004_Na_T30_p05",
+          "Ozcan2004_Na_T30_p06"
+        ],
+        "prediction": 0.4751475717128863,
+        "available": true,
+        "raw_q_pp": 1.9586271576295502,
+        "q_pp": 1.9586271576295502,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2004_Na_T40",
+    "source_id": "Ozcan2004",
+    "doi": "10.1016/j.jcis.2004.07.035",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2004_Na_T40_p07",
+    "target_time_min": 120.00000000000007,
+    "target_time_lower": 119.67698519515486,
+    "target_time_upper": 120.32301480484529,
+    "pool_count": 6,
+    "t3": 30.0403768506057,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "f0246049ffefa00b8d1c4f70",
+        "k": 3,
+        "time_min": 30.0403768506057,
+        "time_over_target": 0.25033647375504736,
+        "input_ids": [
+          "Ozcan2004_Na_T40_p01",
+          "Ozcan2004_Na_T40_p02",
+          "Ozcan2004_Na_T40_p03"
+        ],
+        "prediction": 0.35463444554550394,
+        "available": true,
+        "raw_q_pp": 3.9446370010604412,
+        "q_pp": 3.9446370010604412,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6e899fed18887a8a309dd047",
+        "k": 4,
+        "time_min": 45.06056527590853,
+        "time_over_target": 0.37550471063257085,
+        "input_ids": [
+          "Ozcan2004_Na_T40_p01",
+          "Ozcan2004_Na_T40_p02",
+          "Ozcan2004_Na_T40_p03",
+          "Ozcan2004_Na_T40_p04"
+        ],
+        "prediction": 0.36420317224029763,
+        "available": true,
+        "raw_q_pp": 3.961899331457357,
+        "q_pp": 3.961899331457357,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "98c5a050c73ed7f9cd1d54da",
+        "k": 5,
+        "time_min": 60.080753701211364,
+        "time_over_target": 0.5006729475100944,
+        "input_ids": [
+          "Ozcan2004_Na_T40_p01",
+          "Ozcan2004_Na_T40_p02",
+          "Ozcan2004_Na_T40_p03",
+          "Ozcan2004_Na_T40_p04",
+          "Ozcan2004_Na_T40_p05"
+        ],
+        "prediction": 0.37700542785394475,
+        "available": true,
+        "raw_q_pp": 2.9309358756833013,
+        "q_pp": 2.9309358756833013,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6ce87dccef1c00e291629798",
+        "k": 6,
+        "time_min": 89.9596231493944,
+        "time_over_target": 0.7496635262449529,
+        "input_ids": [
+          "Ozcan2004_Na_T40_p01",
+          "Ozcan2004_Na_T40_p02",
+          "Ozcan2004_Na_T40_p03",
+          "Ozcan2004_Na_T40_p04",
+          "Ozcan2004_Na_T40_p05",
+          "Ozcan2004_Na_T40_p06"
+        ],
+        "prediction": 0.38653145154776497,
+        "available": true,
+        "raw_q_pp": 2.1545382652475027,
+        "q_pp": 2.1545382652475027,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2004_Na_T50",
+    "source_id": "Ozcan2004",
+    "doi": "10.1016/j.jcis.2004.07.035",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2004_Na_T50_p07",
+    "target_time_min": 120.00000000000007,
+    "target_time_lower": 119.67698519515486,
+    "target_time_upper": 120.32301480484529,
+    "pool_count": 6,
+    "t3": 30.0403768506057,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "91fcbf7993c8932a03089908",
+        "k": 3,
+        "time_min": 30.0403768506057,
+        "time_over_target": 0.25033647375504736,
+        "input_ids": [
+          "Ozcan2004_Na_T50_p01",
+          "Ozcan2004_Na_T50_p02",
+          "Ozcan2004_Na_T50_p03"
+        ],
+        "prediction": 0.3483841593444585,
+        "available": true,
+        "raw_q_pp": 4.15359642437095,
+        "q_pp": 4.15359642437095,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c8324e724bab98db336e611e",
+        "k": 4,
+        "time_min": 45.06056527590853,
+        "time_over_target": 0.37550471063257085,
+        "input_ids": [
+          "Ozcan2004_Na_T50_p01",
+          "Ozcan2004_Na_T50_p02",
+          "Ozcan2004_Na_T50_p03",
+          "Ozcan2004_Na_T50_p04"
+        ],
+        "prediction": 0.3592050497146611,
+        "available": true,
+        "raw_q_pp": 3.5873823394028137,
+        "q_pp": 3.5873823394028137,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "916b63f27b75a6f060f5bf69",
+        "k": 5,
+        "time_min": 60.080753701211364,
+        "time_over_target": 0.5006729475100944,
+        "input_ids": [
+          "Ozcan2004_Na_T50_p01",
+          "Ozcan2004_Na_T50_p02",
+          "Ozcan2004_Na_T50_p03",
+          "Ozcan2004_Na_T50_p04",
+          "Ozcan2004_Na_T50_p05"
+        ],
+        "prediction": 0.3545716198405461,
+        "available": true,
+        "raw_q_pp": 2.6352653102079913,
+        "q_pp": 2.6352653102079913,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "db0e5ab9773a114db99e2f17",
+        "k": 6,
+        "time_min": 89.9596231493944,
+        "time_over_target": 0.7496635262449529,
+        "input_ids": [
+          "Ozcan2004_Na_T50_p01",
+          "Ozcan2004_Na_T50_p02",
+          "Ozcan2004_Na_T50_p03",
+          "Ozcan2004_Na_T50_p04",
+          "Ozcan2004_Na_T50_p05",
+          "Ozcan2004_Na_T50_p06"
+        ],
+        "prediction": 0.351702214404541,
+        "available": true,
+        "raw_q_pp": 1.868980598661085,
+        "q_pp": 1.868980598661085,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2004_Na_T60",
+    "source_id": "Ozcan2004",
+    "doi": "10.1016/j.jcis.2004.07.035",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2004_Na_T60_p07",
+    "target_time_min": 120.00000000000007,
+    "target_time_lower": 119.67698519515486,
+    "target_time_upper": 120.32301480484529,
+    "pool_count": 6,
+    "t3": 30.0403768506057,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "25b8b085ade61b62a1a54351",
+        "k": 3,
+        "time_min": 30.0403768506057,
+        "time_over_target": 0.25033647375504736,
+        "input_ids": [
+          "Ozcan2004_Na_T60_p01",
+          "Ozcan2004_Na_T60_p02",
+          "Ozcan2004_Na_T60_p03"
+        ],
+        "prediction": 0.2568971017943605,
+        "available": true,
+        "raw_q_pp": 4.006011131505871,
+        "q_pp": 4.006011131505871,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "4abb13fff54cc6563ba34780",
+        "k": 4,
+        "time_min": 45.06056527590853,
+        "time_over_target": 0.37550471063257085,
+        "input_ids": [
+          "Ozcan2004_Na_T60_p01",
+          "Ozcan2004_Na_T60_p02",
+          "Ozcan2004_Na_T60_p03",
+          "Ozcan2004_Na_T60_p04"
+        ],
+        "prediction": 0.24219717980964547,
+        "available": true,
+        "raw_q_pp": 3.6991118769265534,
+        "q_pp": 3.6991118769265534,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "3ef1c659cae11ff238e3f732",
+        "k": 5,
+        "time_min": 60.080753701211364,
+        "time_over_target": 0.5006729475100944,
+        "input_ids": [
+          "Ozcan2004_Na_T60_p01",
+          "Ozcan2004_Na_T60_p02",
+          "Ozcan2004_Na_T60_p03",
+          "Ozcan2004_Na_T60_p04",
+          "Ozcan2004_Na_T60_p05"
+        ],
+        "prediction": 0.24066950590676237,
+        "available": true,
+        "raw_q_pp": 2.569749459413416,
+        "q_pp": 2.569749459413416,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d0c38eeeac3c32a5680a838a",
+        "k": 6,
+        "time_min": 89.9596231493944,
+        "time_over_target": 0.7496635262449529,
+        "input_ids": [
+          "Ozcan2004_Na_T60_p01",
+          "Ozcan2004_Na_T60_p02",
+          "Ozcan2004_Na_T60_p03",
+          "Ozcan2004_Na_T60_p04",
+          "Ozcan2004_Na_T60_p05",
+          "Ozcan2004_Na_T60_p06"
+        ],
+        "prediction": 0.2391054128912984,
+        "available": true,
+        "raw_q_pp": 1.8578477620267553,
+        "q_pp": 1.8578477620267553,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2004_DTMA_T40",
+    "source_id": "Ozcan2004",
+    "doi": "10.1016/j.jcis.2004.07.035",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2004_DTMA_T40_p07",
+    "target_time_min": 119.99999999999997,
+    "target_time_lower": 119.67302452316073,
+    "target_time_upper": 120.32697547683921,
+    "pool_count": 6,
+    "t3": 30.08174386920978,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "a761276e5d62694e14b76286",
+        "k": 3,
+        "time_min": 30.08174386920978,
+        "time_over_target": 0.25068119891008156,
+        "input_ids": [
+          "Ozcan2004_DTMA_T40_p01",
+          "Ozcan2004_DTMA_T40_p02",
+          "Ozcan2004_DTMA_T40_p03"
+        ],
+        "prediction": 0.4959701025020156,
+        "available": true,
+        "raw_q_pp": 4.014045404825153,
+        "q_pp": 4.014045404825153,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "43ec9cfaf2b124878ba43124",
+        "k": 4,
+        "time_min": 45.12261580381469,
+        "time_over_target": 0.3760217983651225,
+        "input_ids": [
+          "Ozcan2004_DTMA_T40_p01",
+          "Ozcan2004_DTMA_T40_p02",
+          "Ozcan2004_DTMA_T40_p03",
+          "Ozcan2004_DTMA_T40_p04"
+        ],
+        "prediction": 0.4879921863659182,
+        "available": true,
+        "raw_q_pp": 3.6090661868864173,
+        "q_pp": 3.6090661868864173,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "07aa30b9372aafae62a98e4e",
+        "k": 5,
+        "time_min": 59.99999999999998,
+        "time_over_target": 0.49999999999999994,
+        "input_ids": [
+          "Ozcan2004_DTMA_T40_p01",
+          "Ozcan2004_DTMA_T40_p02",
+          "Ozcan2004_DTMA_T40_p03",
+          "Ozcan2004_DTMA_T40_p04",
+          "Ozcan2004_DTMA_T40_p05"
+        ],
+        "prediction": 0.49111082309371773,
+        "available": true,
+        "raw_q_pp": 2.4994910460262707,
+        "q_pp": 2.4994910460262707,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "1fd0fbc662ce5d794516b966",
+        "k": 6,
+        "time_min": 90.08174386920979,
+        "time_over_target": 0.7506811989100818,
+        "input_ids": [
+          "Ozcan2004_DTMA_T40_p01",
+          "Ozcan2004_DTMA_T40_p02",
+          "Ozcan2004_DTMA_T40_p03",
+          "Ozcan2004_DTMA_T40_p04",
+          "Ozcan2004_DTMA_T40_p05",
+          "Ozcan2004_DTMA_T40_p06"
+        ],
+        "prediction": 0.49258409306825307,
+        "available": true,
+        "raw_q_pp": 1.8541711128737972,
+        "q_pp": 1.8541711128737972,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2004_DTMA_T50",
+    "source_id": "Ozcan2004",
+    "doi": "10.1016/j.jcis.2004.07.035",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2004_DTMA_T50_p06",
+    "target_time_min": 119.99999999999997,
+    "target_time_lower": 119.67302452316073,
+    "target_time_upper": 120.32697547683921,
+    "pool_count": 5,
+    "t3": 45.12261580381469,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "0c5ab6c7c4d34e506abe0761",
+        "k": 3,
+        "time_min": 45.12261580381469,
+        "time_over_target": 0.3760217983651225,
+        "input_ids": [
+          "Ozcan2004_DTMA_T50_p01",
+          "Ozcan2004_DTMA_T50_p02",
+          "Ozcan2004_DTMA_T50_p03"
+        ],
+        "prediction": 0.3939998962354688,
+        "available": true,
+        "raw_q_pp": 4.157265702381329,
+        "q_pp": 4.157265702381329,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "81b717da9b31be79bada5f40",
+        "k": 4,
+        "time_min": 59.99999999999998,
+        "time_over_target": 0.49999999999999994,
+        "input_ids": [
+          "Ozcan2004_DTMA_T50_p01",
+          "Ozcan2004_DTMA_T50_p02",
+          "Ozcan2004_DTMA_T50_p03",
+          "Ozcan2004_DTMA_T50_p04"
+        ],
+        "prediction": 0.391207830779708,
+        "available": true,
+        "raw_q_pp": 2.960603639042008,
+        "q_pp": 2.960603639042008,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ba487b5ba1825c96c88e15d0",
+        "k": 5,
+        "time_min": 90.08174386920979,
+        "time_over_target": 0.7506811989100818,
+        "input_ids": [
+          "Ozcan2004_DTMA_T50_p01",
+          "Ozcan2004_DTMA_T50_p02",
+          "Ozcan2004_DTMA_T50_p03",
+          "Ozcan2004_DTMA_T50_p04",
+          "Ozcan2004_DTMA_T50_p05"
+        ],
+        "prediction": 0.37225014872158096,
+        "available": true,
+        "raw_q_pp": 2.321573437906819,
+        "q_pp": 2.321573437906819,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2004_DTMA_T60",
+    "source_id": "Ozcan2004",
+    "doi": "10.1016/j.jcis.2004.07.035",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2004_DTMA_T60_p06",
+    "target_time_min": 119.99999999999997,
+    "target_time_lower": 119.67302452316073,
+    "target_time_upper": 120.32697547683921,
+    "pool_count": 5,
+    "t3": 45.12261580381469,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "3ac733462a61e19e2b511ced",
+        "k": 3,
+        "time_min": 45.12261580381469,
+        "time_over_target": 0.3760217983651225,
+        "input_ids": [
+          "Ozcan2004_DTMA_T60_p01",
+          "Ozcan2004_DTMA_T60_p02",
+          "Ozcan2004_DTMA_T60_p03"
+        ],
+        "prediction": 0.2834834181622209,
+        "available": true,
+        "raw_q_pp": 3.9286296415359545,
+        "q_pp": 3.9286296415359545,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "37a4c876b81e59cabe3d713f",
+        "k": 4,
+        "time_min": 59.99999999999998,
+        "time_over_target": 0.49999999999999994,
+        "input_ids": [
+          "Ozcan2004_DTMA_T60_p01",
+          "Ozcan2004_DTMA_T60_p02",
+          "Ozcan2004_DTMA_T60_p03",
+          "Ozcan2004_DTMA_T60_p04"
+        ],
+        "prediction": 0.2783944215222217,
+        "available": true,
+        "raw_q_pp": 2.5650856840063976,
+        "q_pp": 2.5650856840063976,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "cf9cb53bdf94ae15456a991e",
+        "k": 5,
+        "time_min": 90.08174386920979,
+        "time_over_target": 0.7506811989100818,
+        "input_ids": [
+          "Ozcan2004_DTMA_T60_p01",
+          "Ozcan2004_DTMA_T60_p02",
+          "Ozcan2004_DTMA_T60_p03",
+          "Ozcan2004_DTMA_T60_p04",
+          "Ozcan2004_DTMA_T60_p05"
+        ],
+        "prediction": 0.2814152910209346,
+        "available": true,
+        "raw_q_pp": 1.898418294667563,
+        "q_pp": 1.898418294667563,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2006Sep_C2.5e-4_T20",
+    "source_id": "Ozcan2006Sep",
+    "doi": "10.1016/j.jhazmat.2005.08.037",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2006Sep_C2.5e-4_T20_p09",
+    "target_time_min": 119.78751660026569,
+    "target_time_lower": 119.2563081009297,
+    "target_time_upper": 120.31872509960168,
+    "pool_count": 8,
+    "t3": 30.013280212483473,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "4e0e30b63cb73f6aaaaf9028",
+        "k": 3,
+        "time_min": 30.013280212483473,
+        "time_over_target": 0.25055432372505587,
+        "input_ids": [
+          "Ozcan2006Sep_C2.5e-4_T20_p01",
+          "Ozcan2006Sep_C2.5e-4_T20_p02",
+          "Ozcan2006Sep_C2.5e-4_T20_p03"
+        ],
+        "prediction": 0.7878908041549325,
+        "available": true,
+        "raw_q_pp": 3.8002065648861616,
+        "q_pp": 3.8002065648861616,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5accde66e88812d3504b628c",
+        "k": 4,
+        "time_min": 39.840637450199274,
+        "time_over_target": 0.3325942350332598,
+        "input_ids": [
+          "Ozcan2006Sep_C2.5e-4_T20_p01",
+          "Ozcan2006Sep_C2.5e-4_T20_p02",
+          "Ozcan2006Sep_C2.5e-4_T20_p03",
+          "Ozcan2006Sep_C2.5e-4_T20_p04"
+        ],
+        "prediction": 0.7866396358726597,
+        "available": true,
+        "raw_q_pp": 3.412428704564933,
+        "q_pp": 3.412428704564933,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "73a65c8d59fa7ce23c2143cf",
+        "k": 5,
+        "time_min": 49.93359893758308,
+        "time_over_target": 0.4168514412416855,
+        "input_ids": [
+          "Ozcan2006Sep_C2.5e-4_T20_p01",
+          "Ozcan2006Sep_C2.5e-4_T20_p02",
+          "Ozcan2006Sep_C2.5e-4_T20_p03",
+          "Ozcan2006Sep_C2.5e-4_T20_p04",
+          "Ozcan2006Sep_C2.5e-4_T20_p05"
+        ],
+        "prediction": 0.7881564869309295,
+        "available": true,
+        "raw_q_pp": 2.9266421538907808,
+        "q_pp": 2.9266421538907808,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "417f8f18f5e94d695478b9c3",
+        "k": 6,
+        "time_min": 59.76095617529888,
+        "time_over_target": 0.4988913525498894,
+        "input_ids": [
+          "Ozcan2006Sep_C2.5e-4_T20_p01",
+          "Ozcan2006Sep_C2.5e-4_T20_p02",
+          "Ozcan2006Sep_C2.5e-4_T20_p03",
+          "Ozcan2006Sep_C2.5e-4_T20_p04",
+          "Ozcan2006Sep_C2.5e-4_T20_p05",
+          "Ozcan2006Sep_C2.5e-4_T20_p06"
+        ],
+        "prediction": 0.7905185437020158,
+        "available": true,
+        "raw_q_pp": 2.471788896691148,
+        "q_pp": 2.471788896691148,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2e24b09203fd2158acdcecd7",
+        "k": 7,
+        "time_min": 74.90039840637459,
+        "time_over_target": 0.625277161862528,
+        "input_ids": [
+          "Ozcan2006Sep_C2.5e-4_T20_p01",
+          "Ozcan2006Sep_C2.5e-4_T20_p02",
+          "Ozcan2006Sep_C2.5e-4_T20_p03",
+          "Ozcan2006Sep_C2.5e-4_T20_p04",
+          "Ozcan2006Sep_C2.5e-4_T20_p05",
+          "Ozcan2006Sep_C2.5e-4_T20_p06",
+          "Ozcan2006Sep_C2.5e-4_T20_p07"
+        ],
+        "prediction": 0.7916513176355553,
+        "available": true,
+        "raw_q_pp": 1.9480811543579797,
+        "q_pp": 1.9480811543579797,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0adf211c23dad9b571eef8b6",
+        "k": 8,
+        "time_min": 89.77423638778228,
+        "time_over_target": 0.7494456762749446,
+        "input_ids": [
+          "Ozcan2006Sep_C2.5e-4_T20_p01",
+          "Ozcan2006Sep_C2.5e-4_T20_p02",
+          "Ozcan2006Sep_C2.5e-4_T20_p03",
+          "Ozcan2006Sep_C2.5e-4_T20_p04",
+          "Ozcan2006Sep_C2.5e-4_T20_p05",
+          "Ozcan2006Sep_C2.5e-4_T20_p06",
+          "Ozcan2006Sep_C2.5e-4_T20_p07",
+          "Ozcan2006Sep_C2.5e-4_T20_p08"
+        ],
+        "prediction": 0.7922224152485152,
+        "available": true,
+        "raw_q_pp": 1.78835202565542,
+        "q_pp": 1.78835202565542,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2006Sep_C3.0e-4_T20",
+    "source_id": "Ozcan2006Sep",
+    "doi": "10.1016/j.jhazmat.2005.08.037",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2006Sep_C3.0e-4_T20_p09",
+    "target_time_min": 119.78751660026569,
+    "target_time_lower": 119.2563081009297,
+    "target_time_upper": 120.31872509960168,
+    "pool_count": 8,
+    "t3": 30.013280212483473,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "5f461a4e42759b48f0761b10",
+        "k": 3,
+        "time_min": 30.013280212483473,
+        "time_over_target": 0.25055432372505587,
+        "input_ids": [
+          "Ozcan2006Sep_C3.0e-4_T20_p01",
+          "Ozcan2006Sep_C3.0e-4_T20_p02",
+          "Ozcan2006Sep_C3.0e-4_T20_p03"
+        ],
+        "prediction": 0.7359813477084283,
+        "available": true,
+        "raw_q_pp": 3.9472865588732584,
+        "q_pp": 3.9472865588732584,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0c144be10a874d72c602a3a9",
+        "k": 4,
+        "time_min": 39.840637450199274,
+        "time_over_target": 0.3325942350332598,
+        "input_ids": [
+          "Ozcan2006Sep_C3.0e-4_T20_p01",
+          "Ozcan2006Sep_C3.0e-4_T20_p02",
+          "Ozcan2006Sep_C3.0e-4_T20_p03",
+          "Ozcan2006Sep_C3.0e-4_T20_p04"
+        ],
+        "prediction": 0.7419425929995163,
+        "available": true,
+        "raw_q_pp": 3.5206265096874088,
+        "q_pp": 3.5206265096874088,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "3ec01ccc6d380189b3187bd6",
+        "k": 5,
+        "time_min": 49.93359893758308,
+        "time_over_target": 0.4168514412416855,
+        "input_ids": [
+          "Ozcan2006Sep_C3.0e-4_T20_p01",
+          "Ozcan2006Sep_C3.0e-4_T20_p02",
+          "Ozcan2006Sep_C3.0e-4_T20_p03",
+          "Ozcan2006Sep_C3.0e-4_T20_p04",
+          "Ozcan2006Sep_C3.0e-4_T20_p05"
+        ],
+        "prediction": 0.7477545024118838,
+        "available": true,
+        "raw_q_pp": 3.1271045952130083,
+        "q_pp": 3.1271045952130083,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e6f33c592c257b69df13fae2",
+        "k": 6,
+        "time_min": 59.76095617529888,
+        "time_over_target": 0.4988913525498894,
+        "input_ids": [
+          "Ozcan2006Sep_C3.0e-4_T20_p01",
+          "Ozcan2006Sep_C3.0e-4_T20_p02",
+          "Ozcan2006Sep_C3.0e-4_T20_p03",
+          "Ozcan2006Sep_C3.0e-4_T20_p04",
+          "Ozcan2006Sep_C3.0e-4_T20_p05",
+          "Ozcan2006Sep_C3.0e-4_T20_p06"
+        ],
+        "prediction": 0.7473767543173653,
+        "available": true,
+        "raw_q_pp": 2.509640211559826,
+        "q_pp": 2.509640211559826,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "80e3ffb3dd10cad309984aad",
+        "k": 7,
+        "time_min": 74.90039840637459,
+        "time_over_target": 0.625277161862528,
+        "input_ids": [
+          "Ozcan2006Sep_C3.0e-4_T20_p01",
+          "Ozcan2006Sep_C3.0e-4_T20_p02",
+          "Ozcan2006Sep_C3.0e-4_T20_p03",
+          "Ozcan2006Sep_C3.0e-4_T20_p04",
+          "Ozcan2006Sep_C3.0e-4_T20_p05",
+          "Ozcan2006Sep_C3.0e-4_T20_p06",
+          "Ozcan2006Sep_C3.0e-4_T20_p07"
+        ],
+        "prediction": 0.7495184569892392,
+        "available": true,
+        "raw_q_pp": 1.987641779909002,
+        "q_pp": 1.987641779909002,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "79ff2a91b304ece27f5fef43",
+        "k": 8,
+        "time_min": 89.77423638778228,
+        "time_over_target": 0.7494456762749446,
+        "input_ids": [
+          "Ozcan2006Sep_C3.0e-4_T20_p01",
+          "Ozcan2006Sep_C3.0e-4_T20_p02",
+          "Ozcan2006Sep_C3.0e-4_T20_p03",
+          "Ozcan2006Sep_C3.0e-4_T20_p04",
+          "Ozcan2006Sep_C3.0e-4_T20_p05",
+          "Ozcan2006Sep_C3.0e-4_T20_p06",
+          "Ozcan2006Sep_C3.0e-4_T20_p07",
+          "Ozcan2006Sep_C3.0e-4_T20_p08"
+        ],
+        "prediction": 0.7507690620517887,
+        "available": true,
+        "raw_q_pp": 1.8279126512064428,
+        "q_pp": 1.8279126512064428,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2006Sep_C3.5e-4_T20",
+    "source_id": "Ozcan2006Sep",
+    "doi": "10.1016/j.jhazmat.2005.08.037",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2006Sep_C3.5e-4_T20_p09",
+    "target_time_min": 119.78751660026569,
+    "target_time_lower": 119.2563081009297,
+    "target_time_upper": 120.31872509960168,
+    "pool_count": 8,
+    "t3": 30.013280212483473,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "c5c76bb149c62b4bcc4a6723",
+        "k": 3,
+        "time_min": 30.013280212483473,
+        "time_over_target": 0.25055432372505587,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T20_p01",
+          "Ozcan2006Sep_C3.5e-4_T20_p02",
+          "Ozcan2006Sep_C3.5e-4_T20_p03"
+        ],
+        "prediction": 0.7272268944466908,
+        "available": true,
+        "raw_q_pp": 3.9446900818123973,
+        "q_pp": 3.9446900818123973,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "7fbf2876836e8f3877ce4e66",
+        "k": 4,
+        "time_min": 39.840637450199274,
+        "time_over_target": 0.3325942350332598,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T20_p01",
+          "Ozcan2006Sep_C3.5e-4_T20_p02",
+          "Ozcan2006Sep_C3.5e-4_T20_p03",
+          "Ozcan2006Sep_C3.5e-4_T20_p04"
+        ],
+        "prediction": 0.7275450925177731,
+        "available": true,
+        "raw_q_pp": 3.516820481069986,
+        "q_pp": 3.516820481069986,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "3a5db08bef1d9acace4ec8eb",
+        "k": 5,
+        "time_min": 49.93359893758308,
+        "time_over_target": 0.4168514412416855,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T20_p01",
+          "Ozcan2006Sep_C3.5e-4_T20_p02",
+          "Ozcan2006Sep_C3.5e-4_T20_p03",
+          "Ozcan2006Sep_C3.5e-4_T20_p04",
+          "Ozcan2006Sep_C3.5e-4_T20_p05"
+        ],
+        "prediction": 0.7270268672706652,
+        "available": true,
+        "raw_q_pp": 3.073114980644252,
+        "q_pp": 3.073114980644252,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "156c1a047c07c4173c9d0ca9",
+        "k": 6,
+        "time_min": 59.76095617529888,
+        "time_over_target": 0.4988913525498894,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T20_p01",
+          "Ozcan2006Sep_C3.5e-4_T20_p02",
+          "Ozcan2006Sep_C3.5e-4_T20_p03",
+          "Ozcan2006Sep_C3.5e-4_T20_p04",
+          "Ozcan2006Sep_C3.5e-4_T20_p05",
+          "Ozcan2006Sep_C3.5e-4_T20_p06"
+        ],
+        "prediction": 0.7277976168935287,
+        "available": true,
+        "raw_q_pp": 2.4851491607211726,
+        "q_pp": 2.4851491607211726,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d8e70bb90760b281a62e39d0",
+        "k": 7,
+        "time_min": 74.90039840637459,
+        "time_over_target": 0.625277161862528,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T20_p01",
+          "Ozcan2006Sep_C3.5e-4_T20_p02",
+          "Ozcan2006Sep_C3.5e-4_T20_p03",
+          "Ozcan2006Sep_C3.5e-4_T20_p04",
+          "Ozcan2006Sep_C3.5e-4_T20_p05",
+          "Ozcan2006Sep_C3.5e-4_T20_p06",
+          "Ozcan2006Sep_C3.5e-4_T20_p07"
+        ],
+        "prediction": 0.7279729319907077,
+        "available": true,
+        "raw_q_pp": 1.96035696723181,
+        "q_pp": 1.96035696723181,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "03e33f4ba8a11d4d9fb0ab70",
+        "k": 8,
+        "time_min": 89.77423638778228,
+        "time_over_target": 0.7494456762749446,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T20_p01",
+          "Ozcan2006Sep_C3.5e-4_T20_p02",
+          "Ozcan2006Sep_C3.5e-4_T20_p03",
+          "Ozcan2006Sep_C3.5e-4_T20_p04",
+          "Ozcan2006Sep_C3.5e-4_T20_p05",
+          "Ozcan2006Sep_C3.5e-4_T20_p06",
+          "Ozcan2006Sep_C3.5e-4_T20_p07",
+          "Ozcan2006Sep_C3.5e-4_T20_p08"
+        ],
+        "prediction": 0.7279353556533352,
+        "available": true,
+        "raw_q_pp": 1.8006278385292502,
+        "q_pp": 1.8006278385292502,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2006Sep_C4.0e-4_T20",
+    "source_id": "Ozcan2006Sep",
+    "doi": "10.1016/j.jhazmat.2005.08.037",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2006Sep_C4.0e-4_T20_p09",
+    "target_time_min": 119.78751660026569,
+    "target_time_lower": 119.2563081009297,
+    "target_time_upper": 120.31872509960168,
+    "pool_count": 8,
+    "t3": 30.013280212483473,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "70b6679d7941fe40a37b3a42",
+        "k": 3,
+        "time_min": 30.013280212483473,
+        "time_over_target": 0.25055432372505587,
+        "input_ids": [
+          "Ozcan2006Sep_C4.0e-4_T20_p01",
+          "Ozcan2006Sep_C4.0e-4_T20_p02",
+          "Ozcan2006Sep_C4.0e-4_T20_p03"
+        ],
+        "prediction": 0.7043560266389358,
+        "available": true,
+        "raw_q_pp": 4.05695252689928,
+        "q_pp": 4.05695252689928,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "f21c81498391d5c16da52b45",
+        "k": 4,
+        "time_min": 39.840637450199274,
+        "time_over_target": 0.3325942350332598,
+        "input_ids": [
+          "Ozcan2006Sep_C4.0e-4_T20_p01",
+          "Ozcan2006Sep_C4.0e-4_T20_p02",
+          "Ozcan2006Sep_C4.0e-4_T20_p03",
+          "Ozcan2006Sep_C4.0e-4_T20_p04"
+        ],
+        "prediction": 0.7048646260528783,
+        "available": true,
+        "raw_q_pp": 3.575368003404741,
+        "q_pp": 3.575368003404741,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "12fc17e37ebd4634413d93b2",
+        "k": 5,
+        "time_min": 49.93359893758308,
+        "time_over_target": 0.4168514412416855,
+        "input_ids": [
+          "Ozcan2006Sep_C4.0e-4_T20_p01",
+          "Ozcan2006Sep_C4.0e-4_T20_p02",
+          "Ozcan2006Sep_C4.0e-4_T20_p03",
+          "Ozcan2006Sep_C4.0e-4_T20_p04",
+          "Ozcan2006Sep_C4.0e-4_T20_p05"
+        ],
+        "prediction": 0.7009009039676065,
+        "available": true,
+        "raw_q_pp": 3.1982347801837316,
+        "q_pp": 3.1982347801837316,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "9404b956eaf933003238bd52",
+        "k": 6,
+        "time_min": 59.76095617529888,
+        "time_over_target": 0.4988913525498894,
+        "input_ids": [
+          "Ozcan2006Sep_C4.0e-4_T20_p01",
+          "Ozcan2006Sep_C4.0e-4_T20_p02",
+          "Ozcan2006Sep_C4.0e-4_T20_p03",
+          "Ozcan2006Sep_C4.0e-4_T20_p04",
+          "Ozcan2006Sep_C4.0e-4_T20_p05",
+          "Ozcan2006Sep_C4.0e-4_T20_p06"
+        ],
+        "prediction": 0.6997143021888226,
+        "available": true,
+        "raw_q_pp": 2.5661747539392303,
+        "q_pp": 2.5661747539392303,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d1db28493b6122d607ae7494",
+        "k": 7,
+        "time_min": 74.90039840637459,
+        "time_over_target": 0.625277161862528,
+        "input_ids": [
+          "Ozcan2006Sep_C4.0e-4_T20_p01",
+          "Ozcan2006Sep_C4.0e-4_T20_p02",
+          "Ozcan2006Sep_C4.0e-4_T20_p03",
+          "Ozcan2006Sep_C4.0e-4_T20_p04",
+          "Ozcan2006Sep_C4.0e-4_T20_p05",
+          "Ozcan2006Sep_C4.0e-4_T20_p06",
+          "Ozcan2006Sep_C4.0e-4_T20_p07"
+        ],
+        "prediction": 0.7005781378537024,
+        "available": true,
+        "raw_q_pp": 1.96035696723181,
+        "q_pp": 1.96035696723181,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ea0655e8390d5d4d0d6e02a3",
+        "k": 8,
+        "time_min": 89.77423638778228,
+        "time_over_target": 0.7494456762749446,
+        "input_ids": [
+          "Ozcan2006Sep_C4.0e-4_T20_p01",
+          "Ozcan2006Sep_C4.0e-4_T20_p02",
+          "Ozcan2006Sep_C4.0e-4_T20_p03",
+          "Ozcan2006Sep_C4.0e-4_T20_p04",
+          "Ozcan2006Sep_C4.0e-4_T20_p05",
+          "Ozcan2006Sep_C4.0e-4_T20_p06",
+          "Ozcan2006Sep_C4.0e-4_T20_p07",
+          "Ozcan2006Sep_C4.0e-4_T20_p08"
+        ],
+        "prediction": 0.7016994400142532,
+        "available": true,
+        "raw_q_pp": 1.8127576015507196,
+        "q_pp": 1.8127576015507196,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2006Sep_C4.5e-4_T20",
+    "source_id": "Ozcan2006Sep",
+    "doi": "10.1016/j.jhazmat.2005.08.037",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2006Sep_C4.5e-4_T20_p09",
+    "target_time_min": 119.78751660026569,
+    "target_time_lower": 119.2563081009297,
+    "target_time_upper": 120.31872509960168,
+    "pool_count": 8,
+    "t3": 30.013280212483473,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "59c0e24eabb4ffefa842adcf",
+        "k": 3,
+        "time_min": 30.013280212483473,
+        "time_over_target": 0.25055432372505587,
+        "input_ids": [
+          "Ozcan2006Sep_C4.5e-4_T20_p01",
+          "Ozcan2006Sep_C4.5e-4_T20_p02",
+          "Ozcan2006Sep_C4.5e-4_T20_p03"
+        ],
+        "prediction": 0.6725917932128904,
+        "available": true,
+        "raw_q_pp": 3.7800793448008596,
+        "q_pp": 3.7800793448008596,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "782f74faba7f4e23e9aa2473",
+        "k": 4,
+        "time_min": 39.840637450199274,
+        "time_over_target": 0.3325942350332598,
+        "input_ids": [
+          "Ozcan2006Sep_C4.5e-4_T20_p01",
+          "Ozcan2006Sep_C4.5e-4_T20_p02",
+          "Ozcan2006Sep_C4.5e-4_T20_p03",
+          "Ozcan2006Sep_C4.5e-4_T20_p04"
+        ],
+        "prediction": 0.67610496968287,
+        "available": true,
+        "raw_q_pp": 3.4401393113386898,
+        "q_pp": 3.4401393113386898,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "35d0d78ad969ce612d7f0de5",
+        "k": 5,
+        "time_min": 49.93359893758308,
+        "time_over_target": 0.4168514412416855,
+        "input_ids": [
+          "Ozcan2006Sep_C4.5e-4_T20_p01",
+          "Ozcan2006Sep_C4.5e-4_T20_p02",
+          "Ozcan2006Sep_C4.5e-4_T20_p03",
+          "Ozcan2006Sep_C4.5e-4_T20_p04",
+          "Ozcan2006Sep_C4.5e-4_T20_p05"
+        ],
+        "prediction": 0.6765649329191994,
+        "available": true,
+        "raw_q_pp": 3.0117467370018605,
+        "q_pp": 3.0117467370018605,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5fee141c646492e2dad07dc7",
+        "k": 6,
+        "time_min": 59.76095617529888,
+        "time_over_target": 0.4988913525498894,
+        "input_ids": [
+          "Ozcan2006Sep_C4.5e-4_T20_p01",
+          "Ozcan2006Sep_C4.5e-4_T20_p02",
+          "Ozcan2006Sep_C4.5e-4_T20_p03",
+          "Ozcan2006Sep_C4.5e-4_T20_p04",
+          "Ozcan2006Sep_C4.5e-4_T20_p05",
+          "Ozcan2006Sep_C4.5e-4_T20_p06"
+        ],
+        "prediction": 0.6807797586421095,
+        "available": true,
+        "raw_q_pp": 2.5782469965481556,
+        "q_pp": 2.5782469965481556,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b74599b2600c9930301cd2cd",
+        "k": 7,
+        "time_min": 74.90039840637459,
+        "time_over_target": 0.625277161862528,
+        "input_ids": [
+          "Ozcan2006Sep_C4.5e-4_T20_p01",
+          "Ozcan2006Sep_C4.5e-4_T20_p02",
+          "Ozcan2006Sep_C4.5e-4_T20_p03",
+          "Ozcan2006Sep_C4.5e-4_T20_p04",
+          "Ozcan2006Sep_C4.5e-4_T20_p05",
+          "Ozcan2006Sep_C4.5e-4_T20_p06",
+          "Ozcan2006Sep_C4.5e-4_T20_p07"
+        ],
+        "prediction": 0.6826531347121315,
+        "available": true,
+        "raw_q_pp": 1.9984089597399144,
+        "q_pp": 1.9984089597399144,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "9ae82cd7d814c62f3a9ecd5c",
+        "k": 8,
+        "time_min": 89.77423638778228,
+        "time_over_target": 0.7494456762749446,
+        "input_ids": [
+          "Ozcan2006Sep_C4.5e-4_T20_p01",
+          "Ozcan2006Sep_C4.5e-4_T20_p02",
+          "Ozcan2006Sep_C4.5e-4_T20_p03",
+          "Ozcan2006Sep_C4.5e-4_T20_p04",
+          "Ozcan2006Sep_C4.5e-4_T20_p05",
+          "Ozcan2006Sep_C4.5e-4_T20_p06",
+          "Ozcan2006Sep_C4.5e-4_T20_p07",
+          "Ozcan2006Sep_C4.5e-4_T20_p08"
+        ],
+        "prediction": 0.6833779423979771,
+        "available": true,
+        "raw_q_pp": 1.823524781381632,
+        "q_pp": 1.823524781381632,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2006Sep_C5.0e-4_T20",
+    "source_id": "Ozcan2006Sep",
+    "doi": "10.1016/j.jhazmat.2005.08.037",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2006Sep_C5.0e-4_T20_p09",
+    "target_time_min": 119.78751660026569,
+    "target_time_lower": 119.2563081009297,
+    "target_time_upper": 120.31872509960168,
+    "pool_count": 8,
+    "t3": 30.013280212483473,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "fa987c3c3149ee23cd974cc2",
+        "k": 3,
+        "time_min": 30.013280212483473,
+        "time_over_target": 0.25055432372505587,
+        "input_ids": [
+          "Ozcan2006Sep_C5.0e-4_T20_p01",
+          "Ozcan2006Sep_C5.0e-4_T20_p02",
+          "Ozcan2006Sep_C5.0e-4_T20_p03"
+        ],
+        "prediction": 0.6572441007481928,
+        "available": true,
+        "raw_q_pp": 3.804570395639513,
+        "q_pp": 3.804570395639513,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2b3e1766c0fe353ea1c1904c",
+        "k": 4,
+        "time_min": 39.840637450199274,
+        "time_over_target": 0.3325942350332598,
+        "input_ids": [
+          "Ozcan2006Sep_C5.0e-4_T20_p01",
+          "Ozcan2006Sep_C5.0e-4_T20_p02",
+          "Ozcan2006Sep_C5.0e-4_T20_p03",
+          "Ozcan2006Sep_C5.0e-4_T20_p04"
+        ],
+        "prediction": 0.658957989462529,
+        "available": true,
+        "raw_q_pp": 3.452557117816051,
+        "q_pp": 3.452557117816051,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "969691d1c900aa0c4027fa43",
+        "k": 5,
+        "time_min": 49.93359893758308,
+        "time_over_target": 0.4168514412416855,
+        "input_ids": [
+          "Ozcan2006Sep_C5.0e-4_T20_p01",
+          "Ozcan2006Sep_C5.0e-4_T20_p02",
+          "Ozcan2006Sep_C5.0e-4_T20_p03",
+          "Ozcan2006Sep_C5.0e-4_T20_p04",
+          "Ozcan2006Sep_C5.0e-4_T20_p05"
+        ],
+        "prediction": 0.6610443794657813,
+        "available": true,
+        "raw_q_pp": 3.0241645434792215,
+        "q_pp": 3.0241645434792215,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6ed9ab1de6d97aba3d0239a1",
+        "k": 6,
+        "time_min": 59.76095617529888,
+        "time_over_target": 0.4988913525498894,
+        "input_ids": [
+          "Ozcan2006Sep_C5.0e-4_T20_p01",
+          "Ozcan2006Sep_C5.0e-4_T20_p02",
+          "Ozcan2006Sep_C5.0e-4_T20_p03",
+          "Ozcan2006Sep_C5.0e-4_T20_p04",
+          "Ozcan2006Sep_C5.0e-4_T20_p05",
+          "Ozcan2006Sep_C5.0e-4_T20_p06"
+        ],
+        "prediction": 0.6623045582809233,
+        "available": true,
+        "raw_q_pp": 2.508334147029446,
+        "q_pp": 2.508334147029446,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0dd41d3f8fe767ea2b7967ce",
+        "k": 7,
+        "time_min": 74.90039840637459,
+        "time_over_target": 0.625277161862528,
+        "input_ids": [
+          "Ozcan2006Sep_C5.0e-4_T20_p01",
+          "Ozcan2006Sep_C5.0e-4_T20_p02",
+          "Ozcan2006Sep_C5.0e-4_T20_p03",
+          "Ozcan2006Sep_C5.0e-4_T20_p04",
+          "Ozcan2006Sep_C5.0e-4_T20_p05",
+          "Ozcan2006Sep_C5.0e-4_T20_p06",
+          "Ozcan2006Sep_C5.0e-4_T20_p07"
+        ],
+        "prediction": 0.6624457901075133,
+        "available": true,
+        "raw_q_pp": 1.9835419535400838,
+        "q_pp": 1.9835419535400838,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "51113313292fb545863b75da",
+        "k": 8,
+        "time_min": 89.77423638778228,
+        "time_over_target": 0.7494456762749446,
+        "input_ids": [
+          "Ozcan2006Sep_C5.0e-4_T20_p01",
+          "Ozcan2006Sep_C5.0e-4_T20_p02",
+          "Ozcan2006Sep_C5.0e-4_T20_p03",
+          "Ozcan2006Sep_C5.0e-4_T20_p04",
+          "Ozcan2006Sep_C5.0e-4_T20_p05",
+          "Ozcan2006Sep_C5.0e-4_T20_p06",
+          "Ozcan2006Sep_C5.0e-4_T20_p07",
+          "Ozcan2006Sep_C5.0e-4_T20_p08"
+        ],
+        "prediction": 0.6627309726316721,
+        "available": true,
+        "raw_q_pp": 1.823812824837524,
+        "q_pp": 1.823812824837524,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2006Sep_C3.5e-4_T40",
+    "source_id": "Ozcan2006Sep",
+    "doi": "10.1016/j.jhazmat.2005.08.037",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2006Sep_C3.5e-4_T40_p09",
+    "target_time_min": 120.0000000000001,
+    "target_time_lower": 119.47368421052641,
+    "target_time_upper": 120.52631578947378,
+    "pool_count": 8,
+    "t3": 30.00000000000006,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "5b5a55db5c55a7050f51f3b3",
+        "k": 3,
+        "time_min": 30.00000000000006,
+        "time_over_target": 0.2500000000000003,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T40_p01",
+          "Ozcan2006Sep_C3.5e-4_T40_p02",
+          "Ozcan2006Sep_C3.5e-4_T40_p03"
+        ],
+        "prediction": 0.6234184410741838,
+        "available": true,
+        "raw_q_pp": 3.7963673541967253,
+        "q_pp": 3.7963673541967253,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "4bc9191379aaaffc99cca061",
+        "k": 4,
+        "time_min": 40.00000000000006,
+        "time_over_target": 0.33333333333333354,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T40_p01",
+          "Ozcan2006Sep_C3.5e-4_T40_p02",
+          "Ozcan2006Sep_C3.5e-4_T40_p03",
+          "Ozcan2006Sep_C3.5e-4_T40_p04"
+        ],
+        "prediction": 0.6260123728651085,
+        "available": true,
+        "raw_q_pp": 3.452557117816051,
+        "q_pp": 3.452557117816051,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "1f32dca507734cd4e8ed1fd4",
+        "k": 5,
+        "time_min": 50.00000000000006,
+        "time_over_target": 0.4166666666666668,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T40_p01",
+          "Ozcan2006Sep_C3.5e-4_T40_p02",
+          "Ozcan2006Sep_C3.5e-4_T40_p03",
+          "Ozcan2006Sep_C3.5e-4_T40_p04",
+          "Ozcan2006Sep_C3.5e-4_T40_p05"
+        ],
+        "prediction": 0.6280267553450931,
+        "available": true,
+        "raw_q_pp": 3.0241645434792215,
+        "q_pp": 3.0241645434792215,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b9cd78aa23122079c4750499",
+        "k": 6,
+        "time_min": 60.00000000000007,
+        "time_over_target": 0.5000000000000002,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T40_p01",
+          "Ozcan2006Sep_C3.5e-4_T40_p02",
+          "Ozcan2006Sep_C3.5e-4_T40_p03",
+          "Ozcan2006Sep_C3.5e-4_T40_p04",
+          "Ozcan2006Sep_C3.5e-4_T40_p05",
+          "Ozcan2006Sep_C3.5e-4_T40_p06"
+        ],
+        "prediction": 0.6298517721779396,
+        "available": true,
+        "raw_q_pp": 2.5138688985694873,
+        "q_pp": 2.5138688985694873,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "127a1fd0955972fb3bf7a97d",
+        "k": 7,
+        "time_min": 75.00000000000007,
+        "time_over_target": 0.6250000000000001,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T40_p01",
+          "Ozcan2006Sep_C3.5e-4_T40_p02",
+          "Ozcan2006Sep_C3.5e-4_T40_p03",
+          "Ozcan2006Sep_C3.5e-4_T40_p04",
+          "Ozcan2006Sep_C3.5e-4_T40_p05",
+          "Ozcan2006Sep_C3.5e-4_T40_p06",
+          "Ozcan2006Sep_C3.5e-4_T40_p07"
+        ],
+        "prediction": 0.6302918729986856,
+        "available": true,
+        "raw_q_pp": 1.9835419535400838,
+        "q_pp": 1.9835419535400838,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c4277a844f88e5a4cab34c67",
+        "k": 8,
+        "time_min": 90.00000000000007,
+        "time_over_target": 0.75,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T40_p01",
+          "Ozcan2006Sep_C3.5e-4_T40_p02",
+          "Ozcan2006Sep_C3.5e-4_T40_p03",
+          "Ozcan2006Sep_C3.5e-4_T40_p04",
+          "Ozcan2006Sep_C3.5e-4_T40_p05",
+          "Ozcan2006Sep_C3.5e-4_T40_p06",
+          "Ozcan2006Sep_C3.5e-4_T40_p07",
+          "Ozcan2006Sep_C3.5e-4_T40_p08"
+        ],
+        "prediction": 0.6311522044424035,
+        "available": true,
+        "raw_q_pp": 1.823812824837524,
+        "q_pp": 1.823812824837524,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2006Sep_C3.5e-4_T50",
+    "source_id": "Ozcan2006Sep",
+    "doi": "10.1016/j.jhazmat.2005.08.037",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2006Sep_C3.5e-4_T50_p09",
+    "target_time_min": 120.0000000000001,
+    "target_time_lower": 119.47368421052641,
+    "target_time_upper": 120.52631578947378,
+    "pool_count": 8,
+    "t3": 30.00000000000006,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "7d9ea34b64ae4e6ffaba1a54",
+        "k": 3,
+        "time_min": 30.00000000000006,
+        "time_over_target": 0.2500000000000003,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T50_p01",
+          "Ozcan2006Sep_C3.5e-4_T50_p02",
+          "Ozcan2006Sep_C3.5e-4_T50_p03"
+        ],
+        "prediction": 0.5337788704280252,
+        "available": true,
+        "raw_q_pp": 3.7966975598669865,
+        "q_pp": 3.7966975598669865,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "9fab302f4aac622e333cfa79",
+        "k": 4,
+        "time_min": 40.00000000000006,
+        "time_over_target": 0.33333333333333354,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T50_p01",
+          "Ozcan2006Sep_C3.5e-4_T50_p02",
+          "Ozcan2006Sep_C3.5e-4_T50_p03",
+          "Ozcan2006Sep_C3.5e-4_T50_p04"
+        ],
+        "prediction": 0.5378043554127298,
+        "available": true,
+        "raw_q_pp": 3.4626703161114873,
+        "q_pp": 3.4626703161114873,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "80b55dec3e0facaa3214585b",
+        "k": 5,
+        "time_min": 50.00000000000006,
+        "time_over_target": 0.4166666666666668,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T50_p01",
+          "Ozcan2006Sep_C3.5e-4_T50_p02",
+          "Ozcan2006Sep_C3.5e-4_T50_p03",
+          "Ozcan2006Sep_C3.5e-4_T50_p04",
+          "Ozcan2006Sep_C3.5e-4_T50_p05"
+        ],
+        "prediction": 0.5396874448334232,
+        "available": true,
+        "raw_q_pp": 3.034277741774659,
+        "q_pp": 3.034277741774659,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a3a9571592e2aac82e026846",
+        "k": 6,
+        "time_min": 60.00000000000007,
+        "time_over_target": 0.5000000000000002,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T50_p01",
+          "Ozcan2006Sep_C3.5e-4_T50_p02",
+          "Ozcan2006Sep_C3.5e-4_T50_p03",
+          "Ozcan2006Sep_C3.5e-4_T50_p04",
+          "Ozcan2006Sep_C3.5e-4_T50_p05",
+          "Ozcan2006Sep_C3.5e-4_T50_p06"
+        ],
+        "prediction": 0.540931456655098,
+        "available": true,
+        "raw_q_pp": 2.4994910460262707,
+        "q_pp": 2.4994910460262707,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5062e52020c135c53c8a9532",
+        "k": 7,
+        "time_min": 75.00000000000007,
+        "time_over_target": 0.6250000000000001,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T50_p01",
+          "Ozcan2006Sep_C3.5e-4_T50_p02",
+          "Ozcan2006Sep_C3.5e-4_T50_p03",
+          "Ozcan2006Sep_C3.5e-4_T50_p04",
+          "Ozcan2006Sep_C3.5e-4_T50_p05",
+          "Ozcan2006Sep_C3.5e-4_T50_p06",
+          "Ozcan2006Sep_C3.5e-4_T50_p07"
+        ],
+        "prediction": 0.5414676682418054,
+        "available": true,
+        "raw_q_pp": 1.9936551518355208,
+        "q_pp": 1.9936551518355208,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "488a28cd89a88e6acf9efd95",
+        "k": 8,
+        "time_min": 90.00000000000007,
+        "time_over_target": 0.75,
+        "input_ids": [
+          "Ozcan2006Sep_C3.5e-4_T50_p01",
+          "Ozcan2006Sep_C3.5e-4_T50_p02",
+          "Ozcan2006Sep_C3.5e-4_T50_p03",
+          "Ozcan2006Sep_C3.5e-4_T50_p04",
+          "Ozcan2006Sep_C3.5e-4_T50_p05",
+          "Ozcan2006Sep_C3.5e-4_T50_p06",
+          "Ozcan2006Sep_C3.5e-4_T50_p07",
+          "Ozcan2006Sep_C3.5e-4_T50_p08"
+        ],
+        "prediction": 0.5420463605113456,
+        "available": true,
+        "raw_q_pp": 1.8339260231329615,
+        "q_pp": 1.8339260231329615,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2007RB_T20",
+    "source_id": "Ozcan2007RB",
+    "doi": "10.1016/j.jhazmat.2006.06.138",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2007RB_T20_p08",
+    "target_time_min": 119.80952380952377,
+    "target_time_lower": 119.42857142857139,
+    "target_time_upper": 120.19047619047615,
+    "pool_count": 7,
+    "t3": 49.90476190476189,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "f8ed0b1499447c8b0652393f",
+        "k": 3,
+        "time_min": 49.90476190476189,
+        "time_over_target": 0.41653418124006364,
+        "input_ids": [
+          "Ozcan2007RB_T20_p01",
+          "Ozcan2007RB_T20_p02",
+          "Ozcan2007RB_T20_p03"
+        ],
+        "prediction": 0.6397932399673101,
+        "available": true,
+        "raw_q_pp": 3.4790331358524424,
+        "q_pp": 3.4790331358524424,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "055352d32a1652ad7bc41c9c",
+        "k": 4,
+        "time_min": 59.99999999999999,
+        "time_over_target": 0.5007949125596186,
+        "input_ids": [
+          "Ozcan2007RB_T20_p01",
+          "Ozcan2007RB_T20_p02",
+          "Ozcan2007RB_T20_p03",
+          "Ozcan2007RB_T20_p04"
+        ],
+        "prediction": 0.6419807654897539,
+        "available": true,
+        "raw_q_pp": 2.583149848849688,
+        "q_pp": 2.583149848849688,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a674eed06289139da3e4a321",
+        "k": 5,
+        "time_min": 74.85714285714283,
+        "time_over_target": 0.6248012718600954,
+        "input_ids": [
+          "Ozcan2007RB_T20_p01",
+          "Ozcan2007RB_T20_p02",
+          "Ozcan2007RB_T20_p03",
+          "Ozcan2007RB_T20_p04",
+          "Ozcan2007RB_T20_p05"
+        ],
+        "prediction": 0.642417544746363,
+        "available": true,
+        "raw_q_pp": 2.0241124861808912,
+        "q_pp": 2.0241124861808912,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "308819e8ab7e963a85e0dd29",
+        "k": 6,
+        "time_min": 89.90476190476187,
+        "time_over_target": 0.7503974562798091,
+        "input_ids": [
+          "Ozcan2007RB_T20_p01",
+          "Ozcan2007RB_T20_p02",
+          "Ozcan2007RB_T20_p03",
+          "Ozcan2007RB_T20_p04",
+          "Ozcan2007RB_T20_p05",
+          "Ozcan2007RB_T20_p06"
+        ],
+        "prediction": 0.6417893314131196,
+        "available": true,
+        "raw_q_pp": 1.8643833574783322,
+        "q_pp": 1.8643833574783322,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2350cca4bb91ac92968a5483",
+        "k": 7,
+        "time_min": 104.9523809523809,
+        "time_over_target": 0.875993640699523,
+        "input_ids": [
+          "Ozcan2007RB_T20_p01",
+          "Ozcan2007RB_T20_p02",
+          "Ozcan2007RB_T20_p03",
+          "Ozcan2007RB_T20_p04",
+          "Ozcan2007RB_T20_p05",
+          "Ozcan2007RB_T20_p06",
+          "Ozcan2007RB_T20_p07"
+        ],
+        "prediction": 0.6418354326468433,
+        "available": true,
+        "raw_q_pp": 1.8036952565548698,
+        "q_pp": 1.8036952565548698,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2007RB_T30",
+    "source_id": "Ozcan2007RB",
+    "doi": "10.1016/j.jhazmat.2006.06.138",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2007RB_T30_p08",
+    "target_time_min": 119.80952380952377,
+    "target_time_lower": 119.42857142857139,
+    "target_time_upper": 120.19047619047615,
+    "pool_count": 7,
+    "t3": 49.90476190476189,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "c2320bb08c29c342f1ce245c",
+        "k": 3,
+        "time_min": 49.90476190476189,
+        "time_over_target": 0.41653418124006364,
+        "input_ids": [
+          "Ozcan2007RB_T30_p01",
+          "Ozcan2007RB_T30_p02",
+          "Ozcan2007RB_T30_p03"
+        ],
+        "prediction": 0.6261862993571913,
+        "available": true,
+        "raw_q_pp": 3.460025128843894,
+        "q_pp": 3.460025128843894,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0d8a9f719d3c8d3c5d7e2140",
+        "k": 4,
+        "time_min": 59.99999999999999,
+        "time_over_target": 0.5007949125596186,
+        "input_ids": [
+          "Ozcan2007RB_T30_p01",
+          "Ozcan2007RB_T30_p02",
+          "Ozcan2007RB_T30_p03",
+          "Ozcan2007RB_T30_p04"
+        ],
+        "prediction": 0.628344262920055,
+        "available": true,
+        "raw_q_pp": 2.55497248571096,
+        "q_pp": 2.55497248571096,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "be03e09e49ce82006b0aa4e4",
+        "k": 5,
+        "time_min": 74.85714285714283,
+        "time_over_target": 0.6248012718600954,
+        "input_ids": [
+          "Ozcan2007RB_T30_p01",
+          "Ozcan2007RB_T30_p02",
+          "Ozcan2007RB_T30_p03",
+          "Ozcan2007RB_T30_p04",
+          "Ozcan2007RB_T30_p05"
+        ],
+        "prediction": 0.6276312655379181,
+        "available": true,
+        "raw_q_pp": 2.0392675358366144,
+        "q_pp": 2.0392675358366144,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d84d370eb9cdc16e987c46b2",
+        "k": 6,
+        "time_min": 89.90476190476187,
+        "time_over_target": 0.7503974562798091,
+        "input_ids": [
+          "Ozcan2007RB_T30_p01",
+          "Ozcan2007RB_T30_p02",
+          "Ozcan2007RB_T30_p03",
+          "Ozcan2007RB_T30_p04",
+          "Ozcan2007RB_T30_p05",
+          "Ozcan2007RB_T30_p06"
+        ],
+        "prediction": 0.6277262724746219,
+        "available": true,
+        "raw_q_pp": 1.8643833574783322,
+        "q_pp": 1.8643833574783322,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e7beaff90bf02fd87ad267b9",
+        "k": 7,
+        "time_min": 104.9523809523809,
+        "time_over_target": 0.875993640699523,
+        "input_ids": [
+          "Ozcan2007RB_T30_p01",
+          "Ozcan2007RB_T30_p02",
+          "Ozcan2007RB_T30_p03",
+          "Ozcan2007RB_T30_p04",
+          "Ozcan2007RB_T30_p05",
+          "Ozcan2007RB_T30_p06",
+          "Ozcan2007RB_T30_p07"
+        ],
+        "prediction": 0.6264725541710815,
+        "available": true,
+        "raw_q_pp": 1.8036952565548698,
+        "q_pp": 1.8036952565548698,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ozcan2007RB_T40",
+    "source_id": "Ozcan2007RB",
+    "doi": "10.1016/j.jhazmat.2006.06.138",
+    "family": "Turkey_Anadolu_Ozcan_Erdem",
+    "canonical_group_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "target_point_id": "Ozcan2007RB_T40_p12",
+    "target_time_min": 119.80952380952377,
+    "target_time_lower": 119.42857142857139,
+    "target_time_upper": 120.19047619047615,
+    "pool_count": 11,
+    "t3": 19.80952380952381,
+    "cache_complete": true,
+    "case_id": "original_fold_12",
+    "role": "test",
+    "model_sha256": "d8853add63a1de9767543e5354c1cb33b716c6eea570e3a13beb92ea3723faaf",
+    "states": [
+      {
+        "state_id": "4b22d9285a4cf0cce45d7a69",
+        "k": 3,
+        "time_min": 19.80952380952381,
+        "time_over_target": 0.165341812400636,
+        "input_ids": [
+          "Ozcan2007RB_T40_p01",
+          "Ozcan2007RB_T40_p02",
+          "Ozcan2007RB_T40_p03"
+        ],
+        "prediction": 0.6054477448642916,
+        "available": true,
+        "raw_q_pp": 6.88426100316973,
+        "q_pp": 6.88426100316973,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "eb4e56660242e295d3c53488",
+        "k": 4,
+        "time_min": 24.761904761904766,
+        "time_over_target": 0.20667726550079502,
+        "input_ids": [
+          "Ozcan2007RB_T40_p01",
+          "Ozcan2007RB_T40_p02",
+          "Ozcan2007RB_T40_p03",
+          "Ozcan2007RB_T40_p04"
+        ],
+        "prediction": 0.6003147109902627,
+        "available": true,
+        "raw_q_pp": 5.869137130191712,
+        "q_pp": 5.869137130191712,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b83d4c980105fa4d75447bf4",
+        "k": 5,
+        "time_min": 29.904761904761905,
+        "time_over_target": 0.24960254372019086,
+        "input_ids": [
+          "Ozcan2007RB_T40_p01",
+          "Ozcan2007RB_T40_p02",
+          "Ozcan2007RB_T40_p03",
+          "Ozcan2007RB_T40_p04",
+          "Ozcan2007RB_T40_p05"
+        ],
+        "prediction": 0.6013303572438595,
+        "available": true,
+        "raw_q_pp": 4.086993623073115,
+        "q_pp": 4.086993623073115,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2a66037351e6b82655d5543e",
+        "k": 6,
+        "time_min": 39.8095238095238,
+        "time_over_target": 0.33227344992050883,
+        "input_ids": [
+          "Ozcan2007RB_T40_p01",
+          "Ozcan2007RB_T40_p02",
+          "Ozcan2007RB_T40_p03",
+          "Ozcan2007RB_T40_p04",
+          "Ozcan2007RB_T40_p05",
+          "Ozcan2007RB_T40_p06"
+        ],
+        "prediction": 0.6042213758264094,
+        "available": true,
+        "raw_q_pp": 3.5095374916336315,
+        "q_pp": 3.5095374916336315,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c85ae03150a7c6c032c61c34",
+        "k": 7,
+        "time_min": 49.90476190476189,
+        "time_over_target": 0.41653418124006364,
+        "input_ids": [
+          "Ozcan2007RB_T40_p01",
+          "Ozcan2007RB_T40_p02",
+          "Ozcan2007RB_T40_p03",
+          "Ozcan2007RB_T40_p04",
+          "Ozcan2007RB_T40_p05",
+          "Ozcan2007RB_T40_p06",
+          "Ozcan2007RB_T40_p07"
+        ],
+        "prediction": 0.6038564099352869,
+        "available": true,
+        "raw_q_pp": 3.1244773300912523,
+        "q_pp": 3.1244773300912523,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5201e4c5d37c02e0d7a83298",
+        "k": 8,
+        "time_min": 59.99999999999999,
+        "time_over_target": 0.5007949125596186,
+        "input_ids": [
+          "Ozcan2007RB_T40_p01",
+          "Ozcan2007RB_T40_p02",
+          "Ozcan2007RB_T40_p03",
+          "Ozcan2007RB_T40_p04",
+          "Ozcan2007RB_T40_p05",
+          "Ozcan2007RB_T40_p06",
+          "Ozcan2007RB_T40_p07",
+          "Ozcan2007RB_T40_p08"
+        ],
+        "prediction": 0.604028739260727,
+        "available": true,
+        "raw_q_pp": 2.5314588979792507,
+        "q_pp": 2.5314588979792507,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a11a07462d465b1078efcfac",
+        "k": 9,
+        "time_min": 74.85714285714283,
+        "time_over_target": 0.6248012718600954,
+        "input_ids": [
+          "Ozcan2007RB_T40_p01",
+          "Ozcan2007RB_T40_p02",
+          "Ozcan2007RB_T40_p03",
+          "Ozcan2007RB_T40_p04",
+          "Ozcan2007RB_T40_p05",
+          "Ozcan2007RB_T40_p06",
+          "Ozcan2007RB_T40_p07",
+          "Ozcan2007RB_T40_p08",
+          "Ozcan2007RB_T40_p09"
+        ],
+        "prediction": 0.6046154934639849,
+        "available": true,
+        "raw_q_pp": 1.9835419535400838,
+        "q_pp": 1.9835419535400838,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6b1326f2c78ab0dcdef421a2",
+        "k": 10,
+        "time_min": 89.90476190476187,
+        "time_over_target": 0.7503974562798091,
+        "input_ids": [
+          "Ozcan2007RB_T40_p01",
+          "Ozcan2007RB_T40_p02",
+          "Ozcan2007RB_T40_p03",
+          "Ozcan2007RB_T40_p04",
+          "Ozcan2007RB_T40_p05",
+          "Ozcan2007RB_T40_p06",
+          "Ozcan2007RB_T40_p07",
+          "Ozcan2007RB_T40_p08",
+          "Ozcan2007RB_T40_p09",
+          "Ozcan2007RB_T40_p10"
+        ],
+        "prediction": 0.6034328599281439,
+        "available": true,
+        "raw_q_pp": 1.8389678744932472,
+        "q_pp": 1.8389678744932472,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c5ce2813e5998ece6d80116b",
+        "k": 11,
+        "time_min": 104.9523809523809,
+        "time_over_target": 0.875993640699523,
+        "input_ids": [
+          "Ozcan2007RB_T40_p01",
+          "Ozcan2007RB_T40_p02",
+          "Ozcan2007RB_T40_p03",
+          "Ozcan2007RB_T40_p04",
+          "Ozcan2007RB_T40_p05",
+          "Ozcan2007RB_T40_p06",
+          "Ozcan2007RB_T40_p07",
+          "Ozcan2007RB_T40_p08",
+          "Ozcan2007RB_T40_p09",
+          "Ozcan2007RB_T40_p10",
+          "Ozcan2007RB_T40_p11"
+        ],
+        "prediction": 0.6028783955819556,
+        "available": true,
+        "raw_q_pp": 1.7631247239140617,
+        "q_pp": 1.7631247239140617,
+        "nonfinite_score": false
+      }
+    ]
+  }
+]

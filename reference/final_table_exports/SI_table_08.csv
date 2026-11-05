@@ -1,0 +1,6 @@
+﻿Aspect,CBES [15],Present study
+Action,Stop a candidate predicted not to meet a target,Adopt a numerical endpoint forecast or continue measuring
+Error event,Stopping a truly satisfactory experiment,Adopting a forecast whose numerical error exceeds tolerance
+Denominator,Truly satisfactory experiments,"Adopted forecasts, with source-equal weighting"
+Evaluation units,Formulation-grouped IVPT; random LCBench configurations,"Recorded research families separated for fitting, calibration and evaluation"
+Validation framework,Theoretical FSR bound under stated same-distribution assumptions,Empirical source-separated calibration and family-level sensitivity analysis

@@ -1,0 +1,12 @@
+﻿Attachment,Content,Retained filename
+Supplementary Data D1,Curve identities and conditions,S01_curve_identity_conditions.csv / JSON
+Supplementary Data D2,Fit calibration test roles,S02_all_roles.csv / JSON
+Supplementary Data D3,Admission and held dispositions,S03_admission_dispositions.csv / JSON
+Supplementary Data D4,Method cohort summaries,S04_all_method_metrics.csv / JSON
+Supplementary Data D5,Family method summaries,S05_family_method_metrics.csv / JSON
+Supplementary Data D6,All20 scenario-weighted losses,S06_all20_costs.csv / JSON
+Supplementary Data D7,Family mean20 differences,S07_family_mean20.csv / JSON
+Supplementary Data D8,Family scenario differences,S08_family_all20.csv / JSON
+Supplementary Data D9,Calibration candidates,S09_calibration_only_candidates.csv / JSON
+Supplementary Data D10,Selected heuristic rules,S10_frozen_heuristic_rules.csv / JSON
+Supplementary Data D11,Scored-source bibliography,D11_scored_source_bibliography.csv / JSON

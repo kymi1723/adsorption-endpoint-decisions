@@ -1,0 +1,10 @@
+{
+  "scheme": "U0-E",
+  "model_count": 15,
+  "evaluated_curves": 130,
+  "action_rows": 520,
+  "fresh_model_score_max_difference_pp": 3.552713678800501e-15,
+  "model_directory": "separate retraining output",
+  "test_responses_used_for_threshold_selection": false,
+  "training_runs": 0
+}

@@ -1,0 +1,473 @@
+[
+  {
+    "family_label": "G01",
+    "family_id": "Algeria_Tlemcen_Didi_Makhoukhi_Guezzen",
+    "DOIs": [
+      "10.1016/j.jiec.2023.05.034"
+    ],
+    "source_ids": [
+      "Guezzen2023"
+    ],
+    "curves": 2,
+    "evidence_layers": [
+      "development_transfer"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G02",
+    "family_id": "Algeria_USTOran_Khenifi_Derriche",
+    "DOIs": [
+      "10.1016/j.cej.2007.03.086"
+    ],
+    "source_ids": [
+      "Zohra2008_CEJ"
+    ],
+    "curves": 1,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G03",
+    "family_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "DOIs": [
+      "10.5650/jos.ess23174"
+    ],
+    "source_ids": [
+      "Mo2024"
+    ],
+    "curves": 9,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G04",
+    "family_id": "Brazil_UFPB_Fonseca_Filho_Jaber",
+    "DOIs": [
+      "10.1016/j.jece.2018.11.006"
+    ],
+    "source_ids": [
+      "Brito2018"
+    ],
+    "curves": 4,
+    "evidence_layers": [
+      "development_transfer"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G05",
+    "family_id": "China_CUGBeijing_Chen_Daimei",
+    "DOIs": [
+      "10.1016/j.cej.2011.05.013"
+    ],
+    "source_ids": [
+      "Chen2011"
+    ],
+    "curves": 8,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G06",
+    "family_id": "China_Chongqing_Jiang_Yuan_Zhang",
+    "DOIs": [
+      "10.1016/j.jcis.2019.01.022"
+    ],
+    "source_ids": [
+      "Jiang2019_C01"
+    ],
+    "curves": 6,
+    "evidence_layers": [
+      "C01_confirmation02"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G07",
+    "family_id": "China_GuangxiU_Fan_Zhang_Qin",
+    "DOIs": [
+      "10.1016/j.ijbiomac.2022.05.042"
+    ],
+    "source_ids": [
+      "Fan2022"
+    ],
+    "curves": 1,
+    "evidence_layers": [
+      "historical_external15"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G08",
+    "family_id": "China_JiangxiUST_Luo_Wuhui",
+    "DOIs": [
+      "10.1016/j.colsurfa.2024.133489"
+    ],
+    "source_ids": [
+      "Du2024"
+    ],
+    "curves": 6,
+    "evidence_layers": [
+      "development_transfer"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G09",
+    "family_id": "China_Lanzhou_LICP_Wang_Aiqin",
+    "DOIs": [
+      "10.1016/j.jhazmat.2008.02.104"
+    ],
+    "source_ids": [
+      "Wang2008"
+    ],
+    "curves": 1,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G10",
+    "family_id": "China_NJUST_NIES_Zhang_Wang_Xia",
+    "DOIs": [
+      "10.1016/j.ijbiomac.2020.01.201"
+    ],
+    "source_ids": [
+      "Zhang2020_C04"
+    ],
+    "curves": 3,
+    "evidence_layers": [
+      "remaining_queue03"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G11",
+    "family_id": "China_NanjingTech_Yuan_Liu_Cui",
+    "DOIs": [
+      "10.1016/j.seppur.2024.127979"
+    ],
+    "source_ids": [
+      "Yuan2024_N4"
+    ],
+    "curves": 1,
+    "evidence_layers": [
+      "N4_confirmation01"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G12",
+    "family_id": "China_NorthwestAF_Liu_Zhang_Huang",
+    "DOIs": [
+      "10.1016/j.ijbiomac.2014.10.008"
+    ],
+    "source_ids": [
+      "Liu2015_C05"
+    ],
+    "curves": 3,
+    "evidence_layers": [
+      "remaining_queue03"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G13",
+    "family_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "DOIs": [
+      "10.1016/j.jhazmat.2009.06.139"
+    ],
+    "source_ids": [
+      "Shen2009"
+    ],
+    "curves": 7,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G14",
+    "family_id": "China_SouthChinaAgriculturalU_Su_Qiu_Wen",
+    "DOIs": [
+      "10.1016/j.seppur.2023.125321"
+    ],
+    "source_ids": [
+      "Su2024"
+    ],
+    "curves": 1,
+    "evidence_layers": [
+      "historical_external15"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G15",
+    "family_id": "China_University_of_Petroleum_Gao",
+    "DOIs": [
+      "10.1016/j.apsusc.2014.11.043",
+      "10.1016/j.jece.2022.108442"
+    ],
+    "source_ids": [
+      "Jin2022",
+      "Luo2015"
+    ],
+    "curves": 4,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G16",
+    "family_id": "China_Weifang_Qingdao_Changzhou_Zheng_Li_Zhang",
+    "DOIs": [
+      "10.1016/j.dwt.2025.101595"
+    ],
+    "source_ids": [
+      "Zheng2026"
+    ],
+    "curves": 1,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G17",
+    "family_id": "China_Zhejiang_Tong_Zhou",
+    "DOIs": [
+      "10.1016/j.clay.2010.08.018"
+    ],
+    "source_ids": [
+      "Tong2010"
+    ],
+    "curves": 15,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G18",
+    "family_id": "DhaifAllah_Taqui2026_MNC_team",
+    "DOIs": [
+      "10.1038/s41598-026-50450-0"
+    ],
+    "source_ids": [
+      "DhaifAllah2026"
+    ],
+    "curves": 1,
+    "evidence_layers": [
+      "historical_external15"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G19",
+    "family_id": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "DOIs": [
+      "10.1021/acs.langmuir.5c03148"
+    ],
+    "source_ids": [
+      "Meretoudi2025"
+    ],
+    "curves": 4,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G20",
+    "family_id": "Guangzhou_University_Peng_Zeng",
+    "DOIs": [
+      "10.1016/j.colsurfa.2019.123602"
+    ],
+    "source_ids": [
+      "Peng2019"
+    ],
+    "curves": 2,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G21",
+    "family_id": "India_CSMCRI_Bhatt_Paul",
+    "DOIs": [
+      "10.1039/c2ra20347b"
+    ],
+    "source_ids": [
+      "Bhatt2012"
+    ],
+    "curves": 1,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G22",
+    "family_id": "India_Tezpur_Baruah_Sarma_Dolui",
+    "DOIs": [
+      "10.1021/acs.langmuir.3c02687"
+    ],
+    "source_ids": [
+      "Baruah2024"
+    ],
+    "curves": 1,
+    "evidence_layers": [
+      "historical_external15"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G23",
+    "family_id": "Indonesia_Siregar_Rianjanu2026_team",
+    "DOIs": [
+      "10.1186/s40712-026-00523-9"
+    ],
+    "source_ids": [
+      "Siregar2026"
+    ],
+    "curves": 5,
+    "evidence_layers": [
+      "historical_external15"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G24",
+    "family_id": "Iraq_Baghdad_Ibrahim_AbdAli",
+    "DOIs": [
+      "10.31026/j.eng.2020.05.05"
+    ],
+    "source_ids": [
+      "Ibrahim2020"
+    ],
+    "curves": 1,
+    "evidence_layers": [
+      "development_transfer"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G25",
+    "family_id": "Malaysia_UiTM_Jawad_Abdulhameed_Surip",
+    "DOIs": [
+      "10.1016/j.jclepro.2023.136334"
+    ],
+    "source_ids": [
+      "Jawad2023_C07"
+    ],
+    "curves": 4,
+    "evidence_layers": [
+      "remaining_queue03"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G26",
+    "family_id": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "DOIs": [
+      "10.1016/j.molliq.2021.116560"
+    ],
+    "source_ids": [
+      "Ouachtak2021"
+    ],
+    "curves": 3,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G27",
+    "family_id": "SeoulTech_Park_Hwang",
+    "DOIs": [
+      "10.4491/eer.2022.076"
+    ],
+    "source_ids": [
+      "Choi2023"
+    ],
+    "curves": 2,
+    "evidence_layers": [
+      "development_transfer"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G28",
+    "family_id": "Serbia_Belgrade_ICTM_Jovic",
+    "DOIs": [
+      "10.1002/ceat.200700421"
+    ],
+    "source_ids": [
+      "Jovic2008"
+    ],
+    "curves": 4,
+    "evidence_layers": [
+      "development_transfer"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G29",
+    "family_id": "Turkey_Anadolu_Ozcan_Erdem",
+    "DOIs": [
+      "10.1016/j.jcis.2004.07.035",
+      "10.1016/j.jhazmat.2005.08.037",
+      "10.1016/j.jhazmat.2006.06.138"
+    ],
+    "source_ids": [
+      "Ozcan2004",
+      "Ozcan2006Sep",
+      "Ozcan2007RB"
+    ],
+    "curves": 19,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G30",
+    "family_id": "University_of_Leeds",
+    "DOIs": [
+      "10.1021/acsami.7b08406"
+    ],
+    "source_ids": [
+      "ACS2017"
+    ],
+    "curves": 4,
+    "evidence_layers": [
+      "development_original"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  },
+  {
+    "family_label": "G31",
+    "family_id": "V04_Bhattacharyya_SenGupta_Sarma",
+    "DOIs": [
+      "10.1080/19443994.2013.839405"
+    ],
+    "source_ids": [
+      "V04"
+    ],
+    "curves": 6,
+    "evidence_layers": [
+      "historical_external15"
+    ],
+    "basis": "Existing recorded author/institution/experimental closure; no new surname/material inference"
+  }
+]

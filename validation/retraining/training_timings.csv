@@ -1,0 +1,16 @@
+﻿case_id,training_rows,tree_fit_seconds,serialization_seconds,weight_sum,scope
+original_fold_00,14084,0.25182260014116764,0.03717070026323199,1.0,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_01,14084,0.1864677001722157,0.023789699655026197,1.0,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_02,14084,0.17335520032793283,0.024824100080877542,1.0,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_03,14592,0.18252609996125102,0.024210999719798565,1.0,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_04,14084,0.17025099974125624,0.023513699881732464,1.0,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_05,14468,0.18180869985371828,0.025202599819749594,1.0,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_06,14084,0.17166229989379644,0.02608049986883998,1.0,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_07,1284,0.10151680000126362,0.024228000082075596,0.9999999999999999,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_08,14084,0.17444470012560487,0.02490529976785183,1.0,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_09,14564,0.1826992998830974,0.02515970030799508,0.9999999999999998,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_10,14084,0.1839258000254631,0.025438399985432625,1.0,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_11,14084,0.17226639995351434,0.023810500279068947,1.0,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_12,13996,0.17226729961112142,0.029931899625808,0.9999999999999999,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fold_13,14588,0.1722384002059698,0.023488599807024002,0.9999999999999999,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds
+original_fit_cal_to_transfer,14596,0.1828638999722898,0.02860249998047948,1.0,model.fit only; PSO/features/model serialization excluded from tree_fit_seconds

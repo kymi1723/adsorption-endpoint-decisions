@@ -1,0 +1,7 @@
+﻿Layer,Admission criterion,Implementation / record
+1. System,Adsorbent–dye kinetic system within the benchmark scope,Modified montmorillonite/bentonite is the focus; mineral controls and neighboring composites are identified as boundary branches.
+2. Observations,At least three real positive-time measurements preceding the target,A zero-time baseline is not counted; fitted/interpolated points are not treated as observations.
+3. Target time,One actual target observation with a recorded time-reading interval containing 120 min,The original measured target and its recorded central time are retained; no synthetic 120-min point is inserted.
+4. Response scale,A physically defined removal fraction,"Direct removal % /100 is admissible; uptake q needs determinable C₀ and ρ=m/V, even if m and V are not individually available."
+5. Conditions,Consistent conditions and physically feasible inventory normalization,"Ambiguous, conflicting or nonrecoverable uptake normalization is held; local reversals are retained, not corrected by fitting."
+6. Provenance,DOI- and curve-level deduplication plus research-family linkage,Related curves and publications are grouped before fitting/calibration/test assignment; model goodness of fit is not an admission filter.

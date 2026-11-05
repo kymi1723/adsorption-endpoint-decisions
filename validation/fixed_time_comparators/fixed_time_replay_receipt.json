@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "action_rows": 390,
+  "original_first_actions_exact": true,
+  "threshold_reselection": false,
+  "configuration": "recorded original fixed-time; never claimed to be U0-E recalibration"
+}

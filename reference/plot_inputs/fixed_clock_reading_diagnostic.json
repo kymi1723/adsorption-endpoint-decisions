@@ -1,0 +1,14 @@
+{
+  "curve_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a",
+  "nominal_last_time": 90,
+  "nominal_target": 120,
+  "actual_native_ratio": 0.7496350886504914,
+  "reading_ratio_lower": 0.724252249718079,
+  "reading_ratio_upper": 0.7758744531831417,
+  "frozen_r": 0.7499136705291377,
+  "crosses_fixed_r": true,
+  "actually_meets_frozen_r": false,
+  "no_snap_to_nominal_clock": true,
+  "no_threshold_or_time_point_reselection": true,
+  "role": "Readinggeometrysensitivitydiagnosisonly,nofittedrerunorpolicychange"
+}

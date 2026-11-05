@@ -1,0 +1,42 @@
+{
+  "utc": "2026-11-05T04:28:58.242155+00:00",
+  "command": [
+    "comparators",
+    "--out",
+    "outputs/fixed_time_comparators"
+  ],
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "include_system_site_packages": false,
+  "passed": true,
+  "seconds": 0.0989426001906395,
+  "opened_package_files": [
+    "configs/fixed_time_rules.json",
+    "configs/folds.json",
+    "data/evaluation_curves.json",
+    "data/test_targets.json",
+    "endpoint_release/__init__.py",
+    "endpoint_release/__main__.py",
+    "endpoint_release/__pycache__/__init__.cpython-311.pyc",
+    "endpoint_release/__pycache__/__main__.cpython-311.pyc",
+    "endpoint_release/__pycache__/cli.cpython-311.pyc",
+    "endpoint_release/__pycache__/comparators.cpython-311.pyc",
+    "endpoint_release/__pycache__/io.cpython-311.pyc",
+    "endpoint_release/cli.py",
+    "endpoint_release/comparators.py",
+    "endpoint_release/io.py",
+    "outputs/fixed_time_comparators/fixed_time_actions_before_truth.json",
+    "outputs/fixed_time_comparators/fixed_time_metrics.csv",
+    "outputs/fixed_time_comparators/fixed_time_metrics.json",
+    "outputs/fixed_time_comparators/fixed_time_replay_receipt.json",
+    "outputs/fixed_time_comparators/fixed_time_results.json",
+    "reference/original_baseline_curve_results.json",
+    "tools/__init__.py",
+    "tools/__pycache__/__init__.cpython-311.pyc",
+    "tools/research_models/__init__.py",
+    "tools/research_models/__pycache__/__init__.cpython-311.pyc",
+    "tools/research_models/__pycache__/fixed_time_acceptance.cpython-311.pyc",
+    "tools/research_models/__pycache__/source_sequential_acceptance.cpython-311.pyc",
+    "tools/research_models/fixed_time_acceptance.py",
+    "tools/research_models/source_sequential_acceptance.py"
+  ]
+}

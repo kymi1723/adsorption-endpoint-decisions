@@ -1,0 +1,13 @@
+{
+  "scheme": "U0-E",
+  "tolerance_pp": 5,
+  "minimum_A": 0,
+  "candidates": "every distinct finite calibration state score, -inf,+inf",
+  "ordering": [
+    "maximum exact source-equal A",
+    "minimum mean waiting",
+    "minimum observations",
+    "smaller threshold"
+  ],
+  "purpose": "Main Tables2–3; no original-calibration substitution"
+}

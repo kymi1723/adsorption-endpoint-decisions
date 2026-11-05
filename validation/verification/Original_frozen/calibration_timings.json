@@ -1,0 +1,482 @@
+[
+  {
+    "case_id": "original_fold_00",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 172,
+    "calibration_seconds": 0.045252200216054916,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_00",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.016474800184369087,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_00",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.014334699604660273,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_00",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.014519500080496073,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_01",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 143,
+    "calibration_seconds": 0.027394500095397234,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_01",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.011973599903285503,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_01",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.013946100138127804,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_01",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.012747699860483408,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_02",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 136,
+    "calibration_seconds": 0.02818159991875291,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_02",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.012643299996852875,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_02",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010138300247490406,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_02",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010673800017684698,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_03",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 123,
+    "calibration_seconds": 0.02161070005968213,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_03",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.012058899737894535,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_03",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010436899960041046,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_03",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010819499846547842,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_04",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 130,
+    "calibration_seconds": 0.024674999993294477,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_04",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010668400209397078,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_04",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.011352799832820892,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_04",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.01071950001642108,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_05",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 155,
+    "calibration_seconds": 0.030034500174224377,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_05",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010500100441277027,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_05",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.009728800039738417,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_05",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010820100083947182,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_06",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 175,
+    "calibration_seconds": 0.04178500035777688,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_06",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.015986000187695026,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_06",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.015494300052523613,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_06",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.013007699977606535,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_07",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 127,
+    "calibration_seconds": 0.02266100002452731,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_07",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010946499649435282,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_07",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010499699972569942,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_07",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.009916899725794792,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_08",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 162,
+    "calibration_seconds": 0.03305139997974038,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_08",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.01260560005903244,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_08",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.011896600015461445,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_08",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.013287199661135674,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_09",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 132,
+    "calibration_seconds": 0.023199699819087982,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_09",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010454100091010332,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_09",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010439799632877111,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_09",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.012253400404006243,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_10",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 177,
+    "calibration_seconds": 0.03744840016588569,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_10",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.013962999917566776,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_10",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.01264089997857809,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_10",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.016482699662446976,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_11",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 160,
+    "calibration_seconds": 0.03380029974505305,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_11",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.016081399749964476,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_11",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.011483199894428253,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_11",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.013524199835956097,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_12",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 133,
+    "calibration_seconds": 0.023372599855065346,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_12",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.011874899733811617,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_12",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.011307300068438053,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_12",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.00982020003721118,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_13",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 140,
+    "calibration_seconds": 0.02380619989708066,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_13",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010578799992799759,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_13",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.01067390013486147,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fold_13",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.011868699919432402,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fit_cal_to_transfer",
+    "method": "Learned",
+    "scheme": "Original_frozen",
+    "candidates": 144,
+    "calibration_seconds": 0.03325479989871383,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fit_cal_to_transfer",
+    "method": "H1",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.011892899870872498,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fit_cal_to_transfer",
+    "method": "H2",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.010698500089347363,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  },
+  {
+    "case_id": "original_fit_cal_to_transfer",
+    "method": "H3",
+    "scheme": "Original_frozen",
+    "candidates": 43,
+    "calibration_seconds": 0.009922100231051445,
+    "scope": "candidate generation, full calibration first-action replays and selection; excludes model loading/scoring"
+  }
+]

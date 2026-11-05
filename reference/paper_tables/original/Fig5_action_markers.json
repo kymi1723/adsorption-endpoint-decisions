@@ -1,0 +1,200 @@
+[
+  {
+    "panel": "a",
+    "curve_id": "Zhang2020_CMC_MMT_CR_T25",
+    "policy": "Learned",
+    "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix7",
+    "adopted": true,
+    "time_min": 49.69230769230769,
+    "error_pp": 0.7118667595969352,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/evidence_closeout01_work/tables/F05_representative_case_data.json"
+  },
+  {
+    "panel": "a",
+    "curve_id": "Zhang2020_CMC_MMT_CR_T25",
+    "policy": "H1",
+    "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix8",
+    "adopted": true,
+    "time_min": 59.84615384615385,
+    "error_pp": 0.633637690352884,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  },
+  {
+    "panel": "a",
+    "curve_id": "Zhang2020_CMC_MMT_CR_T25",
+    "policy": "H3",
+    "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix6",
+    "adopted": true,
+    "time_min": 39.84615384615385,
+    "error_pp": 0.771595839682504,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  },
+  {
+    "panel": "b",
+    "curve_id": "Liu2015_CCS_BT_AB10B_C100",
+    "policy": "Learned",
+    "state_id": "Liu2015_CCS_BT_AB10B_C100__prefix5",
+    "adopted": true,
+    "time_min": 24.980813507290865,
+    "error_pp": 0.9588745711401447,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/evidence_closeout01_work/tables/F05_representative_case_data.json"
+  },
+  {
+    "panel": "b",
+    "curve_id": "Liu2015_CCS_BT_AB10B_C100",
+    "policy": "H1",
+    "state_id": "Liu2015_CCS_BT_AB10B_C100__prefix8",
+    "adopted": true,
+    "time_min": 59.74673829623945,
+    "error_pp": 0.9088700074742384,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  },
+  {
+    "panel": "b",
+    "curve_id": "Liu2015_CCS_BT_AB10B_C100",
+    "policy": "H3",
+    "state_id": null,
+    "adopted": false,
+    "time_min": 119.95395241749809,
+    "error_pp": 0.0,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  },
+  {
+    "panel": "c",
+    "curve_id": "Liu2015_CCS_BT_AB10B_C200",
+    "policy": "Learned",
+    "state_id": null,
+    "adopted": false,
+    "time_min": 119.95395241749809,
+    "error_pp": 0.0,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/evidence_closeout01_work/tables/F05_representative_case_data.json"
+  },
+  {
+    "panel": "c",
+    "curve_id": "Liu2015_CCS_BT_AB10B_C200",
+    "policy": "H1",
+    "state_id": null,
+    "adopted": false,
+    "time_min": 119.95395241749809,
+    "error_pp": 0.0,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  },
+  {
+    "panel": "c",
+    "curve_id": "Liu2015_CCS_BT_AB10B_C200",
+    "policy": "H3",
+    "state_id": null,
+    "adopted": false,
+    "time_min": 119.95395241749809,
+    "error_pp": 0.0,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  },
+  {
+    "panel": "d",
+    "curve_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20",
+    "policy": "Learned",
+    "state_id": null,
+    "adopted": false,
+    "time_min": 119.87794245858763,
+    "error_pp": 0.0,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/evidence_closeout01_work/tables/F05_representative_case_data.json"
+  },
+  {
+    "panel": "d",
+    "curve_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20",
+    "policy": "H1",
+    "state_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__prefix5",
+    "adopted": true,
+    "time_min": 19.87794245858762,
+    "error_pp": 0.8157925278241329,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  },
+  {
+    "panel": "d",
+    "curve_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20",
+    "policy": "H3",
+    "state_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__prefix6",
+    "adopted": true,
+    "time_min": 29.86050566695728,
+    "error_pp": 0.7946208219302475,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  },
+  {
+    "panel": "e",
+    "curve_id": "Fan2022_CMP30_CR_C950_T303_Fig6a",
+    "policy": "Learned",
+    "state_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__prefix4",
+    "adopted": true,
+    "time_min": 69.77751455623076,
+    "error_pp": 6.450647766477102,
+    "out_of_tolerance": true,
+    "source_file": "working/research_batches/evidence_closeout01_work/tables/F05_representative_case_data.json"
+  },
+  {
+    "panel": "e",
+    "curve_id": "Fan2022_CMP30_CR_C950_T303_Fig6a",
+    "policy": "H1",
+    "state_id": null,
+    "adopted": false,
+    "time_min": 119.10999058391673,
+    "error_pp": 0.0,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  },
+  {
+    "panel": "e",
+    "curve_id": "Fan2022_CMP30_CR_C950_T303_Fig6a",
+    "policy": "H3",
+    "state_id": null,
+    "adopted": false,
+    "time_min": 119.10999058391673,
+    "error_pp": 0.0,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  },
+  {
+    "panel": "f",
+    "curve_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a",
+    "policy": "Learned",
+    "state_id": null,
+    "adopted": false,
+    "time_min": 119.56324250109647,
+    "error_pp": 0.0,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/evidence_closeout01_work/tables/F05_representative_case_data.json"
+  },
+  {
+    "panel": "f",
+    "curve_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a",
+    "policy": "H1",
+    "state_id": null,
+    "adopted": false,
+    "time_min": 119.56324250109647,
+    "error_pp": 0.0,
+    "out_of_tolerance": false,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  },
+  {
+    "panel": "f",
+    "curve_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a",
+    "policy": "H3",
+    "state_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__prefix7",
+    "adopted": true,
+    "time_min": 19.995347152037525,
+    "error_pp": 18.54962511273941,
+    "out_of_tolerance": true,
+    "source_file": "working/research_batches/sequential_heuristic_benchmark01_work/results/H_curve_results.json"
+  }
+]

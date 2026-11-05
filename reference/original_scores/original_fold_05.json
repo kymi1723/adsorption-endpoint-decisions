@@ -1,0 +1,4023 @@
+[
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_methylcarbonate_T25_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_methylcarbonate_T25_C100.0_p08",
+    "target_time_min": 120.11828910888066,
+    "target_time_lower": 118.61828910888066,
+    "target_time_upper": 121.61828910888066,
+    "pool_count": 7,
+    "t3": 20.15465003063479,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "6fa45b1517a993d882abfecc",
+        "k": 3,
+        "time_min": 20.15465003063479,
+        "time_over_target": 0.16779001915658076,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T25_C100.0_p01",
+          "Mo2024_methylcarbonate_T25_C100.0_p02",
+          "Mo2024_methylcarbonate_T25_C100.0_p03"
+        ],
+        "prediction": 0.12516461335625337,
+        "available": true,
+        "raw_q_pp": 2.3910721322683934,
+        "q_pp": 2.3910721322683934,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2dc896d8c8352801d10127ea",
+        "k": 4,
+        "time_min": 30.189585782402418,
+        "time_over_target": 0.2513321327365661,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T25_C100.0_p01",
+          "Mo2024_methylcarbonate_T25_C100.0_p02",
+          "Mo2024_methylcarbonate_T25_C100.0_p03",
+          "Mo2024_methylcarbonate_T25_C100.0_p04"
+        ],
+        "prediction": 0.1355531100883272,
+        "available": true,
+        "raw_q_pp": 1.9915375810920724,
+        "q_pp": 1.9915375810920724,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "1f00e16095388bc7e455011d",
+        "k": 5,
+        "time_min": 40.03688475655573,
+        "time_over_target": 0.3333121463315589,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T25_C100.0_p01",
+          "Mo2024_methylcarbonate_T25_C100.0_p02",
+          "Mo2024_methylcarbonate_T25_C100.0_p03",
+          "Mo2024_methylcarbonate_T25_C100.0_p04",
+          "Mo2024_methylcarbonate_T25_C100.0_p05"
+        ],
+        "prediction": 0.14971619209661396,
+        "available": true,
+        "raw_q_pp": 1.7592976447648772,
+        "q_pp": 1.7592976447648772,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e1f305322ef5baa9969ba777",
+        "k": 6,
+        "time_min": 60.103309978501564,
+        "time_over_target": 0.50036768275996,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T25_C100.0_p01",
+          "Mo2024_methylcarbonate_T25_C100.0_p02",
+          "Mo2024_methylcarbonate_T25_C100.0_p03",
+          "Mo2024_methylcarbonate_T25_C100.0_p04",
+          "Mo2024_methylcarbonate_T25_C100.0_p05",
+          "Mo2024_methylcarbonate_T25_C100.0_p06"
+        ],
+        "prediction": 0.15907611099529323,
+        "available": true,
+        "raw_q_pp": 1.367989878818634,
+        "q_pp": 1.367989878818634,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c2e798f0b59ceaeb8f82bf61",
+        "k": 7,
+        "time_min": 90.02048045619013,
+        "time_over_target": 0.7494319235149236,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T25_C100.0_p01",
+          "Mo2024_methylcarbonate_T25_C100.0_p02",
+          "Mo2024_methylcarbonate_T25_C100.0_p03",
+          "Mo2024_methylcarbonate_T25_C100.0_p04",
+          "Mo2024_methylcarbonate_T25_C100.0_p05",
+          "Mo2024_methylcarbonate_T25_C100.0_p06",
+          "Mo2024_methylcarbonate_T25_C100.0_p07"
+        ],
+        "prediction": 0.1651778702768532,
+        "available": true,
+        "raw_q_pp": 1.1777240966845839,
+        "q_pp": 1.1777240966845839,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_methylcarbonate_T35_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_methylcarbonate_T35_C100.0_p08",
+    "target_time_min": 119.93725328600298,
+    "target_time_lower": 118.43725328600298,
+    "target_time_upper": 121.43725328600298,
+    "pool_count": 7,
+    "t3": 19.973614207757123,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "8d560fe1d102f0bc69f60f6d",
+        "k": 3,
+        "time_min": 19.973614207757123,
+        "time_over_target": 0.1665338638373512,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T35_C100.0_p01",
+          "Mo2024_methylcarbonate_T35_C100.0_p02",
+          "Mo2024_methylcarbonate_T35_C100.0_p03"
+        ],
+        "prediction": 0.10974656961168744,
+        "available": true,
+        "raw_q_pp": 1.883647612190264,
+        "q_pp": 1.883647612190264,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "403e255930ffc9db4979c4df",
+        "k": 4,
+        "time_min": 30.006482190571102,
+        "time_over_target": 0.2501848372249904,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T35_C100.0_p01",
+          "Mo2024_methylcarbonate_T35_C100.0_p02",
+          "Mo2024_methylcarbonate_T35_C100.0_p03",
+          "Mo2024_methylcarbonate_T35_C100.0_p04"
+        ],
+        "prediction": 0.11434306766378044,
+        "available": true,
+        "raw_q_pp": 1.6210201381563802,
+        "q_pp": 1.6210201381563802,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a67e7355d31fc99a876ff30a",
+        "k": 5,
+        "time_min": 39.856909328013266,
+        "time_over_target": 0.33231467484894184,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T35_C100.0_p01",
+          "Mo2024_methylcarbonate_T35_C100.0_p02",
+          "Mo2024_methylcarbonate_T35_C100.0_p03",
+          "Mo2024_methylcarbonate_T35_C100.0_p04",
+          "Mo2024_methylcarbonate_T35_C100.0_p05"
+        ],
+        "prediction": 0.1297882379429605,
+        "available": true,
+        "raw_q_pp": 1.7977789100964339,
+        "q_pp": 1.7977789100964339,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "46442ab852450818b9d6cfbc",
+        "k": 6,
+        "time_min": 59.92259227392446,
+        "time_over_target": 0.4996161795620977,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T35_C100.0_p01",
+          "Mo2024_methylcarbonate_T35_C100.0_p02",
+          "Mo2024_methylcarbonate_T35_C100.0_p03",
+          "Mo2024_methylcarbonate_T35_C100.0_p04",
+          "Mo2024_methylcarbonate_T35_C100.0_p05",
+          "Mo2024_methylcarbonate_T35_C100.0_p06"
+        ],
+        "prediction": 0.1410107591603294,
+        "available": true,
+        "raw_q_pp": 1.3296393536222013,
+        "q_pp": 1.3296393536222013,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6649ae0e6799cf1b187ad4af",
+        "k": 7,
+        "time_min": 89.83870235727781,
+        "time_over_target": 0.749047521899205,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T35_C100.0_p01",
+          "Mo2024_methylcarbonate_T35_C100.0_p02",
+          "Mo2024_methylcarbonate_T35_C100.0_p03",
+          "Mo2024_methylcarbonate_T35_C100.0_p04",
+          "Mo2024_methylcarbonate_T35_C100.0_p05",
+          "Mo2024_methylcarbonate_T35_C100.0_p06",
+          "Mo2024_methylcarbonate_T35_C100.0_p07"
+        ],
+        "prediction": 0.14940889407646832,
+        "available": true,
+        "raw_q_pp": 1.223182976063693,
+        "q_pp": 1.223182976063693,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_methylcarbonate_T45_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_methylcarbonate_T45_C100.0_p08",
+    "target_time_min": 119.93865830849712,
+    "target_time_lower": 118.43865830849712,
+    "target_time_upper": 121.43865830849712,
+    "pool_count": 7,
+    "t3": 19.97501923025127,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "49d57845827d304b3f282704",
+        "k": 3,
+        "time_min": 19.97501923025127,
+        "time_over_target": 0.166543627483918,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T45_C100.0_p01",
+          "Mo2024_methylcarbonate_T45_C100.0_p02",
+          "Mo2024_methylcarbonate_T45_C100.0_p03"
+        ],
+        "prediction": 0.08513493364565866,
+        "available": true,
+        "raw_q_pp": 1.7558210744513791,
+        "q_pp": 1.7558210744513791,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "abe1ed01731ec04597fc8c13",
+        "k": 4,
+        "time_min": 30.006482190571102,
+        "time_over_target": 0.250181906432459,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T45_C100.0_p01",
+          "Mo2024_methylcarbonate_T45_C100.0_p02",
+          "Mo2024_methylcarbonate_T45_C100.0_p03",
+          "Mo2024_methylcarbonate_T45_C100.0_p04"
+        ],
+        "prediction": 0.10195280030661125,
+        "available": true,
+        "raw_q_pp": 1.7608401414688992,
+        "q_pp": 1.7608401414688992,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0b498c51064d2a9a306f5759",
+        "k": 5,
+        "time_min": 39.856909328013266,
+        "time_over_target": 0.33231078194568714,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T45_C100.0_p01",
+          "Mo2024_methylcarbonate_T45_C100.0_p02",
+          "Mo2024_methylcarbonate_T45_C100.0_p03",
+          "Mo2024_methylcarbonate_T45_C100.0_p04",
+          "Mo2024_methylcarbonate_T45_C100.0_p05"
+        ],
+        "prediction": 0.10803768872718475,
+        "available": true,
+        "raw_q_pp": 1.4868874851986391,
+        "q_pp": 1.4868874851986391,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "135c2f0e293aa11aa62419e2",
+        "k": 6,
+        "time_min": 59.92264529364122,
+        "time_over_target": 0.4996107688608016,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T45_C100.0_p01",
+          "Mo2024_methylcarbonate_T45_C100.0_p02",
+          "Mo2024_methylcarbonate_T45_C100.0_p03",
+          "Mo2024_methylcarbonate_T45_C100.0_p04",
+          "Mo2024_methylcarbonate_T45_C100.0_p05",
+          "Mo2024_methylcarbonate_T45_C100.0_p06"
+        ],
+        "prediction": 0.11187034987927405,
+        "available": true,
+        "raw_q_pp": 1.1198107530172428,
+        "q_pp": 1.1198107530172428,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5e51c5d2c7fc2ed7f17d72d6",
+        "k": 7,
+        "time_min": 89.83875537699457,
+        "time_over_target": 0.7490391892322001,
+        "input_ids": [
+          "Mo2024_methylcarbonate_T45_C100.0_p01",
+          "Mo2024_methylcarbonate_T45_C100.0_p02",
+          "Mo2024_methylcarbonate_T45_C100.0_p03",
+          "Mo2024_methylcarbonate_T45_C100.0_p04",
+          "Mo2024_methylcarbonate_T45_C100.0_p05",
+          "Mo2024_methylcarbonate_T45_C100.0_p06",
+          "Mo2024_methylcarbonate_T45_C100.0_p07"
+        ],
+        "prediction": 0.11607333539793656,
+        "available": true,
+        "raw_q_pp": 0.9858808883200219,
+        "q_pp": 0.9858808883200219,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_benzoate_T25_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_benzoate_T25_C100.0_p08",
+    "target_time_min": 120.18691498196199,
+    "target_time_lower": 118.68691498196199,
+    "target_time_upper": 121.68691498196199,
+    "pool_count": 7,
+    "t3": 20.073709680473417,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "6047253ecb09589f8ce66e2e",
+        "k": 3,
+        "time_min": 20.073709680473417,
+        "time_over_target": 0.1670207583203724,
+        "input_ids": [
+          "Mo2024_benzoate_T25_C100.0_p01",
+          "Mo2024_benzoate_T25_C100.0_p02",
+          "Mo2024_benzoate_T25_C100.0_p03"
+        ],
+        "prediction": 0.0985375525008973,
+        "available": true,
+        "raw_q_pp": 1.8958571102754591,
+        "q_pp": 1.8958571102754591,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b7fd8e7493e7f04b64568d3b",
+        "k": 4,
+        "time_min": 30.065790719419464,
+        "time_over_target": 0.2501586027391736,
+        "input_ids": [
+          "Mo2024_benzoate_T25_C100.0_p01",
+          "Mo2024_benzoate_T25_C100.0_p02",
+          "Mo2024_benzoate_T25_C100.0_p03",
+          "Mo2024_benzoate_T25_C100.0_p04"
+        ],
+        "prediction": 0.10903646828687245,
+        "available": true,
+        "raw_q_pp": 1.7555241733833786,
+        "q_pp": 1.7555241733833786,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "afad86277827ab2b6dcbd8d3",
+        "k": 5,
+        "time_min": 40.06159116791263,
+        "time_over_target": 0.3333273940339112,
+        "input_ids": [
+          "Mo2024_benzoate_T25_C100.0_p01",
+          "Mo2024_benzoate_T25_C100.0_p02",
+          "Mo2024_benzoate_T25_C100.0_p03",
+          "Mo2024_benzoate_T25_C100.0_p04",
+          "Mo2024_benzoate_T25_C100.0_p05"
+        ],
+        "prediction": 0.11147685558091594,
+        "available": true,
+        "raw_q_pp": 1.4942185417968374,
+        "q_pp": 1.4942185417968374,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2a6fe41fdea96abdd9cf9f59",
+        "k": 6,
+        "time_min": 60.04400625041139,
+        "time_over_target": 0.4995885472176649,
+        "input_ids": [
+          "Mo2024_benzoate_T25_C100.0_p01",
+          "Mo2024_benzoate_T25_C100.0_p02",
+          "Mo2024_benzoate_T25_C100.0_p03",
+          "Mo2024_benzoate_T25_C100.0_p04",
+          "Mo2024_benzoate_T25_C100.0_p05",
+          "Mo2024_benzoate_T25_C100.0_p06"
+        ],
+        "prediction": 0.11786838038146755,
+        "available": true,
+        "raw_q_pp": 1.2283749417795975,
+        "q_pp": 1.2283749417795975,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "46ee13ff182c5a2ec6aad74a",
+        "k": 7,
+        "time_min": 90.20869945097007,
+        "time_over_target": 0.7505700555215088,
+        "input_ids": [
+          "Mo2024_benzoate_T25_C100.0_p01",
+          "Mo2024_benzoate_T25_C100.0_p02",
+          "Mo2024_benzoate_T25_C100.0_p03",
+          "Mo2024_benzoate_T25_C100.0_p04",
+          "Mo2024_benzoate_T25_C100.0_p05",
+          "Mo2024_benzoate_T25_C100.0_p06",
+          "Mo2024_benzoate_T25_C100.0_p07"
+        ],
+        "prediction": 0.12320976690517133,
+        "available": true,
+        "raw_q_pp": 1.0203215691833698,
+        "q_pp": 1.0203215691833698,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_benzoate_T35_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_benzoate_T35_C100.0_p08",
+    "target_time_min": 120.00190253433804,
+    "target_time_lower": 118.50190253433804,
+    "target_time_upper": 121.50190253433804,
+    "pool_count": 7,
+    "t3": 19.891176839214207,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "26b13ba534255cfecc7cb606",
+        "k": 3,
+        "time_min": 19.891176839214207,
+        "time_over_target": 0.16575717900407813,
+        "input_ids": [
+          "Mo2024_benzoate_T35_C100.0_p01",
+          "Mo2024_benzoate_T35_C100.0_p02",
+          "Mo2024_benzoate_T35_C100.0_p03"
+        ],
+        "prediction": 0.07868336995392546,
+        "available": true,
+        "raw_q_pp": 1.8941673469219011,
+        "q_pp": 1.8941673469219011,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6555ff2c5b725eb0dee21062",
+        "k": 4,
+        "time_min": 29.883652360991015,
+        "time_over_target": 0.24902648816288503,
+        "input_ids": [
+          "Mo2024_benzoate_T35_C100.0_p01",
+          "Mo2024_benzoate_T35_C100.0_p02",
+          "Mo2024_benzoate_T35_C100.0_p03",
+          "Mo2024_benzoate_T35_C100.0_p04"
+        ],
+        "prediction": 0.09549133014416149,
+        "available": true,
+        "raw_q_pp": 1.718415134740391,
+        "q_pp": 1.718415134740391,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "12cc571e1cb98f6138de4aea",
+        "k": 5,
+        "time_min": 39.87624059214804,
+        "time_over_target": 0.33229673655163605,
+        "input_ids": [
+          "Mo2024_benzoate_T35_C100.0_p01",
+          "Mo2024_benzoate_T35_C100.0_p02",
+          "Mo2024_benzoate_T35_C100.0_p03",
+          "Mo2024_benzoate_T35_C100.0_p04",
+          "Mo2024_benzoate_T35_C100.0_p05"
+        ],
+        "prediction": 0.10151078227894453,
+        "available": true,
+        "raw_q_pp": 1.516702341224437,
+        "q_pp": 1.516702341224437,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "074a6a60c85eaf0afb2b850a",
+        "k": 6,
+        "time_min": 59.86152976384229,
+        "time_over_target": 0.49883817255908225,
+        "input_ids": [
+          "Mo2024_benzoate_T35_C100.0_p01",
+          "Mo2024_benzoate_T35_C100.0_p02",
+          "Mo2024_benzoate_T35_C100.0_p03",
+          "Mo2024_benzoate_T35_C100.0_p04",
+          "Mo2024_benzoate_T35_C100.0_p05",
+          "Mo2024_benzoate_T35_C100.0_p06"
+        ],
+        "prediction": 0.11000095316846246,
+        "available": true,
+        "raw_q_pp": 1.260418106801199,
+        "q_pp": 1.260418106801199,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "86f2a0b3440af50c09e5f3fd",
+        "k": 7,
+        "time_min": 90.02402513148677,
+        "time_over_target": 0.7501883156038027,
+        "input_ids": [
+          "Mo2024_benzoate_T35_C100.0_p01",
+          "Mo2024_benzoate_T35_C100.0_p02",
+          "Mo2024_benzoate_T35_C100.0_p03",
+          "Mo2024_benzoate_T35_C100.0_p04",
+          "Mo2024_benzoate_T35_C100.0_p05",
+          "Mo2024_benzoate_T35_C100.0_p06",
+          "Mo2024_benzoate_T35_C100.0_p07"
+        ],
+        "prediction": 0.11795573772520485,
+        "available": true,
+        "raw_q_pp": 1.1475903938484693,
+        "q_pp": 1.1475903938484693,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_benzoate_T45_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_benzoate_T45_C100.0_p08",
+    "target_time_min": 120.00224066247868,
+    "target_time_lower": 118.50224066247868,
+    "target_time_upper": 121.50224066247868,
+    "pool_count": 7,
+    "t3": 19.89162767673507,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "9d442abd3ccca00b605a71dd",
+        "k": 3,
+        "time_min": 19.89162767673507,
+        "time_over_target": 0.165760468862267,
+        "input_ids": [
+          "Mo2024_benzoate_T45_C100.0_p01",
+          "Mo2024_benzoate_T45_C100.0_p02",
+          "Mo2024_benzoate_T45_C100.0_p03"
+        ],
+        "prediction": 0.07295295440155979,
+        "available": true,
+        "raw_q_pp": 1.755024008892153,
+        "q_pp": 1.755024008892153,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "086674112184e9a8b42c1eec",
+        "k": 4,
+        "time_min": 29.883652360991015,
+        "time_over_target": 0.24902578648545842,
+        "input_ids": [
+          "Mo2024_benzoate_T45_C100.0_p01",
+          "Mo2024_benzoate_T45_C100.0_p02",
+          "Mo2024_benzoate_T45_C100.0_p03",
+          "Mo2024_benzoate_T45_C100.0_p04"
+        ],
+        "prediction": 0.07665016270956532,
+        "available": true,
+        "raw_q_pp": 1.4191193469698673,
+        "q_pp": 1.4191193469698673,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "feecc3e642848fb3ae1b4b7d",
+        "k": 5,
+        "time_min": 39.875057143655766,
+        "time_over_target": 0.33228593835851244,
+        "input_ids": [
+          "Mo2024_benzoate_T45_C100.0_p01",
+          "Mo2024_benzoate_T45_C100.0_p02",
+          "Mo2024_benzoate_T45_C100.0_p03",
+          "Mo2024_benzoate_T45_C100.0_p04",
+          "Mo2024_benzoate_T45_C100.0_p05"
+        ],
+        "prediction": 0.07901112103348729,
+        "available": true,
+        "raw_q_pp": 1.2059523912928949,
+        "q_pp": 1.2059523912928949,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0cd2c17e4d19c6f3373242f5",
+        "k": 6,
+        "time_min": 59.86152976384229,
+        "time_over_target": 0.49883676699179585,
+        "input_ids": [
+          "Mo2024_benzoate_T45_C100.0_p01",
+          "Mo2024_benzoate_T45_C100.0_p02",
+          "Mo2024_benzoate_T45_C100.0_p03",
+          "Mo2024_benzoate_T45_C100.0_p04",
+          "Mo2024_benzoate_T45_C100.0_p05",
+          "Mo2024_benzoate_T45_C100.0_p06"
+        ],
+        "prediction": 0.0814548069146234,
+        "available": true,
+        "raw_q_pp": 0.9500084792355632,
+        "q_pp": 0.9500084792355632,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5d312cc25898b299b4991f62",
+        "k": 7,
+        "time_min": 90.0243632596274,
+        "time_over_target": 0.7501890194936626,
+        "input_ids": [
+          "Mo2024_benzoate_T45_C100.0_p01",
+          "Mo2024_benzoate_T45_C100.0_p02",
+          "Mo2024_benzoate_T45_C100.0_p03",
+          "Mo2024_benzoate_T45_C100.0_p04",
+          "Mo2024_benzoate_T45_C100.0_p05",
+          "Mo2024_benzoate_T45_C100.0_p06",
+          "Mo2024_benzoate_T45_C100.0_p07"
+        ],
+        "prediction": 0.08443709613234067,
+        "available": true,
+        "raw_q_pp": 0.8130420889237763,
+        "q_pp": 0.8130420889237763,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_bromide_T25_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_bromide_T25_C100.0_p08",
+    "target_time_min": 120.03430956921491,
+    "target_time_lower": 118.53430956921491,
+    "target_time_upper": 121.53430956921491,
+    "pool_count": 7,
+    "t3": 20.110337095742853,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "688d458a645dd381f52d1d14",
+        "k": 3,
+        "time_min": 20.110337095742853,
+        "time_over_target": 0.16753824109053345,
+        "input_ids": [
+          "Mo2024_bromide_T25_C100.0_p01",
+          "Mo2024_bromide_T25_C100.0_p02",
+          "Mo2024_bromide_T25_C100.0_p03"
+        ],
+        "prediction": 0.33046926225903944,
+        "available": true,
+        "raw_q_pp": 2.4673997008503403,
+        "q_pp": 2.4673997008503403,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "f80bbeb775a7e7939cd45259",
+        "k": 4,
+        "time_min": 30.02743638786151,
+        "time_over_target": 0.25015711337554625,
+        "input_ids": [
+          "Mo2024_bromide_T25_C100.0_p01",
+          "Mo2024_bromide_T25_C100.0_p02",
+          "Mo2024_bromide_T25_C100.0_p03",
+          "Mo2024_bromide_T25_C100.0_p04"
+        ],
+        "prediction": 0.3411741312571627,
+        "available": true,
+        "raw_q_pp": 1.8052557603367134,
+        "q_pp": 1.8052557603367134,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "be7ebcb13a89375271c05fdf",
+        "k": 5,
+        "time_min": 40.132815779021584,
+        "time_over_target": 0.33434453801627406,
+        "input_ids": [
+          "Mo2024_bromide_T25_C100.0_p01",
+          "Mo2024_bromide_T25_C100.0_p02",
+          "Mo2024_bromide_T25_C100.0_p03",
+          "Mo2024_bromide_T25_C100.0_p04",
+          "Mo2024_bromide_T25_C100.0_p05"
+        ],
+        "prediction": 0.34796822609012285,
+        "available": true,
+        "raw_q_pp": 1.3973818300453567,
+        "q_pp": 1.3973818300453567,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "01abfaa6bf82866ac3bcf7df",
+        "k": 6,
+        "time_min": 60.15526629352428,
+        "time_over_target": 0.5011506002693104,
+        "input_ids": [
+          "Mo2024_bromide_T25_C100.0_p01",
+          "Mo2024_bromide_T25_C100.0_p02",
+          "Mo2024_bromide_T25_C100.0_p03",
+          "Mo2024_bromide_T25_C100.0_p04",
+          "Mo2024_bromide_T25_C100.0_p05",
+          "Mo2024_bromide_T25_C100.0_p06"
+        ],
+        "prediction": 0.35341448688634336,
+        "available": true,
+        "raw_q_pp": 1.1288755662102479,
+        "q_pp": 1.1288755662102479,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2daab21676a6e6f2c7e11c7a",
+        "k": 7,
+        "time_min": 90.09473159381751,
+        "time_over_target": 0.7505748307892465,
+        "input_ids": [
+          "Mo2024_bromide_T25_C100.0_p01",
+          "Mo2024_bromide_T25_C100.0_p02",
+          "Mo2024_bromide_T25_C100.0_p03",
+          "Mo2024_bromide_T25_C100.0_p04",
+          "Mo2024_bromide_T25_C100.0_p05",
+          "Mo2024_bromide_T25_C100.0_p06",
+          "Mo2024_bromide_T25_C100.0_p07"
+        ],
+        "prediction": 0.3581385019841031,
+        "available": true,
+        "raw_q_pp": 1.0943877035627585,
+        "q_pp": 1.0943877035627585,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_bromide_T35_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_bromide_T35_C100.0_p08",
+    "target_time_min": 119.8489590228815,
+    "target_time_lower": 118.3489590228815,
+    "target_time_upper": 121.3489590228815,
+    "pool_count": 7,
+    "t3": 19.92462035532094,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "707c5ff502e7e78c089881cb",
+        "k": 3,
+        "time_min": 19.92462035532094,
+        "time_over_target": 0.16624775482210857,
+        "input_ids": [
+          "Mo2024_bromide_T35_C100.0_p01",
+          "Mo2024_bromide_T35_C100.0_p02",
+          "Mo2024_bromide_T35_C100.0_p03"
+        ],
+        "prediction": 0.26324285357621213,
+        "available": true,
+        "raw_q_pp": 1.397155604271122,
+        "q_pp": 1.397155604271122,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d4ac9a82526af87d3948b113",
+        "k": 4,
+        "time_min": 29.842057672752063,
+        "time_over_target": 0.24899722046859524,
+        "input_ids": [
+          "Mo2024_bromide_T35_C100.0_p01",
+          "Mo2024_bromide_T35_C100.0_p02",
+          "Mo2024_bromide_T35_C100.0_p03",
+          "Mo2024_bromide_T35_C100.0_p04"
+        ],
+        "prediction": 0.2694548093895687,
+        "available": true,
+        "raw_q_pp": 1.2644908964678063,
+        "q_pp": 1.2644908964678063,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a06a175aa8b472441cae2611",
+        "k": 5,
+        "time_min": 39.946704675735134,
+        "time_over_target": 0.3333087329370006,
+        "input_ids": [
+          "Mo2024_bromide_T35_C100.0_p01",
+          "Mo2024_bromide_T35_C100.0_p02",
+          "Mo2024_bromide_T35_C100.0_p03",
+          "Mo2024_bromide_T35_C100.0_p04",
+          "Mo2024_bromide_T35_C100.0_p05"
+        ],
+        "prediction": 0.27516940433643217,
+        "available": true,
+        "raw_q_pp": 1.207734476530061,
+        "q_pp": 1.207734476530061,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "9a52791d02ca0cf7b75612ef",
+        "k": 6,
+        "time_min": 59.96912702146179,
+        "time_over_target": 0.5003725314794976,
+        "input_ids": [
+          "Mo2024_bromide_T35_C100.0_p01",
+          "Mo2024_bromide_T35_C100.0_p02",
+          "Mo2024_bromide_T35_C100.0_p03",
+          "Mo2024_bromide_T35_C100.0_p04",
+          "Mo2024_bromide_T35_C100.0_p05",
+          "Mo2024_bromide_T35_C100.0_p06"
+        ],
+        "prediction": 0.27968446786439793,
+        "available": true,
+        "raw_q_pp": 0.9718987367080458,
+        "q_pp": 0.9718987367080458,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0fa1f957a5234469caa0078c",
+        "k": 7,
+        "time_min": 89.90904302217164,
+        "time_over_target": 0.7501862657397488,
+        "input_ids": [
+          "Mo2024_bromide_T35_C100.0_p01",
+          "Mo2024_bromide_T35_C100.0_p02",
+          "Mo2024_bromide_T35_C100.0_p03",
+          "Mo2024_bromide_T35_C100.0_p04",
+          "Mo2024_bromide_T35_C100.0_p05",
+          "Mo2024_bromide_T35_C100.0_p06",
+          "Mo2024_bromide_T35_C100.0_p07"
+        ],
+        "prediction": 0.28472124665874343,
+        "available": true,
+        "raw_q_pp": 1.0236156525528601,
+        "q_pp": 1.0236156525528601,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Mo2024_bromide_T45_C100.0",
+    "source_id": "Mo2024",
+    "doi": "10.5650/jos.ess23174",
+    "family": "Beijing_Technology_Business_University_Liu_Xu",
+    "canonical_group_id": "Beijing_Technology_Business_University_Liu_Xu",
+    "target_point_id": "Mo2024_bromide_T45_C100.0_p08",
+    "target_time_min": 119.84867733512111,
+    "target_time_lower": 118.34867733512111,
+    "target_time_upper": 121.34867733512111,
+    "pool_count": 7,
+    "t3": 19.92388796714394,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "8d15e4484c283938792a682f",
+        "k": 3,
+        "time_min": 19.92388796714394,
+        "time_over_target": 0.16624203462365067,
+        "input_ids": [
+          "Mo2024_bromide_T45_C100.0_p01",
+          "Mo2024_bromide_T45_C100.0_p02",
+          "Mo2024_bromide_T45_C100.0_p03"
+        ],
+        "prediction": 0.2555385871393944,
+        "available": true,
+        "raw_q_pp": 1.5677360672320642,
+        "q_pp": 1.5677360672320642,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "7d9ba91005cfe4b45793e9b7",
+        "k": 4,
+        "time_min": 29.84132528457506,
+        "time_over_target": 0.24899169476132546,
+        "input_ids": [
+          "Mo2024_bromide_T45_C100.0_p01",
+          "Mo2024_bromide_T45_C100.0_p02",
+          "Mo2024_bromide_T45_C100.0_p03",
+          "Mo2024_bromide_T45_C100.0_p04"
+        ],
+        "prediction": 0.26134165491613803,
+        "available": true,
+        "raw_q_pp": 1.2676353325187717,
+        "q_pp": 1.2676353325187717,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "cd2053ef72d24847a7aca6cb",
+        "k": 5,
+        "time_min": 39.945972287558135,
+        "time_over_target": 0.3333034053922942,
+        "input_ids": [
+          "Mo2024_bromide_T45_C100.0_p01",
+          "Mo2024_bromide_T45_C100.0_p02",
+          "Mo2024_bromide_T45_C100.0_p03",
+          "Mo2024_bromide_T45_C100.0_p04",
+          "Mo2024_bromide_T45_C100.0_p05"
+        ],
+        "prediction": 0.26479448659191673,
+        "available": true,
+        "raw_q_pp": 1.0843842120556633,
+        "q_pp": 1.0843842120556633,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6354de6dadb927e05d2009a1",
+        "k": 6,
+        "time_min": 59.96991574719087,
+        "time_over_target": 0.500380288549225,
+        "input_ids": [
+          "Mo2024_bromide_T45_C100.0_p01",
+          "Mo2024_bromide_T45_C100.0_p02",
+          "Mo2024_bromide_T45_C100.0_p03",
+          "Mo2024_bromide_T45_C100.0_p04",
+          "Mo2024_bromide_T45_C100.0_p05",
+          "Mo2024_bromide_T45_C100.0_p06"
+        ],
+        "prediction": 0.2666020428664409,
+        "available": true,
+        "raw_q_pp": 0.7881745252421795,
+        "q_pp": 0.7881745252421795,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a1937c70108ce635a1d660b4",
+        "k": 7,
+        "time_min": 89.90831063399465,
+        "time_over_target": 0.7501819180080965,
+        "input_ids": [
+          "Mo2024_bromide_T45_C100.0_p01",
+          "Mo2024_bromide_T45_C100.0_p02",
+          "Mo2024_bromide_T45_C100.0_p03",
+          "Mo2024_bromide_T45_C100.0_p04",
+          "Mo2024_bromide_T45_C100.0_p05",
+          "Mo2024_bromide_T45_C100.0_p06",
+          "Mo2024_bromide_T45_C100.0_p07"
+        ],
+        "prediction": 0.268918277813353,
+        "available": true,
+        "raw_q_pp": 0.7223058013565968,
+        "q_pp": 0.7223058013565968,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Bhatt2012_BNTOC_C488",
+    "source_id": "Bhatt2012",
+    "doi": "10.1039/c2ra20347b",
+    "family": "India_CSMCRI_Bhatt_Paul",
+    "canonical_group_id": "India_CSMCRI_Bhatt_Paul",
+    "target_point_id": "Bhatt2012_BNTOC_C488_p05",
+    "target_time_min": 120.99087353324641,
+    "target_time_lower": 114.73272490221643,
+    "target_time_upper": 127.2490221642764,
+    "pool_count": 4,
+    "t3": 30.247718383311604,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "2a66bb45ff37680424b5ed4b",
+        "k": 3,
+        "time_min": 30.247718383311604,
+        "time_over_target": 0.25,
+        "input_ids": [
+          "Bhatt2012_BNTOC_C488_p01",
+          "Bhatt2012_BNTOC_C488_p02",
+          "Bhatt2012_BNTOC_C488_p03"
+        ],
+        "prediction": 0.6458591286612835,
+        "available": true,
+        "raw_q_pp": 4.045000519457832,
+        "q_pp": 4.045000519457832,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b236a8d7bcab2c80639800cb",
+        "k": 4,
+        "time_min": 60.49543676662321,
+        "time_over_target": 0.5,
+        "input_ids": [
+          "Bhatt2012_BNTOC_C488_p01",
+          "Bhatt2012_BNTOC_C488_p02",
+          "Bhatt2012_BNTOC_C488_p03",
+          "Bhatt2012_BNTOC_C488_p04"
+        ],
+        "prediction": 0.6554470514733886,
+        "available": true,
+        "raw_q_pp": 2.1419810022390116,
+        "q_pp": 2.1419810022390116,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ouachtak2021_CTAB_Mt_1CEC_OrangeG_C100",
+    "source_id": "Ouachtak2021",
+    "doi": "10.1016/j.molliq.2021.116560",
+    "family": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "canonical_group_id": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "target_point_id": "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_10",
+    "target_time_min": 120.0138092096659,
+    "target_time_lower": 119.45840014247261,
+    "target_time_upper": 120.56921827685917,
+    "pool_count": 10,
+    "t3": 9.991292860556545,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "c4fe7d69eec82850515621ae",
+        "k": 3,
+        "time_min": 9.991292860556545,
+        "time_over_target": 0.08325119356141433,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02"
+        ],
+        "prediction": 0.9885124601974508,
+        "available": true,
+        "raw_q_pp": 2.01922152465373,
+        "q_pp": 2.01922152465373,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e9d233540d1b2fa17ba8c967",
+        "k": 4,
+        "time_min": 15.007152255937324,
+        "time_over_target": 0.12504521233652044,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03"
+        ],
+        "prediction": 0.9889885263588548,
+        "available": true,
+        "raw_q_pp": 1.1271556674006815,
+        "q_pp": 1.1271556674006815,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b96f962706c8e0d355b63edf",
+        "k": 5,
+        "time_min": 19.98057566690287,
+        "time_over_target": 0.16648563859844254,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04"
+        ],
+        "prediction": 0.9892214808257976,
+        "available": true,
+        "raw_q_pp": 1.073677920782591,
+        "q_pp": 1.073677920782591,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d749d0e7ea709fc184a6fda5",
+        "k": 6,
+        "time_min": 29.971892442001117,
+        "time_over_target": 0.24973703142477363,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_05"
+        ],
+        "prediction": 0.9893055936653189,
+        "available": true,
+        "raw_q_pp": 0.9123930469589129,
+        "q_pp": 0.9123930469589129,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5be995575ebdae15cc2207a7",
+        "k": 7,
+        "time_min": 40.003580415054316,
+        "time_over_target": 0.33332481219029947,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_06"
+        ],
+        "prediction": 0.9893363725298211,
+        "available": true,
+        "raw_q_pp": 0.8799050179565815,
+        "q_pp": 0.8799050179565815,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ff6d87f1a6e3679d79555031",
+        "k": 8,
+        "time_min": 49.99591417452854,
+        "time_over_target": 0.4165846789112821,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_07"
+        ],
+        "prediction": 0.9893557090950861,
+        "available": true,
+        "raw_q_pp": 0.8665734799945074,
+        "q_pp": 0.8665734799945074,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0d5ac8e7b32fc5ea5295160b",
+        "k": 9,
+        "time_min": 59.98519698087485,
+        "time_over_target": 0.49981912394831024,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_08"
+        ],
+        "prediction": 0.9893509079014396,
+        "available": true,
+        "raw_q_pp": 1.1862763594668986,
+        "q_pp": 1.1862763594668986,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "cd8fa2a9c2118aae1e2b027a",
+        "k": 10,
+        "time_min": 89.99999617860418,
+        "time_over_target": 0.7499136705291377,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_08",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C100_09"
+        ],
+        "prediction": 0.9893462798818025,
+        "available": true,
+        "raw_q_pp": 0.7583525958063202,
+        "q_pp": 0.7583525958063202,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ouachtak2021_CTAB_Mt_1CEC_OrangeG_C125",
+    "source_id": "Ouachtak2021",
+    "doi": "10.1016/j.molliq.2021.116560",
+    "family": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "canonical_group_id": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "target_point_id": "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_10",
+    "target_time_min": 120.0138092096659,
+    "target_time_lower": 119.45840014247261,
+    "target_time_upper": 120.56921827685917,
+    "pool_count": 10,
+    "t3": 9.991292860556545,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "7b1267547065ae7997b421f5",
+        "k": 3,
+        "time_min": 9.991292860556545,
+        "time_over_target": 0.08325119356141433,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02"
+        ],
+        "prediction": 0.9827804431681779,
+        "available": true,
+        "raw_q_pp": 5.495004471449037,
+        "q_pp": 5.495004471449037,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "bf5d35e77ae56cdb2f9d25e1",
+        "k": 4,
+        "time_min": 15.007152255937324,
+        "time_over_target": 0.12504521233652044,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03"
+        ],
+        "prediction": 0.9831046723845355,
+        "available": true,
+        "raw_q_pp": 4.556573095874491,
+        "q_pp": 4.556573095874491,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "85412a4d953feebc9b25aa23",
+        "k": 5,
+        "time_min": 19.98057566690287,
+        "time_over_target": 0.16648563859844254,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04"
+        ],
+        "prediction": 0.9831294608838382,
+        "available": true,
+        "raw_q_pp": 4.67242520216932,
+        "q_pp": 4.67242520216932,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "997f0403c5d35ffc028f99ce",
+        "k": 6,
+        "time_min": 29.971892442001117,
+        "time_over_target": 0.24973703142477363,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_05"
+        ],
+        "prediction": 0.9829397864555471,
+        "available": true,
+        "raw_q_pp": 3.760041866923594,
+        "q_pp": 3.760041866923594,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "06fe9d9d1b7d85f38cea8da5",
+        "k": 7,
+        "time_min": 40.003580415054316,
+        "time_over_target": 0.33332481219029947,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_06"
+        ],
+        "prediction": 0.9758719155990566,
+        "available": true,
+        "raw_q_pp": 3.8198089720921167,
+        "q_pp": 3.8198089720921167,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "90761852410b881cb564a33d",
+        "k": 8,
+        "time_min": 49.99591417452854,
+        "time_over_target": 0.4165846789112821,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_07"
+        ],
+        "prediction": 0.9635160583843023,
+        "available": true,
+        "raw_q_pp": 3.5629154901210085,
+        "q_pp": 3.5629154901210085,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "1909f7f8c0aad30386c901ab",
+        "k": 9,
+        "time_min": 59.98519698087485,
+        "time_over_target": 0.49981912394831024,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_08"
+        ],
+        "prediction": 0.9548166768923873,
+        "available": true,
+        "raw_q_pp": 3.215459774640469,
+        "q_pp": 3.215459774640469,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ce9172064ccb4a38ea9c4f28",
+        "k": 10,
+        "time_min": 89.99999617860418,
+        "time_over_target": 0.7499136705291377,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_08",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C125_09"
+        ],
+        "prediction": 0.946851289251478,
+        "available": true,
+        "raw_q_pp": 2.293423356708849,
+        "q_pp": 2.293423356708849,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Ouachtak2021_CTAB_Mt_1CEC_OrangeG_C150",
+    "source_id": "Ouachtak2021",
+    "doi": "10.1016/j.molliq.2021.116560",
+    "family": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "canonical_group_id": "Morocco_IbnZohr_Lisbon_Ouachtak_Taha",
+    "target_point_id": "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_10",
+    "target_time_min": 120.0138092096659,
+    "target_time_lower": 119.45840014247261,
+    "target_time_upper": 120.56921827685917,
+    "pool_count": 10,
+    "t3": 9.991292860556545,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "6706cd971fd66cdcdacf60e9",
+        "k": 3,
+        "time_min": 9.991292860556545,
+        "time_over_target": 0.08325119356141433,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02"
+        ],
+        "prediction": 0.9377833765520401,
+        "available": true,
+        "raw_q_pp": 5.508256862824069,
+        "q_pp": 5.508256862824069,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "4fbbe5104285108a8ac54523",
+        "k": 4,
+        "time_min": 15.007152255937324,
+        "time_over_target": 0.12504521233652044,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03"
+        ],
+        "prediction": 0.895900105280813,
+        "available": true,
+        "raw_q_pp": 5.25707572443071,
+        "q_pp": 5.25707572443071,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "aac76471aafc800926ffcb11",
+        "k": 5,
+        "time_min": 19.98057566690287,
+        "time_over_target": 0.16648563859844254,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04"
+        ],
+        "prediction": 0.880257394839374,
+        "available": true,
+        "raw_q_pp": 4.866556200619394,
+        "q_pp": 4.866556200619394,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d363a913453ea9d84eaa87cf",
+        "k": 6,
+        "time_min": 29.971892442001117,
+        "time_over_target": 0.24973703142477363,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_05"
+        ],
+        "prediction": 0.8718150451527054,
+        "available": true,
+        "raw_q_pp": 3.754344962677156,
+        "q_pp": 3.754344962677156,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "0b6dd0ed3e92f1c648cd3332",
+        "k": 7,
+        "time_min": 40.003580415054316,
+        "time_over_target": 0.33332481219029947,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_06"
+        ],
+        "prediction": 0.8663814327368855,
+        "available": true,
+        "raw_q_pp": 3.1826526587059667,
+        "q_pp": 3.1826526587059667,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ef2c1fe16125b85e041983ec",
+        "k": 8,
+        "time_min": 49.99591417452854,
+        "time_over_target": 0.4165846789112821,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_07"
+        ],
+        "prediction": 0.8617942311676858,
+        "available": true,
+        "raw_q_pp": 2.745639878263991,
+        "q_pp": 2.745639878263991,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "95522be4b756caf398902692",
+        "k": 9,
+        "time_min": 59.98519698087485,
+        "time_over_target": 0.49981912394831024,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_08"
+        ],
+        "prediction": 0.8581799111436168,
+        "available": true,
+        "raw_q_pp": 2.302164815848367,
+        "q_pp": 2.302164815848367,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "369d08560c91e738e66a045c",
+        "k": 10,
+        "time_min": 89.99999617860418,
+        "time_over_target": 0.7499136705291377,
+        "input_ids": [
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_00",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_01",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_02",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_03",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_04",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_05",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_06",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_07",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_08",
+          "P19_N03_CTAB_Mt_1CEC_OrangeG_C150_09"
+        ],
+        "prediction": 0.8545737805056968,
+        "available": true,
+        "raw_q_pp": 1.613471699704678,
+        "q_pp": 1.613471699704678,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Khenifi2007_new_condition_T60",
+    "source_id": "Zohra2008_CEJ",
+    "doi": "10.1016/j.cej.2007.03.086",
+    "family": "Algeria_USTOran_Khenifi_Derriche",
+    "canonical_group_id": "Algeria_USTOran_Khenifi_Derriche",
+    "target_point_id": "Khenifi2007_new_condition_T60_p12",
+    "target_time_min": 119.89984792371084,
+    "target_time_lower": 119.61959158699182,
+    "target_time_upper": 120.18010426042986,
+    "pool_count": 11,
+    "t3": 15.08397799079593,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "dec1c0b14577d8bb33b9b091",
+        "k": 3,
+        "time_min": 15.08397799079593,
+        "time_over_target": 0.12580481336718186,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03"
+        ],
+        "prediction": 0.8225081208447267,
+        "available": true,
+        "raw_q_pp": 3.85129351975256,
+        "q_pp": 3.85129351975256,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ca9577d7dd9f185173b2ad4d",
+        "k": 4,
+        "time_min": 19.98846388337885,
+        "time_over_target": 0.1667096683566854,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04"
+        ],
+        "prediction": 0.8352109509220218,
+        "available": true,
+        "raw_q_pp": 4.301801902264145,
+        "q_pp": 4.301801902264145,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "1f23398c2fe0e227d400b969",
+        "k": 5,
+        "time_min": 25.033077944321278,
+        "time_over_target": 0.20878323348874617,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05"
+        ],
+        "prediction": 0.8370659898523178,
+        "available": true,
+        "raw_q_pp": 3.7314428774033455,
+        "q_pp": 3.7314428774033455,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2dca5a24b1bf6b71a6cea629",
+        "k": 6,
+        "time_min": 30.077692005263707,
+        "time_over_target": 0.25085679862080695,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06"
+        ],
+        "prediction": 0.8432158558318497,
+        "available": true,
+        "raw_q_pp": 2.8872031353239236,
+        "q_pp": 2.8872031353239236,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "605da493e96862e028b766d4",
+        "k": 7,
+        "time_min": 40.026791958789055,
+        "time_over_target": 0.33383521874237126,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06",
+          "Khenifi2007_new_condition_T60_p07"
+        ],
+        "prediction": 0.8512778875936582,
+        "available": true,
+        "raw_q_pp": 1.7381383485367738,
+        "q_pp": 1.7381383485367738,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "43706cd98c28848d615b806a",
+        "k": 8,
+        "time_min": 49.835763743954885,
+        "time_over_target": 0.41564492872137826,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06",
+          "Khenifi2007_new_condition_T60_p07",
+          "Khenifi2007_new_condition_T60_p08"
+        ],
+        "prediction": 0.8548659078911881,
+        "available": true,
+        "raw_q_pp": 1.5191407634355412,
+        "q_pp": 1.5191407634355412,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "cd9d3d9e6932f3c878e992f0",
+        "k": 9,
+        "time_min": 64.96960592678218,
+        "time_over_target": 0.5418656241175607,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06",
+          "Khenifi2007_new_condition_T60_p07",
+          "Khenifi2007_new_condition_T60_p08",
+          "Khenifi2007_new_condition_T60_p09"
+        ],
+        "prediction": 0.8577540440485162,
+        "available": true,
+        "raw_q_pp": 1.161645615079865,
+        "q_pp": 1.161645615079865,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "3a74be301937a4e0e18b9cc9",
+        "k": 10,
+        "time_min": 80.10344810960946,
+        "time_over_target": 0.6680863195137429,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06",
+          "Khenifi2007_new_condition_T60_p07",
+          "Khenifi2007_new_condition_T60_p08",
+          "Khenifi2007_new_condition_T60_p09",
+          "Khenifi2007_new_condition_T60_p10"
+        ],
+        "prediction": 0.8584047921838123,
+        "available": true,
+        "raw_q_pp": 0.8935543261735789,
+        "q_pp": 0.8935543261735789,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "1a9ad4221b07fdd992d0d681",
+        "k": 11,
+        "time_min": 100.00164801666016,
+        "time_over_target": 0.8340431597568715,
+        "input_ids": [
+          "Khenifi2007_new_condition_T60_p01",
+          "Khenifi2007_new_condition_T60_p02",
+          "Khenifi2007_new_condition_T60_p03",
+          "Khenifi2007_new_condition_T60_p04",
+          "Khenifi2007_new_condition_T60_p05",
+          "Khenifi2007_new_condition_T60_p06",
+          "Khenifi2007_new_condition_T60_p07",
+          "Khenifi2007_new_condition_T60_p08",
+          "Khenifi2007_new_condition_T60_p09",
+          "Khenifi2007_new_condition_T60_p10",
+          "Khenifi2007_new_condition_T60_p11"
+        ],
+        "prediction": 0.8590003875293678,
+        "available": true,
+        "raw_q_pp": 0.8626388733391982,
+        "q_pp": 0.8626388733391982,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Zheng2026_XO_MMT5_T25",
+    "source_id": "Zheng2026",
+    "doi": "10.1016/j.dwt.2025.101595",
+    "family": "China_Weifang_Qingdao_Changzhou_Zheng_Li_Zhang",
+    "canonical_group_id": "China_Weifang_Qingdao_Changzhou_Zheng_Li_Zhang",
+    "target_point_id": "Zheng2026_XO_MMT5_T25_p09",
+    "target_time_min": 120.1789113612338,
+    "target_time_lower": 119.23131891372525,
+    "target_time_upper": 121.12650380874236,
+    "pool_count": 8,
+    "t3": 5.060082699339379,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "d7862f4ec107319c3c30a54d",
+        "k": 3,
+        "time_min": 5.060082699339379,
+        "time_over_target": 0.04210458092876029,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03"
+        ],
+        "prediction": 0.9922128643879083,
+        "available": true,
+        "raw_q_pp": 4.9926427624851355,
+        "q_pp": 4.9926427624851355,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "77f6692957d1d9ef3a689d8d",
+        "k": 4,
+        "time_min": 10.023993178308139,
+        "time_over_target": 0.0834089197910773,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03",
+          "Zheng2026_XO_MMT5_T25_p04"
+        ],
+        "prediction": 0.9922147270745475,
+        "available": true,
+        "raw_q_pp": 4.346624269247124,
+        "q_pp": 4.346624269247124,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "f96531db311f6e4c36979e89",
+        "k": 5,
+        "time_min": 19.98881309651251,
+        "time_over_target": 0.16632546317906083,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03",
+          "Zheng2026_XO_MMT5_T25_p04",
+          "Zheng2026_XO_MMT5_T25_p05"
+        ],
+        "prediction": 0.9921940107787394,
+        "available": true,
+        "raw_q_pp": 3.4334691529977763,
+        "q_pp": 3.4334691529977763,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c1ff3344901a718781491342",
+        "k": 6,
+        "time_min": 29.84411282528116,
+        "time_over_target": 0.24833069701867844,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03",
+          "Zheng2026_XO_MMT5_T25_p04",
+          "Zheng2026_XO_MMT5_T25_p05",
+          "Zheng2026_XO_MMT5_T25_p06"
+        ],
+        "prediction": 0.9906410557315006,
+        "available": true,
+        "raw_q_pp": 2.723662842946325,
+        "q_pp": 2.723662842946325,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "768a92cf67c344658f436132",
+        "k": 7,
+        "time_min": 60.048557969243504,
+        "time_over_target": 0.499659693111627,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03",
+          "Zheng2026_XO_MMT5_T25_p04",
+          "Zheng2026_XO_MMT5_T25_p05",
+          "Zheng2026_XO_MMT5_T25_p06",
+          "Zheng2026_XO_MMT5_T25_p07"
+        ],
+        "prediction": 0.9833144725460817,
+        "available": true,
+        "raw_q_pp": 2.0806083250416476,
+        "q_pp": 2.0806083250416476,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "8f29e02441c7f4c194889224",
+        "k": 8,
+        "time_min": 90.17485550936354,
+        "time_over_target": 0.75033842866421,
+        "input_ids": [
+          "Zheng2026_XO_MMT5_T25_p01",
+          "Zheng2026_XO_MMT5_T25_p02",
+          "Zheng2026_XO_MMT5_T25_p03",
+          "Zheng2026_XO_MMT5_T25_p04",
+          "Zheng2026_XO_MMT5_T25_p05",
+          "Zheng2026_XO_MMT5_T25_p06",
+          "Zheng2026_XO_MMT5_T25_p07",
+          "Zheng2026_XO_MMT5_T25_p08"
+        ],
+        "prediction": 0.978601251144946,
+        "available": true,
+        "raw_q_pp": 1.34253661653089,
+        "q_pp": 1.34253661653089,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig9_curve1_IC_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig9_curve1_IC_rho0p5_p10",
+    "target_time_min": 120.16028576073515,
+    "target_time_lower": 119.47990480765439,
+    "target_time_upper": 120.8406667138159,
+    "pool_count": 9,
+    "t3": 30.00980947753515,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "98891a04c73c634930ec281f",
+        "k": 3,
+        "time_min": 30.00980947753515,
+        "time_over_target": 0.24974815337316278,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03"
+        ],
+        "prediction": 0.6358150156744607,
+        "available": true,
+        "raw_q_pp": 3.560217749926658,
+        "q_pp": 3.560217749926658,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "bdfbc3bcad5c628c1e79fe1d",
+        "k": 4,
+        "time_min": 35.11266662564082,
+        "time_over_target": 0.2922152390312857,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04"
+        ],
+        "prediction": 0.6300561052823304,
+        "available": true,
+        "raw_q_pp": 4.087890033160782,
+        "q_pp": 4.087890033160782,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "29c3daee5f8ab2d4b4054768",
+        "k": 5,
+        "time_min": 40.215523773746476,
+        "time_over_target": 0.33468232468940856,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04",
+          "Shen2009_fig9_curve1_IC_rho0p5_p05"
+        ],
+        "prediction": 0.6003795390759468,
+        "available": true,
+        "raw_q_pp": 4.083070781413406,
+        "q_pp": 4.083070781413406,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "dbd8abad3e2df45b11e08e94",
+        "k": 6,
+        "time_min": 50.081047593417416,
+        "time_over_target": 0.4167853569617794,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04",
+          "Shen2009_fig9_curve1_IC_rho0p5_p05",
+          "Shen2009_fig9_curve1_IC_rho0p5_p06"
+        ],
+        "prediction": 0.5351197802036206,
+        "available": true,
+        "raw_q_pp": 3.6231938952131872,
+        "q_pp": 3.6231938952131872,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a0f15b39e681b536cccd4e77",
+        "k": 7,
+        "time_min": 59.94657141308836,
+        "time_over_target": 0.49888838923415024,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04",
+          "Shen2009_fig9_curve1_IC_rho0p5_p05",
+          "Shen2009_fig9_curve1_IC_rho0p5_p06",
+          "Shen2009_fig9_curve1_IC_rho0p5_p07"
+        ],
+        "prediction": 0.49758897211541314,
+        "available": true,
+        "raw_q_pp": 3.392201726163443,
+        "q_pp": 3.392201726163443,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "da9f54a106bc050e5aa59a27",
+        "k": 8,
+        "time_min": 80.01780952897062,
+        "time_over_target": 0.6659255928227668,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04",
+          "Shen2009_fig9_curve1_IC_rho0p5_p05",
+          "Shen2009_fig9_curve1_IC_rho0p5_p06",
+          "Shen2009_fig9_curve1_IC_rho0p5_p07",
+          "Shen2009_fig9_curve1_IC_rho0p5_p08"
+        ],
+        "prediction": 0.46282182748330375,
+        "available": true,
+        "raw_q_pp": 2.2107036218683267,
+        "q_pp": 2.2107036218683267,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ede992ec5f1e91790924f0c7",
+        "k": 9,
+        "time_min": 100.08904764485288,
+        "time_over_target": 0.8329627964113834,
+        "input_ids": [
+          "Shen2009_fig9_curve1_IC_rho0p5_p01",
+          "Shen2009_fig9_curve1_IC_rho0p5_p02",
+          "Shen2009_fig9_curve1_IC_rho0p5_p03",
+          "Shen2009_fig9_curve1_IC_rho0p5_p04",
+          "Shen2009_fig9_curve1_IC_rho0p5_p05",
+          "Shen2009_fig9_curve1_IC_rho0p5_p06",
+          "Shen2009_fig9_curve1_IC_rho0p5_p07",
+          "Shen2009_fig9_curve1_IC_rho0p5_p08",
+          "Shen2009_fig9_curve1_IC_rho0p5_p09"
+        ],
+        "prediction": 0.4409084722440058,
+        "available": true,
+        "raw_q_pp": 1.9477374195554873,
+        "q_pp": 1.9477374195554873,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig9_curve2_ATB2G_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig9_curve2_ATB2G_rho0p5_p10",
+    "target_time_min": 120.16028576073515,
+    "target_time_lower": 119.47990480765439,
+    "target_time_upper": 120.8406667138159,
+    "pool_count": 9,
+    "t3": 30.00980947753515,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "7b0b1412de0bc4f23e744ad0",
+        "k": 3,
+        "time_min": 30.00980947753515,
+        "time_over_target": 0.24974815337316278,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03"
+        ],
+        "prediction": 0.38703127089066597,
+        "available": true,
+        "raw_q_pp": 3.906146677530613,
+        "q_pp": 3.906146677530613,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "7381fc83933af69aff781755",
+        "k": 4,
+        "time_min": 35.11266662564082,
+        "time_over_target": 0.2922152390312857,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04"
+        ],
+        "prediction": 0.3899807443196206,
+        "available": true,
+        "raw_q_pp": 3.897030073820357,
+        "q_pp": 3.897030073820357,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6f69a3f5aa87d0c14c3155f1",
+        "k": 5,
+        "time_min": 40.215523773746476,
+        "time_over_target": 0.33468232468940856,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p05"
+        ],
+        "prediction": 0.40015575489967153,
+        "available": true,
+        "raw_q_pp": 3.7574291558038815,
+        "q_pp": 3.7574291558038815,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a8fffc9d913cb3fa886f64c6",
+        "k": 6,
+        "time_min": 50.081047593417416,
+        "time_over_target": 0.4167853569617794,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p05",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p06"
+        ],
+        "prediction": 0.40656887921838963,
+        "available": true,
+        "raw_q_pp": 3.356115467228943,
+        "q_pp": 3.356115467228943,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d171735e51e5297f1ac986a2",
+        "k": 7,
+        "time_min": 60.28676188962873,
+        "time_over_target": 0.501719528278025,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p05",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p06",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p07"
+        ],
+        "prediction": 0.40293365394910385,
+        "available": true,
+        "raw_q_pp": 2.8918331743105163,
+        "q_pp": 2.8918331743105163,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ecff2e2f6ac99a8fedb114f0",
+        "k": 8,
+        "time_min": 80.01780952897062,
+        "time_over_target": 0.6659255928227668,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p05",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p06",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p07",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p08"
+        ],
+        "prediction": 0.39888331448458336,
+        "available": true,
+        "raw_q_pp": 1.674739379102213,
+        "q_pp": 1.674739379102213,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "cd09dd01dfe8d74a2297bdbf",
+        "k": 9,
+        "time_min": 100.08904764485288,
+        "time_over_target": 0.8329627964113834,
+        "input_ids": [
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p01",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p02",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p03",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p04",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p05",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p06",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p07",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p08",
+          "Shen2009_fig9_curve2_ATB2G_rho0p5_p09"
+        ],
+        "prediction": 0.3989744807139523,
+        "available": true,
+        "raw_q_pp": 1.5799487233136569,
+        "q_pp": 1.5799487233136569,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig9_curve3_IC_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig9_curve3_IC_rho0p5_p10",
+    "target_time_min": 120.16028576073515,
+    "target_time_lower": 119.47990480765439,
+    "target_time_upper": 120.8406667138159,
+    "pool_count": 9,
+    "t3": 30.00980947753515,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "e381ad21e3698906b06de1a4",
+        "k": 3,
+        "time_min": 30.00980947753515,
+        "time_over_target": 0.24974815337316278,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03"
+        ],
+        "prediction": 0.6223732057403724,
+        "available": true,
+        "raw_q_pp": 3.6126903076584465,
+        "q_pp": 3.6126903076584465,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "cea637ff747dd2a1fc3e19ce",
+        "k": 4,
+        "time_min": 35.11266662564082,
+        "time_over_target": 0.2922152390312857,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04"
+        ],
+        "prediction": 0.6001315433226186,
+        "available": true,
+        "raw_q_pp": 4.124227046562391,
+        "q_pp": 4.124227046562391,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a2c8324df48b9d9eaa222526",
+        "k": 5,
+        "time_min": 40.215523773746476,
+        "time_over_target": 0.33468232468940856,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04",
+          "Shen2009_fig9_curve3_IC_rho0p5_p05"
+        ],
+        "prediction": 0.571144924793423,
+        "available": true,
+        "raw_q_pp": 4.084772531786604,
+        "q_pp": 4.084772531786604,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e2a028373e7d84c7c9ecb34c",
+        "k": 6,
+        "time_min": 50.081047593417416,
+        "time_over_target": 0.4167853569617794,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04",
+          "Shen2009_fig9_curve3_IC_rho0p5_p05",
+          "Shen2009_fig9_curve3_IC_rho0p5_p06"
+        ],
+        "prediction": 0.5519752993724529,
+        "available": true,
+        "raw_q_pp": 3.404858140472108,
+        "q_pp": 3.404858140472108,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "254f3f1479f8fe47c9a23581",
+        "k": 7,
+        "time_min": 60.28676188962873,
+        "time_over_target": 0.501719528278025,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04",
+          "Shen2009_fig9_curve3_IC_rho0p5_p05",
+          "Shen2009_fig9_curve3_IC_rho0p5_p06",
+          "Shen2009_fig9_curve3_IC_rho0p5_p07"
+        ],
+        "prediction": 0.5389471746679875,
+        "available": true,
+        "raw_q_pp": 3.0223447084623247,
+        "q_pp": 3.0223447084623247,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "64403eb9789e299c714ea95e",
+        "k": 8,
+        "time_min": 80.01780952897062,
+        "time_over_target": 0.6659255928227668,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04",
+          "Shen2009_fig9_curve3_IC_rho0p5_p05",
+          "Shen2009_fig9_curve3_IC_rho0p5_p06",
+          "Shen2009_fig9_curve3_IC_rho0p5_p07",
+          "Shen2009_fig9_curve3_IC_rho0p5_p08"
+        ],
+        "prediction": 0.5314434761830741,
+        "available": true,
+        "raw_q_pp": 1.8327654902948614,
+        "q_pp": 1.8327654902948614,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "9097b5ed3511785d566dc40b",
+        "k": 9,
+        "time_min": 100.08904764485288,
+        "time_over_target": 0.8329627964113834,
+        "input_ids": [
+          "Shen2009_fig9_curve3_IC_rho0p5_p01",
+          "Shen2009_fig9_curve3_IC_rho0p5_p02",
+          "Shen2009_fig9_curve3_IC_rho0p5_p03",
+          "Shen2009_fig9_curve3_IC_rho0p5_p04",
+          "Shen2009_fig9_curve3_IC_rho0p5_p05",
+          "Shen2009_fig9_curve3_IC_rho0p5_p06",
+          "Shen2009_fig9_curve3_IC_rho0p5_p07",
+          "Shen2009_fig9_curve3_IC_rho0p5_p08",
+          "Shen2009_fig9_curve3_IC_rho0p5_p09"
+        ],
+        "prediction": 0.5231003138618189,
+        "available": true,
+        "raw_q_pp": 1.7030613556895409,
+        "q_pp": 1.7030613556895409,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig9_curve4_ASGR_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig9_curve4_ASGR_rho0p5_p10",
+    "target_time_min": 120.16028576073515,
+    "target_time_lower": 119.47990480765439,
+    "target_time_upper": 120.8406667138159,
+    "pool_count": 9,
+    "t3": 30.349999954075535,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "a7884a9eac78ff9b9c5ad460",
+        "k": 3,
+        "time_min": 30.349999954075535,
+        "time_over_target": 0.2525792924170377,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03"
+        ],
+        "prediction": 0.6707583013522809,
+        "available": true,
+        "raw_q_pp": 4.4858426894112995,
+        "q_pp": 4.4858426894112995,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "47a91b33674aa080d63f8bd7",
+        "k": 4,
+        "time_min": 35.11266662564082,
+        "time_over_target": 0.2922152390312857,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04"
+        ],
+        "prediction": 0.6461296478272084,
+        "available": true,
+        "raw_q_pp": 4.622919384875729,
+        "q_pp": 4.622919384875729,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c64a7936f50f73e5c8611c80",
+        "k": 5,
+        "time_min": 40.215523773746476,
+        "time_over_target": 0.33468232468940856,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p05"
+        ],
+        "prediction": 0.6592961162318676,
+        "available": true,
+        "raw_q_pp": 4.203834755784217,
+        "q_pp": 4.203834755784217,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "03c7000656fd6bf24408bae0",
+        "k": 6,
+        "time_min": 50.081047593417416,
+        "time_over_target": 0.4167853569617794,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p05",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p06"
+        ],
+        "prediction": 0.6659244702762185,
+        "available": true,
+        "raw_q_pp": 3.6593261346603203,
+        "q_pp": 3.6593261346603203,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e26ffb151e083e7f342c6171",
+        "k": 7,
+        "time_min": 60.28676188962873,
+        "time_over_target": 0.501719528278025,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p05",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p06",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p07"
+        ],
+        "prediction": 0.6595252709541638,
+        "available": true,
+        "raw_q_pp": 3.1823770352170753,
+        "q_pp": 3.1823770352170753,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "72f9a7a4ec61bdca2ce7c854",
+        "k": 8,
+        "time_min": 80.01780952897062,
+        "time_over_target": 0.6659255928227668,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p05",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p06",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p07",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p08"
+        ],
+        "prediction": 0.672739433012685,
+        "available": true,
+        "raw_q_pp": 2.0694198305020435,
+        "q_pp": 2.0694198305020435,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "366f1c6b60d72951872deeda",
+        "k": 9,
+        "time_min": 100.08904764485288,
+        "time_over_target": 0.8329627964113834,
+        "input_ids": [
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p01",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p02",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p03",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p04",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p05",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p06",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p07",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p08",
+          "Shen2009_fig9_curve4_ASGR_rho0p5_p09"
+        ],
+        "prediction": 0.6678871580267104,
+        "available": true,
+        "raw_q_pp": 1.6449139603179586,
+        "q_pp": 1.6449139603179586,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig10_curve1_ATB2G_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig10_curve1_ATB2G_rho0p5_p10",
+    "target_time_min": 120.14617664893129,
+    "target_time_lower": 119.4859034986727,
+    "target_time_upper": 120.80644979918988,
+    "pool_count": 9,
+    "t3": 30.018891638633455,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "00747629dbe3acb411c861d7",
+        "k": 3,
+        "time_min": 30.018891638633455,
+        "time_over_target": 0.2498530746121789,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03"
+        ],
+        "prediction": 0.20248443761728863,
+        "available": true,
+        "raw_q_pp": 1.7187546002100953,
+        "q_pp": 1.7187546002100953,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6e043c1d0b019d0f100e3a45",
+        "k": 4,
+        "time_min": 34.9709402655729,
+        "time_over_target": 0.2910699386444768,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04"
+        ],
+        "prediction": 0.2092147105262424,
+        "available": true,
+        "raw_q_pp": 1.547935290524036,
+        "q_pp": 1.547935290524036,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ee9c9863c168c19a41fcee4c",
+        "k": 5,
+        "time_min": 40.25312546764163,
+        "time_over_target": 0.3350345936122611,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p05"
+        ],
+        "prediction": 0.20551887161604895,
+        "available": true,
+        "raw_q_pp": 1.2970757641820951,
+        "q_pp": 1.2970757641820951,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6b621d38e4bd144fbdf96c62",
+        "k": 6,
+        "time_min": 50.15722272152052,
+        "time_over_target": 0.4174683216768569,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p05",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p06"
+        ],
+        "prediction": 0.19878676580416366,
+        "available": true,
+        "raw_q_pp": 1.192997202267542,
+        "q_pp": 1.192997202267542,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d8afff3e8d554ca66a836562",
+        "k": 7,
+        "time_min": 60.06131997539941,
+        "time_over_target": 0.49990204974145264,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p05",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p06",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p07"
+        ],
+        "prediction": 0.19702154437960231,
+        "available": true,
+        "raw_q_pp": 1.215449949782959,
+        "q_pp": 1.215449949782959,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ecb9c91359fbdc2284e7e1de",
+        "k": 8,
+        "time_min": 80.19965105828646,
+        "time_over_target": 0.6675172968061306,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p05",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p06",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p07",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p08"
+        ],
+        "prediction": 0.19453920192171872,
+        "available": true,
+        "raw_q_pp": 1.3416007598427342,
+        "q_pp": 1.3416007598427342,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "47104ad51b078be55dc3dde3",
+        "k": 9,
+        "time_min": 100.00784556604421,
+        "time_over_target": 0.8323847529353219,
+        "input_ids": [
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p01",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p02",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p03",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p04",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p05",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p06",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p07",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p08",
+          "Shen2009_fig10_curve1_ATB2G_rho0p5_p09"
+        ],
+        "prediction": 0.19209363496483717,
+        "available": true,
+        "raw_q_pp": 1.3326592320138881,
+        "q_pp": 1.3326592320138881,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig10_curve2_IC_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig10_curve2_IC_rho0p5_p10",
+    "target_time_min": 120.14617664893129,
+    "target_time_lower": 119.4859034986727,
+    "target_time_upper": 120.80644979918988,
+    "pool_count": 9,
+    "t3": 30.018891638633455,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "c957657a36f76dee1f75314d",
+        "k": 3,
+        "time_min": 30.018891638633455,
+        "time_over_target": 0.2498530746121789,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03"
+        ],
+        "prediction": 0.31875286094602534,
+        "available": true,
+        "raw_q_pp": 2.7285362695397852,
+        "q_pp": 2.7285362695397852,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b2436777ad15b9516a906933",
+        "k": 4,
+        "time_min": 34.9709402655729,
+        "time_over_target": 0.2910699386444768,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04"
+        ],
+        "prediction": 0.3088209847600334,
+        "available": true,
+        "raw_q_pp": 1.5790457876472197,
+        "q_pp": 1.5790457876472197,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b5e598c16e464011cb4f0feb",
+        "k": 5,
+        "time_min": 40.25312546764163,
+        "time_over_target": 0.3350345936122611,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04",
+          "Shen2009_fig10_curve2_IC_rho0p5_p05"
+        ],
+        "prediction": 0.2982569688450406,
+        "available": true,
+        "raw_q_pp": 1.4925372812028905,
+        "q_pp": 1.4925372812028905,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e0b650f6507db95742878794",
+        "k": 6,
+        "time_min": 50.15722272152052,
+        "time_over_target": 0.4174683216768569,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04",
+          "Shen2009_fig10_curve2_IC_rho0p5_p05",
+          "Shen2009_fig10_curve2_IC_rho0p5_p06"
+        ],
+        "prediction": 0.29506486016291744,
+        "available": true,
+        "raw_q_pp": 1.8641078006478744,
+        "q_pp": 1.8641078006478744,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "fe3df2ef57890f047d8bb3d2",
+        "k": 7,
+        "time_min": 60.06131997539941,
+        "time_over_target": 0.49990204974145264,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04",
+          "Shen2009_fig10_curve2_IC_rho0p5_p05",
+          "Shen2009_fig10_curve2_IC_rho0p5_p06",
+          "Shen2009_fig10_curve2_IC_rho0p5_p07"
+        ],
+        "prediction": 0.29124021403952854,
+        "available": true,
+        "raw_q_pp": 1.9545914433557319,
+        "q_pp": 1.9545914433557319,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "4cdf8d34013859b64537f129",
+        "k": 8,
+        "time_min": 80.19965105828646,
+        "time_over_target": 0.6675172968061306,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04",
+          "Shen2009_fig10_curve2_IC_rho0p5_p05",
+          "Shen2009_fig10_curve2_IC_rho0p5_p06",
+          "Shen2009_fig10_curve2_IC_rho0p5_p07",
+          "Shen2009_fig10_curve2_IC_rho0p5_p08"
+        ],
+        "prediction": 0.28624794778902884,
+        "available": true,
+        "raw_q_pp": 1.9645393517705128,
+        "q_pp": 1.9645393517705128,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "9001a16982cfc463eecabb88",
+        "k": 9,
+        "time_min": 100.00784556604421,
+        "time_over_target": 0.8323847529353219,
+        "input_ids": [
+          "Shen2009_fig10_curve2_IC_rho0p5_p01",
+          "Shen2009_fig10_curve2_IC_rho0p5_p02",
+          "Shen2009_fig10_curve2_IC_rho0p5_p03",
+          "Shen2009_fig10_curve2_IC_rho0p5_p04",
+          "Shen2009_fig10_curve2_IC_rho0p5_p05",
+          "Shen2009_fig10_curve2_IC_rho0p5_p06",
+          "Shen2009_fig10_curve2_IC_rho0p5_p07",
+          "Shen2009_fig10_curve2_IC_rho0p5_p08",
+          "Shen2009_fig10_curve2_IC_rho0p5_p09"
+        ],
+        "prediction": 0.28116374302230907,
+        "available": true,
+        "raw_q_pp": 1.896034536967737,
+        "q_pp": 1.896034536967737,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Shen2009_fig10_curve3_ASGR_rho0p5",
+    "source_id": "Shen2009",
+    "doi": "10.1016/j.jhazmat.2009.06.139",
+    "family": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "canonical_group_id": "China_ShandongNormal_ShandongUniversity_Shen_Gao_Yue",
+    "target_point_id": "Shen2009_fig10_curve3_ASGR_rho0p5_p10",
+    "target_time_min": 120.14617664893129,
+    "target_time_lower": 119.4859034986727,
+    "target_time_upper": 120.80644979918988,
+    "pool_count": 9,
+    "t3": 30.349028213762757,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "84d4eb1c1b578a3aac3d54b2",
+        "k": 3,
+        "time_min": 30.349028213762757,
+        "time_over_target": 0.2526008655476655,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03"
+        ],
+        "prediction": 0.6986125123324476,
+        "available": true,
+        "raw_q_pp": 3.4771954248003025,
+        "q_pp": 3.4771954248003025,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "04a892734179c7d0ebe383f4",
+        "k": 4,
+        "time_min": 34.9709402655729,
+        "time_over_target": 0.2910699386444768,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04"
+        ],
+        "prediction": 0.6256704150928395,
+        "available": true,
+        "raw_q_pp": 4.52767717882637,
+        "q_pp": 4.52767717882637,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a42e1b3c5047a216370905da",
+        "k": 5,
+        "time_min": 40.25312546764163,
+        "time_over_target": 0.3350345936122611,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p05"
+        ],
+        "prediction": 0.6164829883072379,
+        "available": true,
+        "raw_q_pp": 4.1761688066861495,
+        "q_pp": 4.1761688066861495,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "16faab06b433f9db98b1a299",
+        "k": 6,
+        "time_min": 50.15722272152052,
+        "time_over_target": 0.4174683216768569,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p05",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p06"
+        ],
+        "prediction": 0.6161493744771227,
+        "available": true,
+        "raw_q_pp": 3.456456729038262,
+        "q_pp": 3.456456729038262,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b9f4a143f7e85df1d30571a9",
+        "k": 7,
+        "time_min": 60.06131997539941,
+        "time_over_target": 0.49990204974145264,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p05",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p06",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p07"
+        ],
+        "prediction": 0.6307825042448847,
+        "available": true,
+        "raw_q_pp": 3.0803237919625652,
+        "q_pp": 3.0803237919625652,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "273869781e36c60bae97086c",
+        "k": 8,
+        "time_min": 80.19965105828646,
+        "time_over_target": 0.6675172968061306,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p05",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p06",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p07",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p08"
+        ],
+        "prediction": 0.6461381844017011,
+        "available": true,
+        "raw_q_pp": 2.2208417704011674,
+        "q_pp": 2.2208417704011674,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "826cceff9554490f5d84a24a",
+        "k": 9,
+        "time_min": 100.33798214117351,
+        "time_over_target": 0.8351325438708085,
+        "input_ids": [
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p01",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p02",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p03",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p04",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p05",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p06",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p07",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p08",
+          "Shen2009_fig10_curve3_ASGR_rho0p5_p09"
+        ],
+        "prediction": 0.6404424727613758,
+        "available": true,
+        "raw_q_pp": 1.7499284598759755,
+        "q_pp": 1.7499284598759755,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Meretoudi2025_RB5_CS_MT",
+    "source_id": "Meretoudi2025",
+    "doi": "10.1021/acs.langmuir.5c03148",
+    "family": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "canonical_group_id": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "target_point_id": "Meretoudi2025_RB5_CS_MT_p09",
+    "target_time_min": 120.03531534163693,
+    "target_time_lower": 118.96229000631651,
+    "target_time_upper": 121.10834067695735,
+    "pool_count": 8,
+    "t3": 14.982134254785421,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "b9e1a5e3e068ddfcf7af31a8",
+        "k": 3,
+        "time_min": 14.982134254785421,
+        "time_over_target": 0.12481438660067845,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03"
+        ],
+        "prediction": 0.3629858514550292,
+        "available": true,
+        "raw_q_pp": 2.6550472039139343,
+        "q_pp": 2.6550472039139343,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "997021fd9b85de51742bdf4d",
+        "k": 4,
+        "time_min": 20.00657833457541,
+        "time_over_target": 0.1666724353381665,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03",
+          "Meretoudi2025_RB5_CS_MT_p04"
+        ],
+        "prediction": 0.37487559181978525,
+        "available": true,
+        "raw_q_pp": 2.382635240232072,
+        "q_pp": 2.382635240232072,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "357f534590684fc66a7f7543",
+        "k": 5,
+        "time_min": 29.958865397378133,
+        "time_over_target": 0.24958376051340478,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03",
+          "Meretoudi2025_RB5_CS_MT_p04",
+          "Meretoudi2025_RB5_CS_MT_p05"
+        ],
+        "prediction": 0.40789532248617566,
+        "available": true,
+        "raw_q_pp": 1.9456851217802786,
+        "q_pp": 1.9456851217802786,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5a4b3e52708452d79156ae01",
+        "k": 6,
+        "time_min": 45.04024090603474,
+        "time_over_target": 0.3752249142499776,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03",
+          "Meretoudi2025_RB5_CS_MT_p04",
+          "Meretoudi2025_RB5_CS_MT_p05",
+          "Meretoudi2025_RB5_CS_MT_p06"
+        ],
+        "prediction": 0.4516564691026589,
+        "available": true,
+        "raw_q_pp": 2.6178054926503833,
+        "q_pp": 2.6178054926503833,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "51eb67cbe235832ca004f3f1",
+        "k": 7,
+        "time_min": 60.01834329300965,
+        "time_over_target": 0.5000057118372975,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03",
+          "Meretoudi2025_RB5_CS_MT_p04",
+          "Meretoudi2025_RB5_CS_MT_p05",
+          "Meretoudi2025_RB5_CS_MT_p06",
+          "Meretoudi2025_RB5_CS_MT_p07"
+        ],
+        "prediction": 0.4953562740003478,
+        "available": true,
+        "raw_q_pp": 2.664196518891875,
+        "q_pp": 2.664196518891875,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "f1bd224c2a55390d2fc94d8f",
+        "k": 8,
+        "time_min": 89.97855946843578,
+        "time_over_target": 0.7496007255226887,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_p01",
+          "Meretoudi2025_RB5_CS_MT_p02",
+          "Meretoudi2025_RB5_CS_MT_p03",
+          "Meretoudi2025_RB5_CS_MT_p04",
+          "Meretoudi2025_RB5_CS_MT_p05",
+          "Meretoudi2025_RB5_CS_MT_p06",
+          "Meretoudi2025_RB5_CS_MT_p07",
+          "Meretoudi2025_RB5_CS_MT_p08"
+        ],
+        "prediction": 0.5282445086241216,
+        "available": true,
+        "raw_q_pp": 2.0601711558689257,
+        "q_pp": 2.0601711558689257,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Meretoudi2025_RB5_CS_MT_GO",
+    "source_id": "Meretoudi2025",
+    "doi": "10.1021/acs.langmuir.5c03148",
+    "family": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "canonical_group_id": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "target_point_id": "Meretoudi2025_RB5_CS_MT_GO_p09",
+    "target_time_min": 120.03398502992286,
+    "target_time_lower": 118.96095969460244,
+    "target_time_upper": 121.10701036524328,
+    "pool_count": 8,
+    "t3": 14.980783476737258,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "018105f4241b3e82e335a729",
+        "k": 3,
+        "time_min": 14.980783476737258,
+        "time_over_target": 0.12480451659588533,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03"
+        ],
+        "prediction": 0.35639075829582434,
+        "available": true,
+        "raw_q_pp": 4.9823232027793605,
+        "q_pp": 4.9823232027793605,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "80d89719381689958dd44e5f",
+        "k": 4,
+        "time_min": 20.006557868241316,
+        "time_over_target": 0.16667411202963853,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03",
+          "Meretoudi2025_RB5_CS_MT_GO_p04"
+        ],
+        "prediction": 0.32742206624905357,
+        "available": true,
+        "raw_q_pp": 3.9859197316142048,
+        "q_pp": 3.9859197316142048,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c45d52e0c72aac7ae9d3e531",
+        "k": 5,
+        "time_min": 29.96021617542624,
+        "time_over_target": 0.2495977798950652,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03",
+          "Meretoudi2025_RB5_CS_MT_GO_p04",
+          "Meretoudi2025_RB5_CS_MT_GO_p05"
+        ],
+        "prediction": 0.36836089770661884,
+        "available": true,
+        "raw_q_pp": 2.1053475183684944,
+        "q_pp": 2.1053475183684944,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6f107b8f41494d2e5ebeed6a",
+        "k": 6,
+        "time_min": 45.037559816272505,
+        "time_over_target": 0.37520673670082055,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03",
+          "Meretoudi2025_RB5_CS_MT_GO_p04",
+          "Meretoudi2025_RB5_CS_MT_GO_p05",
+          "Meretoudi2025_RB5_CS_MT_GO_p06"
+        ],
+        "prediction": 0.40486965687072957,
+        "available": true,
+        "raw_q_pp": 2.1489775573658636,
+        "q_pp": 2.1489775573658636,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "aad18264138b5452d6c7344a",
+        "k": 7,
+        "time_min": 60.01834329300965,
+        "time_over_target": 0.5000112532967049,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03",
+          "Meretoudi2025_RB5_CS_MT_GO_p04",
+          "Meretoudi2025_RB5_CS_MT_GO_p05",
+          "Meretoudi2025_RB5_CS_MT_GO_p06",
+          "Meretoudi2025_RB5_CS_MT_GO_p07"
+        ],
+        "prediction": 0.4346839098825064,
+        "available": true,
+        "raw_q_pp": 2.052860256149528,
+        "q_pp": 2.052860256149528,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d09911dd2c33377c02606d8b",
+        "k": 8,
+        "time_min": 89.97720869038761,
+        "time_over_target": 0.7495977798950647,
+        "input_ids": [
+          "Meretoudi2025_RB5_CS_MT_GO_p01",
+          "Meretoudi2025_RB5_CS_MT_GO_p02",
+          "Meretoudi2025_RB5_CS_MT_GO_p03",
+          "Meretoudi2025_RB5_CS_MT_GO_p04",
+          "Meretoudi2025_RB5_CS_MT_GO_p05",
+          "Meretoudi2025_RB5_CS_MT_GO_p06",
+          "Meretoudi2025_RB5_CS_MT_GO_p07",
+          "Meretoudi2025_RB5_CS_MT_GO_p08"
+        ],
+        "prediction": 0.47366537926096997,
+        "available": true,
+        "raw_q_pp": 2.047721439745945,
+        "q_pp": 2.047721439745945,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Meretoudi2025_MB_CS_MT",
+    "source_id": "Meretoudi2025",
+    "doi": "10.1021/acs.langmuir.5c03148",
+    "family": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "canonical_group_id": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "target_point_id": "Meretoudi2025_MB_CS_MT_p09",
+    "target_time_min": 120.0326215551537,
+    "target_time_lower": 118.97526355502887,
+    "target_time_upper": 121.08997955527852,
+    "pool_count": 8,
+    "t3": 14.978805836269544,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "58e88111e0a87ab172d6584a",
+        "k": 3,
+        "time_min": 14.978805836269544,
+        "time_over_target": 0.12478945841724322,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03"
+        ],
+        "prediction": 0.3664320211997088,
+        "available": true,
+        "raw_q_pp": 3.954934958731682,
+        "q_pp": 3.954934958731682,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "3d509012a671917faf5e857d",
+        "k": 4,
+        "time_min": 20.00390231330323,
+        "time_over_target": 0.16665388170424697,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03",
+          "Meretoudi2025_MB_CS_MT_p04"
+        ],
+        "prediction": 0.37112125438066484,
+        "available": true,
+        "raw_q_pp": 3.938625795182353,
+        "q_pp": 3.938625795182353,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "46af1d79ea4c01c6a3f77910",
+        "k": 5,
+        "time_min": 29.95890465151456,
+        "time_over_target": 0.2495896887309819,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03",
+          "Meretoudi2025_MB_CS_MT_p04",
+          "Meretoudi2025_MB_CS_MT_p05"
+        ],
+        "prediction": 0.3948258801798887,
+        "available": true,
+        "raw_q_pp": 2.66892450007671,
+        "q_pp": 2.66892450007671,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "fa0b0a19bff3408841874b92",
+        "k": 6,
+        "time_min": 45.03685619305895,
+        "time_over_target": 0.3752051368166195,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03",
+          "Meretoudi2025_MB_CS_MT_p04",
+          "Meretoudi2025_MB_CS_MT_p05",
+          "Meretoudi2025_MB_CS_MT_p06"
+        ],
+        "prediction": 0.4516935890040584,
+        "available": true,
+        "raw_q_pp": 2.115322768978818,
+        "q_pp": 2.115322768978818,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e9beb5b84edf2ba7de4b74a9",
+        "k": 7,
+        "time_min": 60.015623953082354,
+        "time_over_target": 0.49999427801804547,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03",
+          "Meretoudi2025_MB_CS_MT_p04",
+          "Meretoudi2025_MB_CS_MT_p05",
+          "Meretoudi2025_MB_CS_MT_p06",
+          "Meretoudi2025_MB_CS_MT_p07"
+        ],
+        "prediction": 0.48565685194892627,
+        "available": true,
+        "raw_q_pp": 1.7300994714920388,
+        "q_pp": 1.7300994714920388,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e5680f29f491eff9c1a84459",
+        "k": 8,
+        "time_min": 89.97457119836417,
+        "time_over_target": 0.7495843216006228,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_p01",
+          "Meretoudi2025_MB_CS_MT_p02",
+          "Meretoudi2025_MB_CS_MT_p03",
+          "Meretoudi2025_MB_CS_MT_p04",
+          "Meretoudi2025_MB_CS_MT_p05",
+          "Meretoudi2025_MB_CS_MT_p06",
+          "Meretoudi2025_MB_CS_MT_p07",
+          "Meretoudi2025_MB_CS_MT_p08"
+        ],
+        "prediction": 0.5113155946248538,
+        "available": true,
+        "raw_q_pp": 1.6500757092456315,
+        "q_pp": 1.6500757092456315,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Meretoudi2025_MB_CS_MT_GO",
+    "source_id": "Meretoudi2025",
+    "doi": "10.1021/acs.langmuir.5c03148",
+    "family": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "canonical_group_id": "Greece_DemocritusThrace_Kyzas_Meretoudi",
+    "target_point_id": "Meretoudi2025_MB_CS_MT_GO_p09",
+    "target_time_min": 120.032581220147,
+    "target_time_lower": 118.97522322002217,
+    "target_time_upper": 121.08993922027182,
+    "pool_count": 8,
+    "t3": 14.98013689149127,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "calibration",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "8203f3e8730859909bfa1908",
+        "k": 3,
+        "time_min": 14.98013689149127,
+        "time_over_target": 0.1248005894667615,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03"
+        ],
+        "prediction": 0.8472079177055444,
+        "available": true,
+        "raw_q_pp": 5.415282099521152,
+        "q_pp": 5.415282099521152,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "b56d17c16183f3b4ead7dda7",
+        "k": 4,
+        "time_min": 20.006564423746568,
+        "time_over_target": 0.1666761159376663,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03",
+          "Meretoudi2025_MB_CS_MT_GO_p04"
+        ],
+        "prediction": 0.8478536742646678,
+        "available": true,
+        "raw_q_pp": 6.412337451737169,
+        "q_pp": 6.412337451737169,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "66c1deb82c03e5e6ee326b35",
+        "k": 5,
+        "time_min": 29.95894498652126,
+        "time_over_target": 0.24959010863537748,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03",
+          "Meretoudi2025_MB_CS_MT_GO_p04",
+          "Meretoudi2025_MB_CS_MT_GO_p05"
+        ],
+        "prediction": 0.7436608166117534,
+        "available": true,
+        "raw_q_pp": 5.664788254954523,
+        "q_pp": 5.664788254954523,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "62beea153186b56d6b10a880",
+        "k": 6,
+        "time_min": 45.03552513783734,
+        "time_over_target": 0.3751941737821956,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03",
+          "Meretoudi2025_MB_CS_MT_GO_p04",
+          "Meretoudi2025_MB_CS_MT_GO_p05",
+          "Meretoudi2025_MB_CS_MT_GO_p06"
+        ],
+        "prediction": 0.6584369775091501,
+        "available": true,
+        "raw_q_pp": 4.572251981090958,
+        "q_pp": 4.572251981090958,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "5b6feab50c71835ddead3418",
+        "k": 7,
+        "time_min": 60.01695500830408,
+        "time_over_target": 0.5000055351490723,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03",
+          "Meretoudi2025_MB_CS_MT_GO_p04",
+          "Meretoudi2025_MB_CS_MT_GO_p05",
+          "Meretoudi2025_MB_CS_MT_GO_p06",
+          "Meretoudi2025_MB_CS_MT_GO_p07"
+        ],
+        "prediction": 0.6298103862444538,
+        "available": true,
+        "raw_q_pp": 3.421350842996661,
+        "q_pp": 3.421350842996661,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ff675b85aef47f2e476b8c5c",
+        "k": 8,
+        "time_min": 89.9758619185792,
+        "time_over_target": 0.7495953265685259,
+        "input_ids": [
+          "Meretoudi2025_MB_CS_MT_GO_p01",
+          "Meretoudi2025_MB_CS_MT_GO_p02",
+          "Meretoudi2025_MB_CS_MT_GO_p03",
+          "Meretoudi2025_MB_CS_MT_GO_p04",
+          "Meretoudi2025_MB_CS_MT_GO_p05",
+          "Meretoudi2025_MB_CS_MT_GO_p06",
+          "Meretoudi2025_MB_CS_MT_GO_p07",
+          "Meretoudi2025_MB_CS_MT_GO_p08"
+        ],
+        "prediction": 0.610682083499155,
+        "available": true,
+        "raw_q_pp": 2.1848580469058465,
+        "q_pp": 2.1848580469058465,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Luo2015_C4_C400.0",
+    "source_id": "Luo2015",
+    "doi": "10.1016/j.apsusc.2014.11.043",
+    "family": "China_University_of_Petroleum_Gao",
+    "canonical_group_id": "China_University_of_Petroleum_Gao",
+    "target_point_id": "previous_MO_034",
+    "target_time_min": 119.81817599795131,
+    "target_time_lower": 118.6241610738255,
+    "target_time_upper": 121.01219092207712,
+    "pool_count": 8,
+    "t3": 7.890777553698906,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "test",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "ef41af7fe463aa4b53b7d2d6",
+        "k": 3,
+        "time_min": 7.890777553698906,
+        "time_over_target": 0.06585626502805238,
+        "input_ids": [
+          "previous_MO_026",
+          "previous_MO_027",
+          "previous_MO_028"
+        ],
+        "prediction": 0.7434313375456023,
+        "available": true,
+        "raw_q_pp": 4.418135262294167,
+        "q_pp": 4.418135262294167,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "666eca6ab98666b8d020536c",
+        "k": 4,
+        "time_min": 10.243605749223732,
+        "time_over_target": 0.08549292011755279,
+        "input_ids": [
+          "previous_MO_026",
+          "previous_MO_027",
+          "previous_MO_028",
+          "previous_MO_029"
+        ],
+        "prediction": 0.8045044659849815,
+        "available": true,
+        "raw_q_pp": 4.741579383109367,
+        "q_pp": 4.741579383109367,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "6b0f483c84946717d6d0eb3c",
+        "k": 5,
+        "time_min": 19.822977688146235,
+        "time_over_target": 0.165442158696233,
+        "input_ids": [
+          "previous_MO_026",
+          "previous_MO_027",
+          "previous_MO_028",
+          "previous_MO_029",
+          "previous_MO_030"
+        ],
+        "prediction": 0.8359757152205849,
+        "available": true,
+        "raw_q_pp": 4.161991334602188,
+        "q_pp": 4.161991334602188,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "7fa7c84d9662122c25f51825",
+        "k": 6,
+        "time_min": 29.738467940715143,
+        "time_over_target": 0.2481966337162704,
+        "input_ids": [
+          "previous_MO_026",
+          "previous_MO_027",
+          "previous_MO_028",
+          "previous_MO_029",
+          "previous_MO_030",
+          "previous_MO_031"
+        ],
+        "prediction": 0.8736614857539152,
+        "available": true,
+        "raw_q_pp": 2.0185959122023203,
+        "q_pp": 2.0185959122023203,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "7d14ee70233370d993276040",
+        "k": 7,
+        "time_min": 59.65299785524507,
+        "time_over_target": 0.4978626769970612,
+        "input_ids": [
+          "previous_MO_026",
+          "previous_MO_027",
+          "previous_MO_028",
+          "previous_MO_029",
+          "previous_MO_030",
+          "previous_MO_031",
+          "previous_MO_032"
+        ],
+        "prediction": 0.9154500784273178,
+        "available": true,
+        "raw_q_pp": 2.6239595738723085,
+        "q_pp": 2.6239595738723085,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ef2c9e91c40b1b4db0e9e332",
+        "k": 8,
+        "time_min": 89.90364608342139,
+        "time_over_target": 0.7503339567192092,
+        "input_ids": [
+          "previous_MO_026",
+          "previous_MO_027",
+          "previous_MO_028",
+          "previous_MO_029",
+          "previous_MO_030",
+          "previous_MO_031",
+          "previous_MO_032",
+          "previous_MO_033"
+        ],
+        "prediction": 0.9448660760574379,
+        "available": true,
+        "raw_q_pp": 2.2013459448525055,
+        "q_pp": 2.2013459448525055,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Jin2022_12_2_12",
+    "source_id": "Jin2022",
+    "doi": "10.1016/j.jece.2022.108442",
+    "family": "China_University_of_Petroleum_Gao",
+    "canonical_group_id": "China_University_of_Petroleum_Gao",
+    "target_point_id": "Jin2022_12_2_12_p09",
+    "target_time_min": 119.7080291970803,
+    "target_time_lower": 118.73479318734793,
+    "target_time_upper": 120.68126520681265,
+    "pool_count": 8,
+    "t3": 9.732360097323578,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "test",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "441e32e549b83ea5623348df",
+        "k": 3,
+        "time_min": 9.732360097323578,
+        "time_over_target": 0.08130081300812989,
+        "input_ids": [
+          "Jin2022_12_2_12_p01",
+          "Jin2022_12_2_12_p02",
+          "Jin2022_12_2_12_p03"
+        ],
+        "prediction": 0.5823916188732197,
+        "available": true,
+        "raw_q_pp": 2.986144447930483,
+        "q_pp": 2.986144447930483,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "880ab57a0dae1ce48039f6cb",
+        "k": 4,
+        "time_min": 19.951338199513373,
+        "time_over_target": 0.16666666666666657,
+        "input_ids": [
+          "Jin2022_12_2_12_p01",
+          "Jin2022_12_2_12_p02",
+          "Jin2022_12_2_12_p03",
+          "Jin2022_12_2_12_p04"
+        ],
+        "prediction": 0.6363903371249245,
+        "available": true,
+        "raw_q_pp": 4.562863777847861,
+        "q_pp": 4.562863777847861,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ce37dd0364f56723a0e8f8dd",
+        "k": 5,
+        "time_min": 30.170316301703167,
+        "time_over_target": 0.2520325203252033,
+        "input_ids": [
+          "Jin2022_12_2_12_p01",
+          "Jin2022_12_2_12_p02",
+          "Jin2022_12_2_12_p03",
+          "Jin2022_12_2_12_p04",
+          "Jin2022_12_2_12_p05"
+        ],
+        "prediction": 0.6798459655352077,
+        "available": true,
+        "raw_q_pp": 4.050615192992165,
+        "q_pp": 4.050615192992165,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "101972ff2cbe0d5cb1b42640",
+        "k": 6,
+        "time_min": 44.76885644768856,
+        "time_over_target": 0.37398373983739835,
+        "input_ids": [
+          "Jin2022_12_2_12_p01",
+          "Jin2022_12_2_12_p02",
+          "Jin2022_12_2_12_p03",
+          "Jin2022_12_2_12_p04",
+          "Jin2022_12_2_12_p05",
+          "Jin2022_12_2_12_p06"
+        ],
+        "prediction": 0.714729095207598,
+        "available": true,
+        "raw_q_pp": 3.895491543670478,
+        "q_pp": 3.895491543670478,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "ec765c4e4c9d37f9ee46ea96",
+        "k": 7,
+        "time_min": 59.85401459854012,
+        "time_over_target": 0.4999999999999998,
+        "input_ids": [
+          "Jin2022_12_2_12_p01",
+          "Jin2022_12_2_12_p02",
+          "Jin2022_12_2_12_p03",
+          "Jin2022_12_2_12_p04",
+          "Jin2022_12_2_12_p05",
+          "Jin2022_12_2_12_p06",
+          "Jin2022_12_2_12_p07"
+        ],
+        "prediction": 0.7427901695147177,
+        "available": true,
+        "raw_q_pp": 3.4936992278519856,
+        "q_pp": 3.4936992278519856,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "18e5eb5cdce4149d7980d6fb",
+        "k": 8,
+        "time_min": 89.53771289537713,
+        "time_over_target": 0.7479674796747967,
+        "input_ids": [
+          "Jin2022_12_2_12_p01",
+          "Jin2022_12_2_12_p02",
+          "Jin2022_12_2_12_p03",
+          "Jin2022_12_2_12_p04",
+          "Jin2022_12_2_12_p05",
+          "Jin2022_12_2_12_p06",
+          "Jin2022_12_2_12_p07",
+          "Jin2022_12_2_12_p08"
+        ],
+        "prediction": 0.7672934805597535,
+        "available": true,
+        "raw_q_pp": 2.5306397664105678,
+        "q_pp": 2.5306397664105678,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Jin2022_14_2_14",
+    "source_id": "Jin2022",
+    "doi": "10.1016/j.jece.2022.108442",
+    "family": "China_University_of_Petroleum_Gao",
+    "canonical_group_id": "China_University_of_Petroleum_Gao",
+    "target_point_id": "Jin2022_14_2_14_p09",
+    "target_time_min": 119.7080291970803,
+    "target_time_lower": 118.73479318734793,
+    "target_time_upper": 120.68126520681265,
+    "pool_count": 8,
+    "t3": 9.732360097323578,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "test",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "7c25d5addb716b622048af71",
+        "k": 3,
+        "time_min": 9.732360097323578,
+        "time_over_target": 0.08130081300812989,
+        "input_ids": [
+          "Jin2022_14_2_14_p01",
+          "Jin2022_14_2_14_p02",
+          "Jin2022_14_2_14_p03"
+        ],
+        "prediction": 0.44716791161672265,
+        "available": true,
+        "raw_q_pp": 3.0666248535552043,
+        "q_pp": 3.0666248535552043,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "233e210ea8d71d3fad18e7bf",
+        "k": 4,
+        "time_min": 19.951338199513373,
+        "time_over_target": 0.16666666666666657,
+        "input_ids": [
+          "Jin2022_14_2_14_p01",
+          "Jin2022_14_2_14_p02",
+          "Jin2022_14_2_14_p03",
+          "Jin2022_14_2_14_p04"
+        ],
+        "prediction": 0.5316713069625043,
+        "available": true,
+        "raw_q_pp": 2.1961186852670305,
+        "q_pp": 2.1961186852670305,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c76cdcfc8362934fe5cddec9",
+        "k": 5,
+        "time_min": 30.170316301703167,
+        "time_over_target": 0.2520325203252033,
+        "input_ids": [
+          "Jin2022_14_2_14_p01",
+          "Jin2022_14_2_14_p02",
+          "Jin2022_14_2_14_p03",
+          "Jin2022_14_2_14_p04",
+          "Jin2022_14_2_14_p05"
+        ],
+        "prediction": 0.5791110635526823,
+        "available": true,
+        "raw_q_pp": 2.2020784208397917,
+        "q_pp": 2.2020784208397917,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "8b5887a6cef364f8ef0015ba",
+        "k": 6,
+        "time_min": 44.76885644768856,
+        "time_over_target": 0.37398373983739835,
+        "input_ids": [
+          "Jin2022_14_2_14_p01",
+          "Jin2022_14_2_14_p02",
+          "Jin2022_14_2_14_p03",
+          "Jin2022_14_2_14_p04",
+          "Jin2022_14_2_14_p05",
+          "Jin2022_14_2_14_p06"
+        ],
+        "prediction": 0.6287163999763711,
+        "available": true,
+        "raw_q_pp": 2.203606115215819,
+        "q_pp": 2.203606115215819,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "00d302a089cf4d136658942a",
+        "k": 7,
+        "time_min": 59.85401459854012,
+        "time_over_target": 0.4999999999999998,
+        "input_ids": [
+          "Jin2022_14_2_14_p01",
+          "Jin2022_14_2_14_p02",
+          "Jin2022_14_2_14_p03",
+          "Jin2022_14_2_14_p04",
+          "Jin2022_14_2_14_p05",
+          "Jin2022_14_2_14_p06",
+          "Jin2022_14_2_14_p07"
+        ],
+        "prediction": 0.6523714259780868,
+        "available": true,
+        "raw_q_pp": 1.670272265349302,
+        "q_pp": 1.670272265349302,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "a103cd4b7417e5cb678b4ac4",
+        "k": 8,
+        "time_min": 89.53771289537713,
+        "time_over_target": 0.7479674796747967,
+        "input_ids": [
+          "Jin2022_14_2_14_p01",
+          "Jin2022_14_2_14_p02",
+          "Jin2022_14_2_14_p03",
+          "Jin2022_14_2_14_p04",
+          "Jin2022_14_2_14_p05",
+          "Jin2022_14_2_14_p06",
+          "Jin2022_14_2_14_p07",
+          "Jin2022_14_2_14_p08"
+        ],
+        "prediction": 0.6809758605396082,
+        "available": true,
+        "raw_q_pp": 2.2252142988262817,
+        "q_pp": 2.2252142988262817,
+        "nonfinite_score": false
+      }
+    ]
+  },
+  {
+    "dataset": "original",
+    "curve_id": "Jin2022_16_2_16",
+    "source_id": "Jin2022",
+    "doi": "10.1016/j.jece.2022.108442",
+    "family": "China_University_of_Petroleum_Gao",
+    "canonical_group_id": "China_University_of_Petroleum_Gao",
+    "target_point_id": "Jin2022_16_2_16_p09",
+    "target_time_min": 119.7080291970803,
+    "target_time_lower": 118.73479318734793,
+    "target_time_upper": 120.68126520681265,
+    "pool_count": 8,
+    "t3": 9.732360097323578,
+    "cache_complete": true,
+    "case_id": "original_fold_05",
+    "role": "test",
+    "model_sha256": "789c3c191e81c9bb4c05eabfe85d7dee0e4c6def2fbe99072d2d4c49c0c8c006",
+    "states": [
+      {
+        "state_id": "cda54e6b67429dea17eab1bc",
+        "k": 3,
+        "time_min": 9.732360097323578,
+        "time_over_target": 0.08130081300812989,
+        "input_ids": [
+          "Jin2022_16_2_16_p01",
+          "Jin2022_16_2_16_p02",
+          "Jin2022_16_2_16_p03"
+        ],
+        "prediction": 0.3857610138230328,
+        "available": true,
+        "raw_q_pp": 4.465812868494639,
+        "q_pp": 4.465812868494639,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "982145042aa48e8741d1c41f",
+        "k": 4,
+        "time_min": 19.951338199513373,
+        "time_over_target": 0.16666666666666657,
+        "input_ids": [
+          "Jin2022_16_2_16_p01",
+          "Jin2022_16_2_16_p02",
+          "Jin2022_16_2_16_p03",
+          "Jin2022_16_2_16_p04"
+        ],
+        "prediction": 0.4835206209259177,
+        "available": true,
+        "raw_q_pp": 2.679059237120491,
+        "q_pp": 2.679059237120491,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "d4e28b73ed8dc1322fda32e6",
+        "k": 5,
+        "time_min": 30.170316301703167,
+        "time_over_target": 0.2520325203252033,
+        "input_ids": [
+          "Jin2022_16_2_16_p01",
+          "Jin2022_16_2_16_p02",
+          "Jin2022_16_2_16_p03",
+          "Jin2022_16_2_16_p04",
+          "Jin2022_16_2_16_p05"
+        ],
+        "prediction": 0.5336170611617319,
+        "available": true,
+        "raw_q_pp": 2.06149307839152,
+        "q_pp": 2.06149307839152,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "2d27bd42574d69ea8473a6b8",
+        "k": 6,
+        "time_min": 44.76885644768856,
+        "time_over_target": 0.37398373983739835,
+        "input_ids": [
+          "Jin2022_16_2_16_p01",
+          "Jin2022_16_2_16_p02",
+          "Jin2022_16_2_16_p03",
+          "Jin2022_16_2_16_p04",
+          "Jin2022_16_2_16_p05",
+          "Jin2022_16_2_16_p06"
+        ],
+        "prediction": 0.5690008362225745,
+        "available": true,
+        "raw_q_pp": 1.9011796945921509,
+        "q_pp": 1.9011796945921509,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "c3fd8537f9fb126a7e3be780",
+        "k": 7,
+        "time_min": 59.85401459854012,
+        "time_over_target": 0.4999999999999998,
+        "input_ids": [
+          "Jin2022_16_2_16_p01",
+          "Jin2022_16_2_16_p02",
+          "Jin2022_16_2_16_p03",
+          "Jin2022_16_2_16_p04",
+          "Jin2022_16_2_16_p05",
+          "Jin2022_16_2_16_p06",
+          "Jin2022_16_2_16_p07"
+        ],
+        "prediction": 0.5915916562309669,
+        "available": true,
+        "raw_q_pp": 1.806978443252256,
+        "q_pp": 1.806978443252256,
+        "nonfinite_score": false
+      },
+      {
+        "state_id": "e6d790154f89e9d331a0d8cd",
+        "k": 8,
+        "time_min": 89.53771289537713,
+        "time_over_target": 0.7479674796747967,
+        "input_ids": [
+          "Jin2022_16_2_16_p01",
+          "Jin2022_16_2_16_p02",
+          "Jin2022_16_2_16_p03",
+          "Jin2022_16_2_16_p04",
+          "Jin2022_16_2_16_p05",
+          "Jin2022_16_2_16_p06",
+          "Jin2022_16_2_16_p07",
+          "Jin2022_16_2_16_p08"
+        ],
+        "prediction": 0.6164395107302051,
+        "available": true,
+        "raw_q_pp": 2.186670705063283,
+        "q_pp": 2.186670705063283,
+        "nonfinite_score": false
+      }
+    ]
+  }
+]

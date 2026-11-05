@@ -1,0 +1,184 @@
+{
+  "curve_id": "parallel_3",
+  "as_of_min": 60.0,
+  "target_time_min": 120.0,
+  "observations_used": 5,
+  "maximum_observation_time_min": 60.0,
+  "input_times_min": [
+    5.0,
+    10.0,
+    20.0,
+    30.0,
+    60.0
+  ],
+  "target_response_used": false,
+  "normalization": {
+    "response": "uptake_mg_g",
+    "C0_mg_L": 200,
+    "rho_g_L": 2
+  },
+  "current_prediction_fraction": 0.9394999177537167,
+  "current_prediction_mg_g": 93.94999177537167,
+  "current_error_score_pp": 1.5283122248347687,
+  "decision": "adopt",
+  "first_adoption": {
+    "curve_id": "parallel_3",
+    "method": "Learned",
+    "threshold_pp": 2.1167078708551017,
+    "selected_state_id": "parallel_3__prefix5",
+    "prediction": 0.9394999177537167,
+    "adopted": true,
+    "signal_pp": 1.5283122248347687
+  },
+  "next_measurement_min": null,
+  "threshold_configuration": "laboratory_source_excluded_U0-E",
+  "thresholds": {
+    "Learned": 2.1167078708551017,
+    "H1": 0.7008000078183579,
+    "H2": 0.0019336565264982397,
+    "H3": 0.10970778213584274
+  },
+  "states": [
+    {
+      "state_id": "parallel_3__prefix3",
+      "k": 3,
+      "time_min": 20.0,
+      "prediction": 0.934496399854391,
+      "available": true,
+      "Learned": 4.730584753530667,
+      "q_pp": 4.730584753530667,
+      "x": [
+        3,
+        1.791759469228055,
+        3.044522437723423,
+        1.791759469228055,
+        1.791759469228055,
+        0.8814,
+        0.1571999999999999,
+        0.12698501175448856,
+        0.19028972644313139,
+        0.3259086819858581,
+        0.9466187325061309,
+        0.07495188634961772,
+        0.934496399854391,
+        0.0,
+        1.842078620319916,
+        0,
+        0,
+        0,
+        0.0,
+        0
+      ],
+      "H1": 104.79999999999994,
+      "H2": null,
+      "H3": null
+    },
+    {
+      "state_id": "parallel_3__prefix4",
+      "k": 4,
+      "time_min": 30.0,
+      "prediction": 0.932929332725184,
+      "available": true,
+      "Learned": 3.0967431017233316,
+      "q_pp": 3.0967431017233316,
+      "x": [
+        4,
+        1.791759469228055,
+        3.4339872044851463,
+        1.3862943611198906,
+        1.3862943611198906,
+        0.8976999999999999,
+        0.17349999999999988,
+        0.0477419959854211,
+        0.18913164872250368,
+        0.2942738001370143,
+        0.9449143877940361,
+        0.05011002123701447,
+        0.932929332725184,
+        0.0,
+        1.5091607374614777,
+        0,
+        0,
+        0,
+        0.2007617989857239,
+        1
+      ],
+      "H1": 37.79999999999993,
+      "H2": 0.1567067129207067,
+      "H3": 0.22233357604554138
+    },
+    {
+      "state_id": "parallel_3__prefix5",
+      "k": 5,
+      "time_min": 60.0,
+      "prediction": 0.9394999177537167,
+      "available": true,
+      "Learned": 1.5283122248347687,
+      "q_pp": 1.5283122248347687,
+      "x": [
+        5,
+        1.791759469228055,
+        4.110873864173311,
+        0.6931471805599453,
+        0.6931471805599453,
+        0.9346,
+        0.21039999999999992,
+        0.07120375900633215,
+        0.20662976439415556,
+        0.4317855216373177,
+        0.9521326599668795,
+        0.026537233923714917,
+        0.9394999177537167,
+        0.0,
+        0.3987706000573463,
+        0,
+        0,
+        0,
+        0.8482473872017253,
+        1
+      ],
+      "H1": 7.980000000000002,
+      "H2": 0.6570585028532694,
+      "H3": 1.3355499481015887
+    }
+  ],
+  "fits": [
+    {
+      "state_id": "parallel_3__prefix3",
+      "parameters": {
+        "available": true,
+        "fe": 0.9466187325061309,
+        "tau_min": 1.556645823820657,
+        "training_SSE": 4.453425198535113e-05,
+        "fe_inventory_bound_active": false,
+        "optimizer_success": true
+      },
+      "seconds": 0.030999999959021807
+    },
+    {
+      "state_id": "parallel_3__prefix4",
+      "parameters": {
+        "available": true,
+        "fe": 0.9449143877940361,
+        "tau_min": 1.5416029465609333,
+        "training_SSE": 4.682701430267846e-05,
+        "fe_inventory_bound_active": false,
+        "optimizer_success": true
+      },
+      "seconds": 0.030999999959021807
+    },
+    {
+      "state_id": "parallel_3__prefix5",
+      "parameters": {
+        "available": true,
+        "fe": 0.9521326599668795,
+        "tau_min": 1.6135489071718392,
+        "training_SSE": 0.0001458025823095594,
+        "fe_inventory_bound_active": false,
+        "optimizer_success": true
+      },
+      "seconds": 0.016000000294297934
+    }
+  ],
+  "decision_seconds": 0.18304309993982315
+}

@@ -1,0 +1,938 @@
+[
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "A",
+    "min": 0.5195777906304222,
+    "max": 0.5965008675534992,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "B",
+    "min": 0.009615384615384616,
+    "max": 0.020604395604395604,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "R",
+    "min": 0.018122853872567724,
+    "max": 0.039656036066121225,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "wait_min",
+    "min": 59.525876551400444,
+    "max": 67.01758451954508,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "n_observations",
+    "min": 6.874421631000578,
+    "max": 7.411601118180065,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "A",
+    "min": 0.3275319709530236,
+    "max": 0.40445504787610054,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.02564102564102564,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.07828556573093505,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "wait_min",
+    "min": 81.54660868403033,
+    "max": 87.77800702638254,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "n_observations",
+    "min": 7.722940363729838,
+    "max": 8.184478825268299,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_A",
+    "min": 0.11512274275432166,
+    "max": 0.26896889660047557,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_wait_min",
+    "min": -25.55133935431492,
+    "max": -15.887791555929809,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_n_observations",
+    "min": -1.0228777070882344,
+    "max": -0.5613392455497728,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "A",
+    "min": 0.5195777906304222,
+    "max": 0.5965008675534992,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "B",
+    "min": 0.009615384615384616,
+    "max": 0.020604395604395604,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "R",
+    "min": 0.018122853872567724,
+    "max": 0.039656036066121225,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "wait_min",
+    "min": 59.525876551400444,
+    "max": 67.01758451954508,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "n_observations",
+    "min": 6.874421631000578,
+    "max": 7.411601118180065,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "A",
+    "min": 0.3482247284878864,
+    "max": 0.4251478054109633,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.02564102564102564,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.0736335577096088,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "wait_min",
+    "min": 80.92601904878869,
+    "max": 87.1574173911409,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "n_observations",
+    "min": 7.702247606194974,
+    "max": 8.163786067733437,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_A",
+    "min": 0.09442998521945889,
+    "max": 0.2482761390656128,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_wait_min",
+    "min": -24.930749719073276,
+    "max": -15.523423095071493,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "original79",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_n_observations",
+    "min": -1.0021849495533708,
+    "max": -0.5406464880149091,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "A",
+    "min": 0.7166666666666667,
+    "max": 0.8166666666666667,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "wait_min",
+    "min": 47.58707558982529,
+    "max": 58.59283904414548,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "n_observations",
+    "min": 5.466666666666667,
+    "max": 5.766666666666667,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "A",
+    "min": 0.11666666666666665,
+    "max": 0.21666666666666665,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "wait_min",
+    "min": 81.09304802806712,
+    "max": 89.58950695372438,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "n_observations",
+    "min": 6.533333333333333,
+    "max": 6.7333333333333325,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_A",
+    "min": 0.5,
+    "max": 0.6000000000000001,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_wait_min",
+    "min": -34.98930232092564,
+    "max": -30.988054837911875,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_n_observations",
+    "min": -1.166666666666666,
+    "max": -0.9166666666666661,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "A",
+    "min": 0.7166666666666667,
+    "max": 0.8166666666666667,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "wait_min",
+    "min": 47.58707558982529,
+    "max": 58.59283904414548,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "n_observations",
+    "min": 5.466666666666667,
+    "max": 5.766666666666667,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "A",
+    "min": 0.11666666666666665,
+    "max": 0.21666666666666665,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "wait_min",
+    "min": 79.25953803870519,
+    "max": 87.75599696436244,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "n_observations",
+    "min": 6.433333333333333,
+    "max": 6.633333333333333,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_A",
+    "min": 0.5,
+    "max": 0.6000000000000001,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_wait_min",
+    "min": -33.155792331563696,
+    "max": -29.16315792021696,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "transfer19",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_n_observations",
+    "min": -1.0666666666666664,
+    "max": -0.8166666666666664,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "A",
+    "min": 0.4,
+    "max": 0.6,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.2,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.5,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "wait_min",
+    "min": 45.58351977603526,
+    "max": 63.58351977603526,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "n_observations",
+    "min": 4.6,
+    "max": 5.2,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "A",
+    "min": 0.0,
+    "max": 0.2,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 1
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "wait_min",
+    "min": 72.4448838833188,
+    "max": 84.4448838833188,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "n_observations",
+    "min": 5.4,
+    "max": 6.2,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_A",
+    "min": 0.2,
+    "max": 0.4,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_wait_min",
+    "min": -26.861364107283542,
+    "max": -15.866495205537198,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_n_observations",
+    "min": -1.0,
+    "max": -0.5999999999999996,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "A",
+    "min": 0.4,
+    "max": 0.6,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.2,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.5,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "wait_min",
+    "min": 45.58351977603526,
+    "max": 63.58351977603526,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "n_observations",
+    "min": 4.6,
+    "max": 5.2,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "A",
+    "min": 0.0,
+    "max": 0.2,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 1
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "wait_min",
+    "min": 72.4448838833188,
+    "max": 84.4448838833188,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "n_observations",
+    "min": 5.4,
+    "max": 6.2,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_A",
+    "min": 0.2,
+    "max": 0.4,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_wait_min",
+    "min": -26.861364107283542,
+    "max": -15.866495205537198,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "historical_external15",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_n_observations",
+    "min": -1.0,
+    "max": -0.5999999999999996,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "A",
+    "min": 0.16666666666666666,
+    "max": 0.6666666666666666,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "wait_min",
+    "min": 54.197453608044555,
+    "max": 91.65027367376786,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "Learned",
+    "metric": "n_observations",
+    "min": 7.5,
+    "max": 8.5,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "A",
+    "min": 0.29166666666666663,
+    "max": 0.6666666666666666,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "wait_min",
+    "min": 63.37638979081804,
+    "max": 84.94459447192594,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "H1",
+    "metric": "n_observations",
+    "min": 7.458333333333333,
+    "max": 8.833333333333332,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_A",
+    "min": -0.125,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_wait_min",
+    "min": -9.178936182773484,
+    "max": 9.115384615384613,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "Original_frozen",
+    "method": "Learned-H1",
+    "metric": "delta_n_observations",
+    "min": -0.8333333333333321,
+    "max": 0.04166666666666696,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "A",
+    "min": 0.16666666666666666,
+    "max": 0.6666666666666666,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "wait_min",
+    "min": 54.197453608044555,
+    "max": 91.65027367376786,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "Learned",
+    "metric": "n_observations",
+    "min": 7.5,
+    "max": 8.5,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "A",
+    "min": 0.29166666666666663,
+    "max": 0.6666666666666666,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "B",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "R",
+    "min": 0.0,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "wait_min",
+    "min": 63.37638979081804,
+    "max": 84.94459447192594,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "H1",
+    "metric": "n_observations",
+    "min": 7.458333333333333,
+    "max": 8.833333333333332,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_A",
+    "min": -0.125,
+    "max": 0.0,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_wait_min",
+    "min": -9.178936182773484,
+    "max": 9.115384615384613,
+    "undefined_count": 0
+  },
+  {
+    "batch_id": "remaining_queue03",
+    "scheme": "U0-E",
+    "method": "Learned-H1",
+    "metric": "delta_n_observations",
+    "min": -0.8333333333333321,
+    "max": 0.04166666666666696,
+    "undefined_count": 0
+  }
+]

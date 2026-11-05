@@ -1,0 +1,90 @@
+[
+  {
+    "candidate_id": "C01",
+    "doi": "10.1016/j.jcis.2019.01.022",
+    "status": "admitted_finite_available_subset",
+    "admitted_curves": 6.0,
+    "reason": "Six MO curves;3Ni:Fe ratios x2C0;complete early markers;true120;bounded source check passes; prior qualitative contact retained",
+    "scored_this_round": false,
+    "current_corrected_reason": "Six MO curves;3Ni:Fe ratios x2C0;complete early markers;true120;bounded source check passes; prior qualitative contact retained",
+    "prior_reason_preserved": true,
+    "correction_evidence": null
+  },
+  {
+    "candidate_id": "C02",
+    "doi": "10.1016/j.jcis.2021.05.174",
+    "status": "rejected_fixed120_task",
+    "admitted_curves": 0.0,
+    "reason": "Main Fig6/SI FigS4 anionic trajectories use days, no identifiable real120 point plus3 earlier positives. Minute-scale Fig10 is cationic ChrysoidineG, cannot substitute.",
+    "scored_this_round": false,
+    "current_corrected_reason": "Main Fig6/SI FigS4 anionic trajectories use days, no identifiable real120 point plus3 earlier positives. Minute-scale Fig10 is cationic ChrysoidineG, cannot substitute.",
+    "prior_reason_preserved": true,
+    "correction_evidence": null
+  },
+  {
+    "candidate_id": "C03",
+    "doi": "10.1016/j.envres.2024.118193",
+    "status": "held_specific_evidence",
+    "admitted_curves": 0.0,
+    "reason": "No new early-point numericaltable/clearimage received; previous complete-first-observation identity hold retained, no re-extraction/model run.",
+    "scored_this_round": false,
+    "current_corrected_reason": "No new early-point numericaltable/clearimage received; previous complete-first-observation identity hold retained, no re-extraction/model run.",
+    "prior_reason_preserved": true,
+    "correction_evidence": null
+  },
+  {
+    "candidate_id": "C04",
+    "doi": "10.1016/j.ijbiomac.2020.01.201",
+    "status": "admitted_with_disclosed_source_issues",
+    "admitted_curves": 3.0,
+    "reason": "3CR temperatures all real11positivepointsthrough120,tenstrict earlier,24prefixes; earliest5 vs methods10wording discrepancy retained.",
+    "scored_this_round": true,
+    "current_corrected_reason": "3CR temperatures all real11positivepointsthrough120,tenstrict earlier,24prefixes; earliest5 vs methods10wording discrepancy retained.",
+    "prior_reason_preserved": true,
+    "correction_evidence": null
+  },
+  {
+    "candidate_id": "C05",
+    "doi": "10.1016/j.ijbiomac.2014.10.008",
+    "status": "admitted_with_disclosed_source_issues",
+    "admitted_curves": 3.0,
+    "reason": "3AB10B concentrations;directRemovalpercent,all11pointsthrough120,tenearlier,24prefixes;C05andC06one sharedNorthwestAFfamily.",
+    "scored_this_round": true,
+    "current_corrected_reason": "3AB10B concentrations;directRemovalpercent,all11pointsthrough120,tenearlier,24prefixes;C05andC06one sharedNorthwestAFfamily.",
+    "prior_reason_preserved": true,
+    "correction_evidence": null
+  },
+  {
+    "candidate_id": "C06",
+    "doi": "10.1016/j.ijbiomac.2015.09.017",
+    "status": "rejected_no_real120",
+    "admitted_curves": 0.0,
+    "reason": "RawFig7andtransformedFig8show clocks10,20,30,40,60,100,140,180,240,300,360,400; no real120 point/timebox. FourpotentialMOcurves rejected for fixed120 task; no interpolation. Methods298K vs captions293K conflict retained, not silently resolved.",
+    "scored_this_round": false,
+    "current_corrected_reason": "RawFig7andtransformedFig8show clocks10,20,30,40,60,100,140,180,240,300,360,400; no real120 point/timebox. FourpotentialMOcurves rejected for fixed120 task; no interpolation. Methods298K vs captions293K conflict retained, not silently resolved.",
+    "prior_reason_preserved": true,
+    "correction_evidence": null
+  },
+  {
+    "candidate_id": "C07",
+    "doi": "10.1016/j.jclepro.2023.136334",
+    "status": "admitted_with_disclosed_source_issues",
+    "admitted_curves": 4.0,
+    "reason": "All5RB19conditions recovered from SIobservedsymbols and main identity review. C20/80/100/1504curves admitted,20prefixes;C50singlecondition held published105.42mg/g exceeds100 initialmassmaximum, readingrange alsoabove1; rawunclipped retained. BGcationic excluded.",
+    "scored_this_round": true,
+    "current_corrected_reason": "All5RB19conditions recovered from SIobservedsymbols and main identity review. C20/80/100/1504curves admitted,20prefixes;C50singlecondition held published105.42mg/g exceeds100 initialmassmaximum, readingrange alsoabove1; rawunclipped retained. BGcationic excluded.",
+    "prior_reason_preserved": true,
+    "correction_evidence": null
+  },
+  {
+    "candidate_id": "C08",
+    "doi": "10.1016/j.ijbiomac.2026.152273",
+    "status": "held_specific_evidence",
+    "admitted_curves": 0.0,
+    "reason": "3temperatureCRcurves are visible but Fig3a specificC0/dose notbound; broad5–50mgL and5–50mg do not identify normalization. Separate30mg/30mgL screening cannotborrow:implied25mg/g ceiling contradictskinetic120–136mg/g. Main/SIreceived;hold genuine quantities unknown,not target/model-derived denominator.",
+    "scored_this_round": false,
+    "current_corrected_reason": "Original text explicitly selects30mg for all subsequent experiments. Exact Fig3aC0 and a consistent C0,m,V assignment are not established; stated30mg/25mL/C0<=50 gives ceiling41.67mg/g, incompatible with visible kineticresponses. Keep held, do not inferC0 orchange dose.",
+    "prior_reason_preserved": true,
+    "correction_evidence": "working/research_batches/evidence_closeout01_work/references/C08_additive_erratum.json"
+  }
+]

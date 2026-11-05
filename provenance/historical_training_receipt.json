@@ -1,0 +1,12 @@
+{
+  "completed": true,
+  "heads": 15,
+  "new_fits_this_invocation": 15,
+  "original_recipe_unchanged": true,
+  "dynamics_fits": 0,
+  "old_OOF_scores_loaded": false,
+  "same_model_for_cal_test": true,
+  "fit_after_calibration": false,
+  "hyperparameter_searches": 0,
+  "elapsed_seconds": 6.094000000040978
+}

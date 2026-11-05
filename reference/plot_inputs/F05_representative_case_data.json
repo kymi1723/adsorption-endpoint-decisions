@@ -1,0 +1,1163 @@
+[
+  {
+    "case_id": "C04_success",
+    "curve_id": "Zhang2020_CMC_MMT_CR_T25",
+    "observations": [
+      {
+        "point_id": "Zhang2020_CMC_MMT_CR_T25__marker00",
+        "time_min": 4.769230769230769,
+        "fraction": 0.1784313725490196
+      },
+      {
+        "point_id": "Zhang2020_CMC_MMT_CR_T25__marker01",
+        "time_min": 9.692307692307693,
+        "fraction": 0.20305517555859554
+      },
+      {
+        "point_id": "Zhang2020_CMC_MMT_CR_T25__marker02",
+        "time_min": 14.615384615384615,
+        "fraction": 0.2200182398540812
+      },
+      {
+        "point_id": "Zhang2020_CMC_MMT_CR_T25__marker03",
+        "time_min": 19.846153846153847,
+        "fraction": 0.2361605107159143
+      },
+      {
+        "point_id": "Zhang2020_CMC_MMT_CR_T25__marker04",
+        "time_min": 29.692307692307693,
+        "fraction": 0.24272685818513454
+      },
+      {
+        "point_id": "Zhang2020_CMC_MMT_CR_T25__marker05",
+        "time_min": 39.84615384615385,
+        "fraction": 0.2446420428636571
+      },
+      {
+        "point_id": "Zhang2020_CMC_MMT_CR_T25__marker06",
+        "time_min": 49.69230769230769,
+        "fraction": 0.2460100319197447
+      },
+      {
+        "point_id": "Zhang2020_CMC_MMT_CR_T25__marker07",
+        "time_min": 59.84615384615385,
+        "fraction": 0.24628362973096218
+      },
+      {
+        "point_id": "Zhang2020_CMC_MMT_CR_T25__marker08",
+        "time_min": 79.84615384615384,
+        "fraction": 0.24628362973096218
+      },
+      {
+        "point_id": "Zhang2020_CMC_MMT_CR_T25__marker09",
+        "time_min": 99.84615384615385,
+        "fraction": 0.24655722754217968
+      },
+      {
+        "point_id": "Zhang2020_CMC_MMT_CR_T25__marker10",
+        "time_min": 119.84615384615384,
+        "fraction": 0.24655722754217968
+      }
+    ],
+    "target": {
+      "native_x": 1068,
+      "native_y": 84,
+      "time_min": 119.84615384615384,
+      "time_interval_min": [
+        119.07692307692308,
+        120.61696658097686
+      ],
+      "q_mg_g": 73.9671682626539,
+      "q_interval_mg_g": [
+        73.76196990424077,
+        74.17236662106703
+      ],
+      "curve_id": "Zhang2020_CMC_MMT_CR_T25",
+      "point_id": "Zhang2020_CMC_MMT_CR_T25__marker10",
+      "candidate_id": "C04",
+      "reported_nominal_time_min": 120,
+      "time_lower_min": 119.07692307692308,
+      "time_upper_min": 120.61696658097686,
+      "response_value": 73.9671682626539,
+      "response_unit": "mg/g",
+      "fraction": 0.24655722754217968,
+      "fraction_lower": 0.2458732330141359,
+      "fraction_upper": 0.24724122207022345,
+      "normalization_factor": 0.0033333333333333335,
+      "native_unit": "original raster pixel",
+      "raw_observed_symbol": true,
+      "experimental_SD": null,
+      "replicate_count": null,
+      "reading_not_SD": true,
+      "eligible_for_main_task": true
+    },
+    "saved_forecasts": [
+      {
+        "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix3",
+        "k": 3,
+        "time_min": 14.615384615384615,
+        "prediction": 0.24127163132323617
+      },
+      {
+        "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix4",
+        "k": 4,
+        "time_min": 19.846153846153847,
+        "prediction": 0.25180689019538655
+      },
+      {
+        "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix5",
+        "k": 5,
+        "time_min": 29.692307692307693,
+        "prediction": 0.2545133817077888
+      },
+      {
+        "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix6",
+        "k": 6,
+        "time_min": 39.84615384615385,
+        "prediction": 0.2542731859390047
+      },
+      {
+        "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix7",
+        "k": 7,
+        "time_min": 49.69230769230769,
+        "prediction": 0.25367589513814903
+      },
+      {
+        "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix8",
+        "k": 8,
+        "time_min": 59.84615384615385,
+        "prediction": 0.2528936044457085
+      },
+      {
+        "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix9",
+        "k": 9,
+        "time_min": 79.84615384615384,
+        "prediction": 0.25186859852431
+      },
+      {
+        "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix10",
+        "k": 10,
+        "time_min": 99.84615384615385,
+        "prediction": 0.2509916821065879
+      }
+    ],
+    "frozen_R2_action": {
+      "dataset": "frozen_R2_remaining_queue03",
+      "curve_id": "Zhang2020_CMC_MMT_CR_T25",
+      "source_id": "Zhang2020_C04",
+      "doi": "10.1016/j.ijbiomac.2020.01.201",
+      "family": "China_NJUST_NIES_Zhang_Wang_Xia",
+      "canonical_group_id": "China_NJUST_NIES_Zhang_Wang_Xia",
+      "state_id": "Zhang2020_CMC_MMT_CR_T25__prefix7",
+      "selected_k": 7,
+      "adopted": true,
+      "wrong_adoption": false,
+      "prediction": 0.25367589513814903,
+      "target_fraction": 0.24655722754217968,
+      "absolute_error_pp": 0.7118667595969352,
+      "adoption_time_min": 49.69230769230769,
+      "elapsed_time_min": 49.69230769230769,
+      "t3_min": 14.615384615384615,
+      "wait_min": 35.07692307692308,
+      "target_time_min": 119.84615384615384,
+      "time_over_target": 0.41463414634146345,
+      "new_measurements": 4,
+      "n_observations": 7,
+      "target_fallback": false,
+      "method": "R2",
+      "contact_layer": "new full primary after frozen method; prior queue metadata only",
+      "evidence_batch": "frozen_R2_remaining_queue03",
+      "scientific_task_eligibility": "All real positive observations before unique120timebox; no firstpoint truncation,interpolation or fittedline responses",
+      "material_scope": "modified MMT/bentonite composite, anionic dye",
+      "source_priority_and_verification": "ScienceDirect primary; CAS evidence remains previous publicly reported/edition major unverified,notJCR/brand",
+      "development_contact": "Frozen queue metadata/recruitment only for these DOI; newly received full primary this round; no known numeric model selection/fit/calibration contact found",
+      "target_only_error_min_pp": 0.6434673067925584,
+      "target_only_error_max_pp": 0.7802662124013121,
+      "observed_effect": "adopted within5pp"
+    },
+    "source_files": [
+      "working/research_batches/frozen_R2_remaining_queue03_work/protocol/cohort_frozen.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/data/native_observations.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/results/prefix_predictions_scores.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/results/curve_results.json"
+    ],
+    "role": "Illustration specified by handoff, no replacement or newly selected stop",
+    "plot_semantics": "Observed taskpoints to real120box; dashed forecasts are SAVED target predictions plotted at prefix-end clock, not observations or fitted response paths. Laterpublicationpoints omitted from this120taskplot."
+  },
+  {
+    "case_id": "C05_adopt",
+    "curve_id": "Liu2015_CCS_BT_AB10B_C100",
+    "observations": [
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C100__marker00",
+        "time_min": 5.065234075211052,
+        "fraction": 0.7926286803643295
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C100__marker01",
+        "time_min": 10.015349194167307,
+        "fraction": 0.8951493327684813
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C100__marker02",
+        "time_min": 14.96546431312356,
+        "fraction": 0.9341241262444397
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C100__marker03",
+        "time_min": 20.030698388334613,
+        "fraction": 0.9887735649226859
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C100__marker04",
+        "time_min": 24.980813507290865,
+        "fraction": 0.9913153992798137
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C100__marker05",
+        "time_min": 29.93092862624712,
+        "fraction": 0.9993645414107181
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C100__marker06",
+        "time_min": 39.94627782041443,
+        "fraction": 0.9993645414107181
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C100__marker07",
+        "time_min": 59.74673829623945,
+        "fraction": 1.0002118195297607
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C100__marker08",
+        "time_min": 80.12279355333845,
+        "fraction": 1.0002118195297607
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C100__marker09",
+        "time_min": 100.03837298541826,
+        "fraction": 1.0002118195297607
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C100__marker10",
+        "time_min": 119.95395241749809,
+        "fraction": 1.0002118195297607
+      }
+    ],
+    "target": {
+      "native_x": 1629,
+      "native_y": 119,
+      "time_min": 119.95395241749809,
+      "time_interval_min": [
+        119.66615502686108,
+        120.24174980813507
+      ],
+      "q_mg_g": 100.02118195297606,
+      "q_interval_mg_g": [
+        99.91527218809574,
+        100.12714558169105
+      ],
+      "curve_id": "Liu2015_CCS_BT_AB10B_C100",
+      "point_id": "Liu2015_CCS_BT_AB10B_C100__marker10",
+      "candidate_id": "C05",
+      "reported_nominal_time_min": 120,
+      "time_lower_min": 119.66615502686108,
+      "time_upper_min": 120.24174980813507,
+      "response_value": 100.02118195297606,
+      "response_unit": "percent removal",
+      "fraction": 1.0002118195297607,
+      "fraction_lower": 0.9991527218809574,
+      "fraction_upper": 1.0012714558169105,
+      "normalization_factor": 0.01,
+      "native_unit": "original encoded raster pixel",
+      "raw_observed_symbol": true,
+      "experimental_SD": null,
+      "replicate_count": null,
+      "reading_not_SD": true,
+      "eligible_for_main_task": true
+    },
+    "saved_forecasts": [
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C100__prefix3",
+        "k": 3,
+        "time_min": 14.96546431312356,
+        "prediction": 0.9896619826410259
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C100__prefix4",
+        "k": 4,
+        "time_min": 20.030698388334613,
+        "prediction": 0.990270491251336
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C100__prefix5",
+        "k": 5,
+        "time_min": 24.980813507290865,
+        "prediction": 0.9906230738183592
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C100__prefix6",
+        "k": 6,
+        "time_min": 29.93092862624712,
+        "prediction": 0.9909029203028618
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C100__prefix7",
+        "k": 7,
+        "time_min": 39.94627782041443,
+        "prediction": 0.9910536790814923
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C100__prefix8",
+        "k": 8,
+        "time_min": 59.74673829623945,
+        "prediction": 0.9911231194550183
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C100__prefix9",
+        "k": 9,
+        "time_min": 80.12279355333845,
+        "prediction": 0.9911617856842398
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C100__prefix10",
+        "k": 10,
+        "time_min": 100.03837298541826,
+        "prediction": 0.9911866440626896
+      }
+    ],
+    "frozen_R2_action": {
+      "dataset": "frozen_R2_remaining_queue03",
+      "curve_id": "Liu2015_CCS_BT_AB10B_C100",
+      "source_id": "Liu2015_C05",
+      "doi": "10.1016/j.ijbiomac.2014.10.008",
+      "family": "China_NorthwestAF_Liu_Zhang_Huang",
+      "canonical_group_id": "China_NorthwestAF_Liu_Zhang_Huang",
+      "state_id": "Liu2015_CCS_BT_AB10B_C100__prefix5",
+      "selected_k": 5,
+      "adopted": true,
+      "wrong_adoption": false,
+      "prediction": 0.9906230738183592,
+      "target_fraction": 1.0002118195297607,
+      "absolute_error_pp": 0.9588745711401447,
+      "adoption_time_min": 24.980813507290865,
+      "elapsed_time_min": 24.980813507290865,
+      "t3_min": 14.96546431312356,
+      "wait_min": 10.015349194167305,
+      "target_time_min": 119.95395241749809,
+      "time_over_target": 0.20825335892514393,
+      "new_measurements": 2,
+      "n_observations": 5,
+      "target_fallback": false,
+      "method": "R2",
+      "contact_layer": "new full primary after frozen method; prior queue metadata only",
+      "evidence_batch": "frozen_R2_remaining_queue03",
+      "scientific_task_eligibility": "All real positive observations before unique120timebox; no firstpoint truncation,interpolation or fittedline responses",
+      "material_scope": "modified MMT/bentonite composite, anionic dye",
+      "source_priority_and_verification": "ScienceDirect primary; CAS evidence remains previous publicly reported/edition major unverified,notJCR/brand",
+      "development_contact": "Frozen queue metadata/recruitment only for these DOI; newly received full primary this round; no known numeric model selection/fit/calibration contact found",
+      "target_only_error_min_pp": 0.852964806259815,
+      "target_only_error_max_pp": 1.0648381998551226,
+      "observed_effect": "adopted within5pp"
+    },
+    "source_files": [
+      "working/research_batches/frozen_R2_remaining_queue03_work/protocol/cohort_frozen.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/data/native_observations.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/results/prefix_predictions_scores.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/results/curve_results.json"
+    ],
+    "role": "Illustration specified by handoff, no replacement or newly selected stop",
+    "plot_semantics": "Observed taskpoints to real120box; dashed forecasts are SAVED target predictions plotted at prefix-end clock, not observations or fitted response paths. Laterpublicationpoints omitted from this120taskplot."
+  },
+  {
+    "case_id": "C05_fallback",
+    "curve_id": "Liu2015_CCS_BT_AB10B_C200",
+    "observations": [
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C200__marker00",
+        "time_min": 5.065234075211052,
+        "fraction": 0.49819953399703454
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C200__marker01",
+        "time_min": 10.015349194167307,
+        "fraction": 0.5613217538657064
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C200__marker02",
+        "time_min": 14.96546431312356,
+        "fraction": 0.5740309256513451
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C200__marker03",
+        "time_min": 20.030698388334613,
+        "fraction": 0.6024147426392713
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C200__marker04",
+        "time_min": 24.980813507290865,
+        "fraction": 0.6197839440796441
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C200__marker05",
+        "time_min": 29.93092862624712,
+        "fraction": 0.6320694768057615
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C200__marker06",
+        "time_min": 39.94627782041443,
+        "fraction": 0.7125608981148063
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C200__marker07",
+        "time_min": 59.74673829623945,
+        "fraction": 0.8015251006142766
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C200__marker08",
+        "time_min": 80.12279355333845,
+        "fraction": 0.8337216691378945
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C200__marker09",
+        "time_min": 100.03837298541826,
+        "fraction": 0.8824401609828426
+      },
+      {
+        "point_id": "Liu2015_CCS_BT_AB10B_C200__marker10",
+        "time_min": 119.95395241749809,
+        "fraction": 0.9188731201016733
+      }
+    ],
+    "target": {
+      "native_x": 1629,
+      "native_y": 311,
+      "time_min": 119.95395241749809,
+      "time_interval_min": [
+        119.66615502686108,
+        120.24174980813507
+      ],
+      "q_mg_g": 91.88731201016734,
+      "q_interval_mg_g": [
+        91.78140224528701,
+        91.99322177504766
+      ],
+      "curve_id": "Liu2015_CCS_BT_AB10B_C200",
+      "point_id": "Liu2015_CCS_BT_AB10B_C200__marker10",
+      "candidate_id": "C05",
+      "reported_nominal_time_min": 120,
+      "time_lower_min": 119.66615502686108,
+      "time_upper_min": 120.24174980813507,
+      "response_value": 91.88731201016734,
+      "response_unit": "percent removal",
+      "fraction": 0.9188731201016733,
+      "fraction_lower": 0.9178140224528701,
+      "fraction_upper": 0.9199322177504766,
+      "normalization_factor": 0.01,
+      "native_unit": "original encoded raster pixel",
+      "raw_observed_symbol": true,
+      "experimental_SD": null,
+      "replicate_count": null,
+      "reading_not_SD": true,
+      "eligible_for_main_task": true
+    },
+    "saved_forecasts": [
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C200__prefix3",
+        "k": 3,
+        "time_min": 14.96546431312356,
+        "prediction": 0.6211268733422902
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C200__prefix4",
+        "k": 4,
+        "time_min": 20.030698388334613,
+        "prediction": 0.631415414720859
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C200__prefix5",
+        "k": 5,
+        "time_min": 24.980813507290865,
+        "prediction": 0.6404936574841914
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C200__prefix6",
+        "k": 6,
+        "time_min": 29.93092862624712,
+        "prediction": 0.6474947431640741
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C200__prefix7",
+        "k": 7,
+        "time_min": 39.94627782041443,
+        "prediction": 0.6797912461324137
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C200__prefix8",
+        "k": 8,
+        "time_min": 59.74673829623945,
+        "prediction": 0.7302978226900444
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C200__prefix9",
+        "k": 9,
+        "time_min": 80.12279355333845,
+        "prediction": 0.7698687435584917
+      },
+      {
+        "state_id": "Liu2015_CCS_BT_AB10B_C200__prefix10",
+        "k": 10,
+        "time_min": 100.03837298541826,
+        "prediction": 0.8063350313656501
+      }
+    ],
+    "frozen_R2_action": {
+      "dataset": "frozen_R2_remaining_queue03",
+      "curve_id": "Liu2015_CCS_BT_AB10B_C200",
+      "source_id": "Liu2015_C05",
+      "doi": "10.1016/j.ijbiomac.2014.10.008",
+      "family": "China_NorthwestAF_Liu_Zhang_Huang",
+      "canonical_group_id": "China_NorthwestAF_Liu_Zhang_Huang",
+      "state_id": null,
+      "selected_k": null,
+      "adopted": false,
+      "wrong_adoption": false,
+      "prediction": 0.9188731201016733,
+      "target_fraction": 0.9188731201016733,
+      "absolute_error_pp": 0.0,
+      "adoption_time_min": 119.95395241749809,
+      "elapsed_time_min": 119.95395241749809,
+      "t3_min": 14.96546431312356,
+      "wait_min": 104.98848810437453,
+      "target_time_min": 119.95395241749809,
+      "time_over_target": 1.0,
+      "new_measurements": 8,
+      "n_observations": 11,
+      "target_fallback": true,
+      "method": "R2",
+      "contact_layer": "new full primary after frozen method; prior queue metadata only",
+      "evidence_batch": "frozen_R2_remaining_queue03",
+      "scientific_task_eligibility": "All real positive observations before unique120timebox; no firstpoint truncation,interpolation or fittedline responses",
+      "material_scope": "modified MMT/bentonite composite, anionic dye",
+      "source_priority_and_verification": "ScienceDirect primary; CAS evidence remains previous publicly reported/edition major unverified,notJCR/brand",
+      "development_contact": "Frozen queue metadata/recruitment only for these DOI; newly received full primary this round; no known numeric model selection/fit/calibration contact found",
+      "target_only_error_min_pp": null,
+      "target_only_error_max_pp": null,
+      "observed_effect": "target measured; no early prediction adopted"
+    },
+    "source_files": [
+      "working/research_batches/frozen_R2_remaining_queue03_work/protocol/cohort_frozen.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/data/native_observations.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/results/prefix_predictions_scores.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/results/curve_results.json"
+    ],
+    "role": "Illustration specified by handoff, no replacement or newly selected stop",
+    "plot_semantics": "Observed taskpoints to real120box; dashed forecasts are SAVED target predictions plotted at prefix-end clock, not observations or fitted response paths. Laterpublicationpoints omitted from this120taskplot."
+  },
+  {
+    "case_id": "C07_fallback",
+    "curve_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20",
+    "observations": [
+      {
+        "point_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__marker01",
+        "time_min": 1.8744551002615517,
+        "fraction": 0.6764160485502361
+      },
+      {
+        "point_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__marker02",
+        "time_min": 4.882301656495205,
+        "fraction": 0.6890593391773432
+      },
+      {
+        "point_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__marker03",
+        "time_min": 9.89537925021796,
+        "fraction": 0.7838840188806474
+      },
+      {
+        "point_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__marker04",
+        "time_min": 14.864864864864865,
+        "fraction": 0.7838840188806474
+      },
+      {
+        "point_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__marker05",
+        "time_min": 19.87794245858762,
+        "fraction": 0.7838840188806474
+      },
+      {
+        "point_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__marker06",
+        "time_min": 29.86050566695728,
+        "fraction": 0.7838840188806474
+      },
+      {
+        "point_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__marker07",
+        "time_min": 59.85178727114211,
+        "fraction": 0.7838840188806474
+      },
+      {
+        "point_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__marker08",
+        "time_min": 119.87794245858763,
+        "fraction": 0.7838840188806474
+      }
+    ],
+    "target": {
+      "native_x": 3899.0,
+      "native_y": -2884.0,
+      "time_min": 119.87794245858763,
+      "time_interval_min": [
+        119.35483870967742,
+        120.40104620749783
+      ],
+      "q_mg_g": 31.355360755225895,
+      "q_interval_mg_g": [
+        30.343897505057317,
+        32.36682400539447
+      ],
+      "curve_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20",
+      "point_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__marker08",
+      "candidate_id": "C07",
+      "reported_nominal_time_min": 120,
+      "time_lower_min": 119.35483870967742,
+      "time_upper_min": 120.40104620749783,
+      "response_value": 31.355360755225895,
+      "response_unit": "mg/g",
+      "fraction": 0.7838840188806474,
+      "fraction_lower": 0.758597437626433,
+      "fraction_upper": 0.8091706001348618,
+      "normalization_factor": 0.025,
+      "native_unit": "SI EMF logical coordinate",
+      "raw_observed_symbol": true,
+      "experimental_SD": null,
+      "replicate_count": null,
+      "reading_not_SD": true,
+      "eligible_for_main_task": true
+    },
+    "saved_forecasts": [
+      {
+        "state_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__prefix3",
+        "k": 3,
+        "time_min": 9.89537925021796,
+        "prediction": 0.7768333774481805
+      },
+      {
+        "state_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__prefix4",
+        "k": 4,
+        "time_min": 14.864864864864865,
+        "prediction": 0.7893361427408954
+      },
+      {
+        "state_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__prefix5",
+        "k": 5,
+        "time_min": 19.87794245858762,
+        "prediction": 0.7920419441588887
+      },
+      {
+        "state_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__prefix6",
+        "k": 6,
+        "time_min": 29.86050566695728,
+        "prediction": 0.7918302270999499
+      },
+      {
+        "state_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20__prefix7",
+        "k": 7,
+        "time_min": 59.85178727114211,
+        "prediction": 0.7904334732977705
+      }
+    ],
+    "frozen_R2_action": {
+      "dataset": "frozen_R2_remaining_queue03",
+      "curve_id": "Jawad2023_CHS_BZ_MT_AL_RB19_C20",
+      "source_id": "Jawad2023_C07",
+      "doi": "10.1016/j.jclepro.2023.136334",
+      "family": "Malaysia_UiTM_Jawad_Abdulhameed_Surip",
+      "canonical_group_id": "Malaysia_UiTM_Jawad_Abdulhameed_Surip",
+      "state_id": null,
+      "selected_k": null,
+      "adopted": false,
+      "wrong_adoption": false,
+      "prediction": 0.7838840188806474,
+      "target_fraction": 0.7838840188806474,
+      "absolute_error_pp": 0.0,
+      "adoption_time_min": 119.87794245858763,
+      "elapsed_time_min": 119.87794245858763,
+      "t3_min": 9.89537925021796,
+      "wait_min": 109.98256320836967,
+      "target_time_min": 119.87794245858763,
+      "time_over_target": 1.0,
+      "new_measurements": 5,
+      "n_observations": 8,
+      "target_fallback": true,
+      "method": "R2",
+      "contact_layer": "new full primary after frozen method; prior queue metadata only",
+      "evidence_batch": "frozen_R2_remaining_queue03",
+      "scientific_task_eligibility": "All real positive observations before unique120timebox; no firstpoint truncation,interpolation or fittedline responses",
+      "material_scope": "modified MMT/bentonite composite, anionic dye",
+      "source_priority_and_verification": "ScienceDirect primary; CAS evidence remains previous publicly reported/edition major unverified,notJCR/brand",
+      "development_contact": "Frozen queue metadata/recruitment only for these DOI; newly received full primary this round; no known numeric model selection/fit/calibration contact found",
+      "target_only_error_min_pp": null,
+      "target_only_error_max_pp": null,
+      "observed_effect": "target measured; no early prediction adopted"
+    },
+    "source_files": [
+      "working/research_batches/frozen_R2_remaining_queue03_work/protocol/cohort_frozen.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/data/native_observations.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/results/prefix_predictions_scores.json",
+      "working/research_batches/frozen_R2_remaining_queue03_work/results/curve_results.json"
+    ],
+    "role": "Illustration specified by handoff, no replacement or newly selected stop",
+    "plot_semantics": "Observed taskpoints to real120box; dashed forecasts are SAVED target predictions plotted at prefix-end clock, not observations or fitted response paths. Laterpublicationpoints omitted from this120taskplot."
+  },
+  {
+    "case_id": "Fan_unsafe",
+    "curve_id": "Fan2022_CMP30_CR_C950_T303_Fig6a",
+    "observations": [
+      {
+        "point_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__p01",
+        "time_min": 11.065700958434547,
+        "fraction": 0.13099347956095703
+      },
+      {
+        "point_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__p02",
+        "time_min": 29.35146691515456,
+        "fraction": 0.18118294429169882
+      },
+      {
+        "point_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__p03",
+        "time_min": 50.43395579852847,
+        "fraction": 0.19517561705123948
+      },
+      {
+        "point_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__p04",
+        "time_min": 69.77751455623076,
+        "fraction": 0.23708811425457368
+      },
+      {
+        "point_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__p05",
+        "time_min": 99.84029306281178,
+        "fraction": 0.25969231331973297
+      },
+      {
+        "point_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__p06",
+        "time_min": 119.10999058391673,
+        "fraction": 0.30093905514385094
+      }
+    ],
+    "target": {
+      "curve_id": "Fan2022_CMP30_CR_C950_T303_Fig6a",
+      "point_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__p06",
+      "fraction": 0.30093905514385094,
+      "fraction_lower": 0.2975336641475664,
+      "fraction_upper": 0.30434444614013556,
+      "time_min": 119.10999058391673,
+      "time_lower": 114.69985239634529,
+      "time_upper": 123.52012877148816
+    },
+    "saved_forecasts": [
+      {
+        "state_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__prefix3",
+        "k": 3,
+        "time_min": 50.43395579852847,
+        "prediction": 0.2137091768268251
+      },
+      {
+        "state_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__prefix4",
+        "k": 4,
+        "time_min": 69.77751455623076,
+        "prediction": 0.23643257747907992
+      },
+      {
+        "state_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__prefix5",
+        "k": 5,
+        "time_min": 99.84029306281178,
+        "prediction": 0.2513921680191872
+      }
+    ],
+    "frozen_R2_action": {
+      "dataset": "cumulative15",
+      "curve_id": "Fan2022_CMP30_CR_C950_T303_Fig6a",
+      "source_id": "Fan2022",
+      "doi": "10.1016/j.ijbiomac.2022.05.042",
+      "family": "China_GuangxiU_Fan_Zhang_Qin",
+      "canonical_group_id": "China_GuangxiU_Fan_Zhang_Qin",
+      "state_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__prefix4",
+      "selected_k": 4,
+      "adopted": true,
+      "wrong_adoption": true,
+      "prediction": 0.23643257747907992,
+      "target_fraction": 0.30093905514385094,
+      "absolute_error_pp": 6.450647766477102,
+      "adoption_time_min": 69.77751455623076,
+      "elapsed_time_min": 69.77751455623076,
+      "t3_min": 50.43395579852847,
+      "wait_min": 19.343558757702283,
+      "target_time_min": 119.10999058391673,
+      "time_over_target": 0.5858241967290755,
+      "new_measurements": 1,
+      "n_observations": 4,
+      "target_fallback": false,
+      "method": "R2",
+      "contact_layer": "new_response_prior_candidate_metadata_only",
+      "evidence_batch": "frozen_r2_external_validation04",
+      "scientific_task_eligibility": "all15 experimental Fig6a rings recovered; unique120 timebox,5positive strictpretarget, dose/C0 explicit",
+      "material_scope": "modified_MMT_composite_core",
+      "source_priority_and_verification": "ScienceDirect IJBM;2025CASbiology2Top indirect prior reviewed evidence, official export unavailable",
+      "development_contact": "prior candidate/metadata only; no prior response/model use identified; cached historical author review bounded, not fully blind",
+      "target_only_error_min_pp": 6.110108666848646,
+      "target_only_error_max_pp": 6.791186866105564,
+      "observed_effect": "adopted above5pp",
+      "origin_dataset": "external04_new_response",
+      "original_evidence_batch": "external04_prior_completed",
+      "merge_input_batch": "external04_prior_completed",
+      "material_layer": "core",
+      "original_contact_layer": "new_response_prior_candidate_metadata_only",
+      "current_contact_identity": "already contacted; evidence closeout not newconfirmation",
+      "new_response_this_round": false,
+      "material_class": "polymer_or_biopolymer_composite",
+      "new_position_selected": false,
+      "PSO_prediction": 0.23643257747907992,
+      "Last_prediction": 0.23708811425457368,
+      "PFO_prediction": 0.21760624321210714,
+      "PFO_available": true,
+      "PFO_reason": "converged_finite",
+      "PFO_fe": 0.21764211722622118,
+      "PFO_tau_min": 13.674152270535108,
+      "PFO_prefix_RMSE_pp": 1.5390433188951884,
+      "PSO_prefix_RMSE_pp": 1.1200312290549932,
+      "Last_prefix_RMSE_pp": 6.3517944238556305,
+      "PFO_weakly_identified": false,
+      "PFO_next_prediction": 0.21749529548596241,
+      "PSO_Last_gap_pp": 0.06555367754937647,
+      "PSO_PFO_gap_pp": 1.8826334266972777,
+      "PFO_Last_gap_pp": 1.9481871042466543,
+      "label_target_fraction": 0.30093905514385094,
+      "label_next_fraction": 0.25969231331973297,
+      "label_PSO_error_pp": 6.450647766477102,
+      "label_Last_error_pp": 6.385094088927726,
+      "label_PFO_error_pp": 8.333281193174379,
+      "label_PFO_next_error_pp": 4.219701783377055,
+      "label_Last_next_error_pp": 2.2604199065159287,
+      "label_opportunity": "both_wrong",
+      "domain_diagnostics": [
+        {
+          "row_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__prefix4",
+          "state_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__prefix4",
+          "curve_id": "Fan2022_CMP30_CR_C950_T303_Fig6a",
+          "canonical_group_id": "China_GuangxiU_Fan_Zhang_Qin",
+          "k": 4,
+          "last_time_min": 69.77751455623076,
+          "distance": 1.6283785091138032,
+          "LOSO_reference_weighted_percentile": 0.1934290723200508,
+          "nearest_row_id": "ce03225726568ea2e36390ab",
+          "nearest_curve_id": "ACS2017_3OMMT_C80",
+          "nearest_group": "University_of_Leeds",
+          "nearest_k": 4,
+          "nearest_time_min": 89.85343924779018,
+          "own_source_excluded_from_scaling_and_neighbors": false,
+          "reference_fit_rows": 14596,
+          "reference_fit_groups": 7,
+          "same_n_reference_rows": 305,
+          "same_n_time_min": 9.94804687681178,
+          "same_n_time_max": 104.9523809523809,
+          "time_within_same_n_training_range": true,
+          "top_current_feature_differences": [
+            {
+              "column": 1,
+              "query_value": 2.490366795891999,
+              "neighbor_value": 3.037579908629508,
+              "standardized_difference": -0.7436966779680783
+            },
+            {
+              "column": 7,
+              "query_value": 0.14079606580202353,
+              "neighbor_value": 0.07229398884208751,
+              "standardized_difference": 0.6466102547249812
+            },
+            {
+              "column": 10,
+              "query_value": 0.25992755778014537,
+              "neighbor_value": 0.4119789618741948,
+              "standardized_difference": -0.6464016076684109
+            },
+            {
+              "column": 12,
+              "query_value": 0.23643257747907992,
+              "neighbor_value": 0.3850335204629113,
+              "standardized_difference": -0.6364129051799524
+            },
+            {
+              "column": 5,
+              "query_value": 0.23708811425457368,
+              "neighbor_value": 0.38294116343669793,
+              "standardized_difference": -0.5765500590242502
+            }
+          ],
+          "support": "R2_final_actual"
+        },
+        {
+          "row_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__prefix4",
+          "state_id": "Fan2022_CMP30_CR_C950_T303_Fig6a__prefix4",
+          "curve_id": "Fan2022_CMP30_CR_C950_T303_Fig6a",
+          "canonical_group_id": "China_GuangxiU_Fan_Zhang_Qin",
+          "k": 4,
+          "last_time_min": 69.77751455623076,
+          "distance": 1.638780633489823,
+          "LOSO_reference_weighted_percentile": 0.1717273954116059,
+          "nearest_row_id": "ce03225726568ea2e36390ab",
+          "nearest_curve_id": "ACS2017_3OMMT_C80",
+          "nearest_group": "University_of_Leeds",
+          "nearest_k": 4,
+          "nearest_time_min": 89.85343924779015,
+          "own_source_excluded_from_scaling_and_neighbors": true,
+          "reference_fit_rows": 406,
+          "reference_fit_groups": 12,
+          "same_n_reference_rows": 66,
+          "same_n_time_min": 9.94804687681178,
+          "same_n_time_max": 89.85343924779015,
+          "time_within_same_n_training_range": true,
+          "top_current_feature_differences": [
+            {
+              "column": 1,
+              "query_value": 2.490366795891999,
+              "neighbor_value": 3.037579908629508,
+              "standardized_difference": -0.8556309188236401
+            },
+            {
+              "column": 10,
+              "query_value": 0.25992755778014537,
+              "neighbor_value": 0.4119789618741948,
+              "standardized_difference": -0.5887337125721431
+            },
+            {
+              "column": 7,
+              "query_value": 0.14079606580202353,
+              "neighbor_value": 0.07229398884208751,
+              "standardized_difference": 0.5871978918144868
+            },
+            {
+              "column": 12,
+              "query_value": 0.23643257747907992,
+              "neighbor_value": 0.3850335204629113,
+              "standardized_difference": -0.5754592685466255
+            },
+            {
+              "column": 5,
+              "query_value": 0.23708811425457368,
+              "neighbor_value": 0.38294116343669793,
+              "standardized_difference": -0.5409316037030937
+            }
+          ],
+          "support": "B13"
+        }
+      ]
+    },
+    "source_files": [
+      "working/research_batches/development_source_expansion01_work/data/task120_sequences.json",
+      "working/research_batches/development_source_expansion01_work/inputs/complete_prefix_cache_records.json",
+      "working/research_batches/domain_predictor_complementarity01_work/results/frozen_R2_positions.json"
+    ],
+    "role": "Illustration specified by handoff, no replacement or newly selected stop",
+    "plot_semantics": "Observed taskpoints to real120box; dashed forecasts are SAVED target predictions plotted at prefix-end clock, not observations or fitted response paths. Laterpublicationpoints omitted from this120taskplot."
+  },
+  {
+    "case_id": "N4_fallback",
+    "curve_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a",
+    "observations": [
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker01",
+        "time_min": 0.9568086039549206,
+        "fraction": 0.13136729222520108
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker02",
+        "time_min": 1.9526706203161646,
+        "fraction": 0.2386058981233244
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker03",
+        "time_min": 2.930226349611945,
+        "fraction": 0.31903485254691694
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker04",
+        "time_min": 4.843843557521786,
+        "fraction": 0.3780160857908847
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker05",
+        "time_min": 9.885395015350584,
+        "fraction": 0.4932975871313673
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker06",
+        "time_min": 14.767071566140997,
+        "fraction": 0.5361930294906166
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker07",
+        "time_min": 19.995347152037525,
+        "fraction": 0.5656836461126007
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker08",
+        "time_min": 29.70012013500887,
+        "fraction": 0.6246648793565683
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker09",
+        "time_min": 39.98215137011117,
+        "fraction": 0.6702412868632709
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker10",
+        "time_min": 49.79798249461299,
+        "fraction": 0.7024128686327079
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker11",
+        "time_min": 59.60649110428863,
+        "fraction": 0.7399463806970511
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker12",
+        "time_min": 89.62880189164966,
+        "fraction": 0.7989276139410187
+      },
+      {
+        "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker13",
+        "time_min": 119.56324250109647,
+        "fraction": 0.8310991957104558
+      }
+    ],
+    "target": {
+      "native_x": 390,
+      "native_y": 525,
+      "time_min": 119.56324250109647,
+      "time_interval_min": [
+        117.66091417021033,
+        121.48082607120382
+      ],
+      "q_mg_g": 207.77479892761394,
+      "q_interval_mg_g": [
+        206.09919571045577,
+        209.4504021447721
+      ],
+      "point_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__marker13",
+      "curve_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a",
+      "reported_nominal_time_min": 120,
+      "fraction": 0.8310991957104558,
+      "fraction_lower": 0.8243967828418232,
+      "fraction_upper": 0.8378016085790885,
+      "time_lower_min": 117.66091417021033,
+      "time_upper_min": 121.48082607120382,
+      "normalization_factor": 0.004,
+      "experimental_SD": null,
+      "experimental_timing_error": null,
+      "reading_not_SD": true,
+      "raw_observed_symbol": true,
+      "channel": "Fig8d observedcircle, duplicateofFig8a notadditionalexperiment"
+    },
+    "saved_forecasts": [
+      {
+        "state_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__prefix3",
+        "k": 3,
+        "time_min": 2.930226349611945,
+        "prediction": 0.9502756197569748
+      },
+      {
+        "state_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__prefix4",
+        "k": 4,
+        "time_min": 4.843843557521786,
+        "prediction": 0.6456586309991779
+      },
+      {
+        "state_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__prefix5",
+        "k": 5,
+        "time_min": 9.885395015350584,
+        "prediction": 0.6498244031104246
+      },
+      {
+        "state_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__prefix6",
+        "k": 6,
+        "time_min": 14.767071566140997,
+        "prediction": 0.6457712011369839
+      },
+      {
+        "state_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__prefix7",
+        "k": 7,
+        "time_min": 19.995347152037525,
+        "prediction": 0.6456029445830617
+      },
+      {
+        "state_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__prefix8",
+        "k": 8,
+        "time_min": 29.70012013500887,
+        "prediction": 0.6622395359894334
+      },
+      {
+        "state_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__prefix9",
+        "k": 9,
+        "time_min": 39.98215137011117,
+        "prediction": 0.6821508896774018
+      },
+      {
+        "state_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__prefix10",
+        "k": 10,
+        "time_min": 49.79798249461299,
+        "prediction": 0.6999548261854616
+      },
+      {
+        "state_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__prefix11",
+        "k": 11,
+        "time_min": 59.60649110428863,
+        "prediction": 0.7189677470581165
+      },
+      {
+        "state_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a__prefix12",
+        "k": 12,
+        "time_min": 89.62880189164966,
+        "prediction": 0.7428990642566113
+      }
+    ],
+    "frozen_R2_action": {
+      "dataset": "confirmation01_new_family",
+      "curve_id": "Yuan2024_CNF_TA_PMMT_PEI_CR_C50_Fig8a",
+      "source_id": "Yuan2024_N4",
+      "doi": "10.1016/j.seppur.2024.127979",
+      "family": "China_NanjingTech_Yuan_Liu_Cui",
+      "canonical_group_id": "China_NanjingTech_Yuan_Liu_Cui",
+      "state_id": null,
+      "selected_k": null,
+      "adopted": false,
+      "wrong_adoption": false,
+      "prediction": 0.8310991957104558,
+      "target_fraction": 0.8310991957104558,
+      "absolute_error_pp": 0.0,
+      "adoption_time_min": 119.56324250109647,
+      "elapsed_time_min": 119.56324250109647,
+      "t3_min": 2.930226349611945,
+      "wait_min": 116.63301615148453,
+      "target_time_min": 119.56324250109647,
+      "time_over_target": 1.0,
+      "new_measurements": 10,
+      "n_observations": 13,
+      "target_fallback": true,
+      "method": "R2",
+      "contact_layer": "prior metadata/admission only, no modelperformance; new responses this frozenmethodbatch",
+      "evidence_batch": "frozen_R2_independent_confirmation01",
+      "scientific_task_eligibility": "15actualcircles tiedtoSI15clocks;unique120timebox,12positive strict-earlierpoints;sameexperimentpairednativeplot,notinterpolated",
+      "material_scope": "modified_MMT_polymer_composite",
+      "source_priority_and_verification": "ScienceDirect SPT;2025publicuniversity2provisional,officialmajorpartitionnotauthenticated;notJCRorbrand. Experimentcredibility/admission independentlychecked.",
+      "development_contact": "PriorN4 metadata/entry/admissionplanningonly; no outcomes/parameters usedfor methodselection; currentmethodfreeze before extraction; boundedsourceclosure.",
+      "target_only_error_min_pp": null,
+      "target_only_error_max_pp": null,
+      "observed_effect": "target measured; no early prediction adopted"
+    },
+    "source_files": [
+      "working/research_batches/frozen_R2_independent_confirmation01_work/protocol/cohort_frozen.json",
+      "working/research_batches/frozen_R2_independent_confirmation01_work/data/native_observations.json",
+      "working/research_batches/frozen_R2_independent_confirmation01_work/results/prefix_predictions_scores.json",
+      "working/research_batches/frozen_R2_independent_confirmation01_work/results/curve_results.json"
+    ],
+    "role": "Illustration specified by handoff, no replacement or newly selected stop",
+    "plot_semantics": "Observed taskpoints to real120box; dashed forecasts are SAVED target predictions plotted at prefix-end clock, not observations or fitted response paths. Laterpublicationpoints omitted from this120taskplot."
+  }
+]
